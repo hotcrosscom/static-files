@@ -1,0 +1,46 @@
+[{
+  "ticker": "frontier-token",
+  "symbol": "FRONT",
+  "name": "Frontier Token",
+  "ethBridgeAddress": "0x164D636dd46DA96468357B1c351983Cc9C1f3e15",
+  "bscBridgeAddress": "0x0d07557f6cC813e2537D0137a00829e9E2518072",
+  "erc20": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+  "bep20": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+  "decimals": 18
+}, {
+  "ticker": "gourmetgalaxy",
+  "symbol": "GUM",
+  "name": "GourmetGalaxy",
+  "ethBridgeAddress": "0x73035C91eb073CF0e34b781aeA8e5a5F6c313F26",
+  "bscBridgeAddress": "0x6dE762A3D6B1C15278D2d948b39E1BA008097528",
+  "erc20": "0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
+  "bep20": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+  "decimals": 18
+}, {
+  "ticker": "lendefi",
+  "symbol": "LDFI",
+  "name": "Lendefi Token",
+  "ethBridgeAddress": "0x688C9c39F5ccEF00f9d75612bA1E49f020c59EAd",
+  "bscBridgeAddress": "0xB9bE0B63025F2bF58Cf993Ef43dA112523f62202",
+  "erc20": "0x5479d565E549f3ECdBDe4aB836d02D86e0D6A8C7",
+  "bep20": "0xAe1119B918f971F232FED504D48604D5FeF7277F",
+  "decimals": 18
+}, {
+  "ticker": "oin-finance",
+  "symbol": "OIN",
+  "name": "oinfinance",
+  "ethBridgeAddress": "0x13BFedF45E288dE167328b11E82d92D740248B8f",
+  "bscBridgeAddress": "0xC1Fe8a276bA04B25aD4E10783d7796De08AD8ED3",
+  "erc20": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+  "bep20": "0x658E64FFcF40D240A43D52CA9342140316Ae44fA",
+  "decimals": 8
+}, {
+  "ticker": "kambria-yield-tuning-engine",
+  "symbol": "KYTE",
+  "name": "Kambria Yield Tuning Engine (KYTE)",
+  "ethBridgeAddress": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
+  "bscBridgeAddress": "0x62F2B1aDf7a8AdE0B8afAFdCA6aCA602fE95eE87",
+  "erc20": "0xa053c1b7013e77Fe0a873Ce0cA2bd5d0B7414C41",
+  "bep20": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
+  "decimals": 18
+}]
