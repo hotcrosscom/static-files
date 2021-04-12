@@ -1,0 +1,145 @@
+[
+  {
+    "address": "0x00E1c77d6A3c7Eb85DE5Ff259B1F96f3812Db315",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "completedAPY": {
+      "0": "126.36",
+      "1": "58.42",
+      "2": "65.57",
+      "3": "608.07"
+    },
+    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
+    "description": "Hot Cross is a suite of multi-chain tools that enable teams and retail users to take advantage of blockchain interoperability.",
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
+    "website": "http://www.hotcross.com/",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "facebook": {
+        "label": "Facebook",
+        "url":"https://www.facebook.com/"
+      },
+      "medium": {
+        "label": "Medium",
+        "url":"https://medium.com/"
+      },
+      "pancakeSwap": {
+        "label": "Pancake Swap",
+        "url":"https://pancakeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url":"https://twitter.com/"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url":"https://telegram.org/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url":"https://gr.linkedin.com/"
+      }
+    }
+  },
+  {
+    "address": "0x132C941E1E15D3a819931Bdba9f4012b2b611bCc",
+    "name": "BUSD",
+    "decimals": 18,
+    "completedAPY": {
+      "0": "966.36",
+      "1": "668.47",
+      "2": "6068.47"
+    },
+    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
+    "website": "http://www.hotcross.com/",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "facebook": {
+        "label": "Facebook",
+        "url":"https://www.facebook.com/"
+      },
+      "medium": {
+        "label": "Medium",
+        "url":"https://medium.com/"
+      },
+      "pancakeSwap": {
+        "label": "Pancake Swap",
+        "url":"https://pancakeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url":"https://twitter.com/"
+      }
+    }
+  },
+  {
+    "address": "0x70ea527cCD1907B39a4661784aF7793c8924c570",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "completedAPY": {
+      "0": "456.36",
+      "1": "70068.47"
+    },
+    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
+    "description": "Hot Cross is a suite of multi-chain tools that enable teams and retail users to take advantage of blockchain interoperability.",
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
+    "website": "http://www.hotcross.com/",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "facebook": {
+        "label": "Facebook",
+        "url":"https://www.facebook.com/"
+      },
+      "pancakeSwap": {
+        "label": "Pancake Swap",
+        "url":"https://pancakeswap.finance/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url":"https://gr.linkedin.com/"
+      }
+    }
+  },
+  {
+    "address": "0x5A5E0E57996296235bEB446ba8533962D888866D",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "completedAPY": {
+      "0": "456.36",
+      "1": "70068.47"
+    },
+    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
+    "description": "Hot Cross is a suite of multi-chain tools that enable teams and retail users to take advantage of blockchain interoperability.",
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
+    "website": "http://www.hotcross.com/",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "facebook": {
+        "label": "Facebook",
+        "url":"https://www.facebook.com/"
+      },
+      "pancakeSwap": {
+        "label": "Pancake Swap",
+        "url":"https://pancakeswap.finance/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url":"https://gr.linkedin.com/"
+      }
+    }
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "0x8FD04009bcb9DE9aaf6756039571EdF89262E625": {
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
+    "name": "Cross",
+    "symbol": "CROSS",
+    "decimals": 18,
+    "description": "The reward token"
+  },
+  "0xa928498275d502da7B91ee4FaEfF4b512DE30068": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
+    "name": "Binance coin",
+    "decimals": 18,
+    "symbol": "BNB",
+    "description": "Staking token"
+  },
+  "0xC38c93d3269c89047b27f09cB00085210924F5fC": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
+    "name": "Binance USD",
+    "decimals": 18,
+    "symbol": "BUSD",
+    "description": "Staking token"
+  },
+  "0xFB24a79A143aD2C74A0d79D72e3469c97BE44eDd": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e/logo.png?raw=true",
+    "name": "Reef",
+    "decimals": 18,
+    "symbol": "REEF",
+    "description": "Staking token"
+  },
+  "0x5634902B8e317129e82610330111369cD2CF766E": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png?raw=true",
+    "name": "Venus",
+    "decimals": 18,
+    "symbol": "XVS",
+    "description": "Staking token"
+  },
+  "0x06dCd3C237F24d06Df30Dafc503d5c2127851755": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2/logo.png?raw=true",
+    "name": "DODO",
+    "decimals": 18,
+    "symbol": "DODO",
+    "description": "Staking token"
+  },
+  "0x5a7b5798A5a91Bd965db518DB48e8745557DE280": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png?raw=true",
+    "name": "Swipe",
+    "decimals": 18,
+    "symbol": "SXP",
+    "description": "Staking token"
+  },
+  "0xE4E367a41b96017565f7e8C9d7958c54Eed2Fcc3": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x762539b45A1dCcE3D36d080F74d1AED37844b878/logo.png?raw=true",
+    "name": "Linear",
+    "decimals": 18,
+    "symbol": "LINA",
+    "description": "Staking token"
+  },
+  "0x9CbCF803f97ec31F3e14E3D62312fa041C6Ed69D": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7/logo.png?raw=true",
+    "name": "Vai",
+    "decimals": 18,
+    "symbol": "VAI",
+    "description": "Staking token"
+  },
+  "0x2cF4Fc5874157CCaF6AE8ab00FE418a1003465E9": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png?raw=true",
+    "name": "PancakeSwap",
+    "decimals": 18,
+    "symbol": "CAKE",
+    "description": "Staking token"
+  },
+  "0x24e5E59739A74Cc68789858A05Dc5786c853c902": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png?raw=true",
+    "name": "Frontier",
+    "decimals": 18,
+    "symbol": "FRONT",
+    "description": "Staking token"
+  },
+  "0xA4A8Dd9ebfF26C77829DFA4B82f7F2861c9339A2": {
+    "name": "CAKE-BNB Pair",
+    "symbol": "CAKE-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "CAKE",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2cF4Fc5874157CCaF6AE8ab00FE418a1003465E9",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x2cF4Fc5874157CCaF6AE8ab00FE418a1003465E9/0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png?raw=true",
+      "address": "0x2cF4Fc5874157CCaF6AE8ab00FE418a1003465E9"
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
+      "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068"
+    },
+    "description": "Lp token"
+  },
+  "0x522d4F721431E4e969A97d6ceDA522942F7cbC54": {
+    "name": "CROSS-BNB Pair",
+    "symbol": "CROSS-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "CROSS",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x8FD04009bcb9DE9aaf6756039571EdF89262E625/0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+    "tokenA": {
+      "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
+      "address": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+      "symbol": "CROSS"
+
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
+      "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+      "symbol": "BNB"
+    },
+    "description": "Lp token"
+  },
+  "0x253b72D76E143458E54f921be3FEDf3E3ace7abb": {
+    "name": "BNB-BUSD Pair",
+    "symbol": "BNB-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BUSD",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xC38c93d3269c89047b27f09cB00085210924F5fC",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0xC38c93d3269c89047b27f09cB00085210924F5fC/0xC38c93d3269c89047b27f09cB00085210924F5fC",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
+      "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+      "symbol": "BNB"
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
+      "address": "0xC38c93d3269c89047b27f09cB00085210924F5fC",
+      "symbol": "BUSD"
+    },
+    "description": "Lp token"
+  },
+  "0xa7c9DB7d933a8A922309223ff02dfb0d106EEC13": {
+    "name": "FRONT-BNB Pair",
+    "symbol": "FRONT-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "FRONT",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x24e5E59739A74Cc68789858A05Dc5786c853c902",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x24e5E59739A74Cc68789858A05Dc5786c853c902/0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png?raw=true",
+      "address": "0x24e5E59739A74Cc68789858A05Dc5786c853c902",
+      "symbol": "FRONT"
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
+      "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+      "symbol": "BNB"
+    },
+    "description": "Lp token"
+  }
+}
