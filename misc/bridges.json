@@ -45,7 +45,7 @@
   "decimals": 18
 }, {
   "ticker": "unmarshal",
-  "symbol": "marsh",
+  "symbol": "MARSH",
   "name": "Unmarshal",
   "ethBridgeAddress": "0xEF38f0CDFe4df26c0dA27c9347b870CD4207A897",
   "bscBridgeAddress": "0x73F182613Cd91c93b96ccad7db2f4C4d04eEb1F1",
