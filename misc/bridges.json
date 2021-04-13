@@ -43,4 +43,13 @@
   "erc20": "0xa053c1b7013e77Fe0a873Ce0cA2bd5d0B7414C41",
   "bep20": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
   "decimals": 18
+}, {
+  "ticker": "unmarshal",
+  "symbol": "marsh",
+  "name": "Unmarshal",
+  "ethBridgeAddress": "0xEF38f0CDFe4df26c0dA27c9347b870CD4207A897",
+  "bscBridgeAddress": "0x73F182613Cd91c93b96ccad7db2f4C4d04eEb1F1",
+  "erc20": "0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
+  "bep20": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+  "decimals": 18
 }]
