@@ -1,144 +1,99 @@
 [
   {
-    "address": "0x00E1c77d6A3c7Eb85DE5Ff259B1F96f3812Db315",
+    "address": "0xE9E8278e22c679afE6bF0E7FceE045f26e1af278",
     "name": "HOT CROSS",
     "decimals": 18,
+    "priority": 99,
     "completedAPY": {
-      "0": "126.36",
-      "1": "58.42",
-      "2": "65.57",
-      "3": "608.07"
+      "0": "58058.1",
+      "1": "2990858.18",
+      "2": "555049.10",
+      "3": "0",
+      "4": "17520.65"
     },
-    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
-    "description": "Hot Cross is a suite of multi-chain tools that enable teams and retail users to take advantage of blockchain interoperability.",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
-    "website": "http://www.hotcross.com/",
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
     "links": {
       "website": {
         "label": "Website",
         "url": "http://www.hotcross.com/"
       },
-      "facebook": {
-        "label": "Facebook",
-        "url":"https://www.facebook.com/"
-      },
-      "medium": {
-        "label": "Medium",
-        "url":"https://medium.com/"
-      },
-      "pancakeSwap": {
-        "label": "Pancake Swap",
-        "url":"https://pancakeswap.finance/"
-      },
       "twitter": {
         "label": "Twitter",
-        "url":"https://twitter.com/"
+        "url": "https://twitter.com/hotcrosscom"
       },
       "telegram": {
         "label": "Telegram",
-        "url":"https://telegram.org/"
+        "url": "https://t.me/HotCross"
       },
-      "linkedIn": {
-        "label": "LinkedIn",
-        "url":"https://gr.linkedin.com/"
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
     }
   },
   {
-    "address": "0x132C941E1E15D3a819931Bdba9f4012b2b611bCc",
-    "name": "BUSD",
+    "address": "0x9Ad4DA3E047d33E56ac191068FC3F7D49E05bEe2",
+    "name": "HOT CROSS",
     "decimals": 18,
+    "priority": 100,
     "completedAPY": {
-      "0": "966.36",
-      "1": "668.47",
-      "2": "6068.47"
+      "0": "42048",
+      "1": "420480",
+      "2": "420480"
     },
-    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
-    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
-    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
-    "website": "http://www.hotcross.com/",
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
     "links": {
       "website": {
         "label": "Website",
         "url": "http://www.hotcross.com/"
-      },
-      "facebook": {
-        "label": "Facebook",
-        "url":"https://www.facebook.com/"
-      },
-      "medium": {
-        "label": "Medium",
-        "url":"https://medium.com/"
-      },
-      "pancakeSwap": {
-        "label": "Pancake Swap",
-        "url":"https://pancakeswap.finance/"
       },
       "twitter": {
         "label": "Twitter",
-        "url":"https://twitter.com/"
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
     }
   },
   {
-    "address": "0x70ea527cCD1907B39a4661784aF7793c8924c570",
-    "name": "HOT CROSS",
+    "address": "0x43ca4FC51df0007a39158C7C5A166b5D335D5C33",
+    "name": "CAKE",
     "decimals": 18,
+    "priority": 10,
     "completedAPY": {
-      "0": "456.36",
-      "1": "70068.47"
+      "0": "42048",
+      "1": "420480",
+      "2": "420480"
     },
-    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
-    "description": "Hot Cross is a suite of multi-chain tools that enable teams and retail users to take advantage of blockchain interoperability.",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
-    "website": "http://www.hotcross.com/",
+    "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
+    "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png?raw=true",
     "links": {
       "website": {
         "label": "Website",
-        "url": "http://www.hotcross.com/"
+        "url": "https://pancakeswap.finance/"
       },
-      "facebook": {
-        "label": "Facebook",
-        "url":"https://www.facebook.com/"
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PancakeSwap"
       },
-      "pancakeSwap": {
-        "label": "Pancake Swap",
-        "url":"https://pancakeswap.finance/"
-      },
-      "linkedIn": {
-        "label": "LinkedIn",
-        "url":"https://gr.linkedin.com/"
-      }
-    }
-  },
-  {
-    "address": "0x5A5E0E57996296235bEB446ba8533962D888866D",
-    "name": "HOT CROSS",
-    "decimals": 18,
-    "completedAPY": {
-      "0": "456.36",
-      "1": "70068.47"
-    },
-    "subtitle": "An open, accessible, capital-efficient decentralized exchange platform",
-    "description": "Hot Cross is a suite of multi-chain tools that enable teams and retail users to take advantage of blockchain interoperability.",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
-    "website": "http://www.hotcross.com/",
-    "links": {
-      "website": {
-        "label": "Website",
-        "url": "http://www.hotcross.com/"
-      },
-      "facebook": {
-        "label": "Facebook",
-        "url":"https://www.facebook.com/"
+      "telegram": {
+        "label": "Telegram",
+        "url": " https://t.me/PancakeSwap"
       },
       "pancakeSwap": {
-        "label": "Pancake Swap",
-        "url":"https://pancakeswap.finance/"
-      },
-      "linkedIn": {
-        "label": "LinkedIn",
-        "url":"https://gr.linkedin.com/"
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
       }
     }
   }
