@@ -83,6 +83,12 @@
     "decimals": 18,
     "symbol": "USDC"
   },
+  "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png",
+    "name": "Gourmet Galaxy",
+    "decimals": 18,
+    "symbol": "GUM"
+  },
   "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915": {
     "name": "HOTCROSS-BNB Pair",
     "symbol": "HOTCROSS-BNB",
