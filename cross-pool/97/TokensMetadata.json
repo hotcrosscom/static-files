@@ -1,8 +1,8 @@
 {
   "0x8FD04009bcb9DE9aaf6756039571EdF89262E625": {
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
-    "name": "Cross",
-    "symbol": "CROSS",
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+    "name": "Hot Cross",
+    "symbol": "HOTCROSS",
     "decimals": 18,
     "description": "The reward token"
   },
@@ -76,6 +76,13 @@
     "symbol": "FRONT",
     "description": "Staking token"
   },
+  "0xeB6ac135B99fF262121bCBA3146A5212da497Cbc": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png?raw=true",
+    "name": "USD Coin",
+    "decimals": 18,
+    "symbol": "USDC",
+    "description": "Staking token"
+  },
   "0xA4A8Dd9ebfF26C77829DFA4B82f7F2861c9339A2": {
     "name": "CAKE-BNB Pair",
     "symbol": "CAKE-BNB",
@@ -95,17 +102,17 @@
     "description": "Lp token"
   },
   "0x522d4F721431E4e969A97d6ceDA522942F7cbC54": {
-    "name": "CROSS-BNB Pair",
-    "symbol": "CROSS-BNB",
+    "name": "HOTCROSS-BNB Pair",
+    "symbol": "HOTCROSS-BNB",
     "decimals": 18,
     "type": "lp",
-    "buyTokenSymbol": "CROSS",
+    "buyTokenSymbol": "HOTCROSS",
     "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
     "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x8FD04009bcb9DE9aaf6756039571EdF89262E625/0xa928498275d502da7B91ee4FaEfF4b512DE30068",
     "tokenA": {
-      "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/cross.png",
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
       "address": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
-      "symbol": "CROSS"
+      "symbol": "HOTCROSS"
 
     },
     "tokenB": {
@@ -152,6 +159,26 @@
       "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
       "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068",
       "symbol": "BNB"
+    },
+    "description": "Lp token"
+  },
+  "0x975A9e6327c19d34D9DF1b3764dD1d0Ab6CED570": {
+    "name": "USDT-BUSD Pair",
+    "symbol": "USDT-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "USDT",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0xA54Ac06183A695df31d4533D238071943E05E03e/0xC38c93d3269c89047b27f09cB00085210924F5fC",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png?raw=true",
+      "address": "0xA54Ac06183A695df31d4533D238071943E05E03e",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
+      "address": "0xC38c93d3269c89047b27f09cB00085210924F5fC",
+      "symbol": "BUSD"
     },
     "description": "Lp token"
   }

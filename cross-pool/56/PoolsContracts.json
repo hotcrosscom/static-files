@@ -1,15 +1,13 @@
 [
   {
-    "address": "0xE9E8278e22c679afE6bF0E7FceE045f26e1af278",
+    "address": "",
     "name": "HOT CROSS",
     "decimals": 18,
     "priority": 99,
     "completedAPY": {
-      "0": "58058.1",
-      "1": "2990858.18",
-      "2": "555049.10",
-      "3": "0",
-      "4": "17520.65"
+      "0": "0",
+      "1": "0",
+      "2": "0"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -34,14 +32,15 @@
     }
   },
   {
-    "address": "0x9Ad4DA3E047d33E56ac191068FC3F7D49E05bEe2",
+    "address": "",
     "name": "HOT CROSS",
     "decimals": 18,
     "priority": 100,
     "completedAPY": {
-      "0": "42048",
-      "1": "420480",
-      "2": "420480"
+      "0": "0",
+      "1": "0",
+      "2": "0",
+      "3": "0"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -66,14 +65,14 @@
     }
   },
   {
-    "address": "0x43ca4FC51df0007a39158C7C5A166b5D335D5C33",
+    "address": "",
     "name": "CAKE",
     "decimals": 18,
     "priority": 10,
     "completedAPY": {
-      "0": "42048",
-      "1": "420480",
-      "2": "420480"
+      "0": "0",
+      "1": "0",
+      "2": "0"
     },
     "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
     "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
