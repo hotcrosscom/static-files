@@ -83,6 +83,12 @@
     "symbol": "USDC",
     "description": "Staking token"
   },
+  "0xB75801a7603d4a86e8e465312Fe6b3a6Cd745b8B": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png",
+    "name": "Gourmet Galaxy",
+    "decimals": 18,
+    "symbol": "GUM"
+  },
   "0xA4A8Dd9ebfF26C77829DFA4B82f7F2861c9339A2": {
     "name": "CAKE-BNB Pair",
     "symbol": "CAKE-BNB",
