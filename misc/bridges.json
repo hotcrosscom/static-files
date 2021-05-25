@@ -1,4 +1,13 @@
 [{
+  "ticker": "hot-cross",
+  "symbol": "HOTCROSS",
+  "name": "Hot Cross",
+  "ethBridgeAddress": "0xD99a9739Cf8b0Bf66a7c99d9E14510C3146358C6",
+  "bscBridgeAddress": "0xCb356E9Aa98335dc305C82b147461B02ff8E0767",
+  "erc20": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+  "bep20": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+  "decimals": 18
+}, {
   "ticker": "frontier-token",
   "symbol": "FRONT",
   "name": "Frontier Token",
