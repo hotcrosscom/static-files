@@ -5,6 +5,12 @@
     "ethereum": "0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41",
     "binance-smart-chain": "0x0995d8643645dd0cea60ab1acfa5ad2f642273d3"
   },
+  "hotcross": {
+    "ticker": "hot-cross",
+    "name": "Hot Cross",
+    "ethereum": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+    "binance-smart-chain": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
+  },
   "42": {
     "ticker": "42-coin",
     "name": "42-coin"
