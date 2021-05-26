@@ -1,6 +1,6 @@
 [
   {
-    "address": "0xE9E8278e22c679afE6bF0E7FceE045f26e1af278",
+    "address": "0xFD136368365897d00e21a6420f58ba6F6a3E6009",
     "name": "HOT CROSS",
     "decimals": 18,
     "priority": 99,
@@ -34,7 +34,7 @@
     }
   },
   {
-    "address": "0x9Ad4DA3E047d33E56ac191068FC3F7D49E05bEe2",
+    "address": "0xE40deF526e9B29aCaCe23B99CBD67AAD689b59E3",
     "name": "HOT CROSS",
     "decimals": 18,
     "priority": 100,
@@ -66,7 +66,7 @@
     }
   },
   {
-    "address": "0x43ca4FC51df0007a39158C7C5A166b5D335D5C33",
+    "address": "0xF3CC10FDc8fE33B55a98586F97b841E49da51795",
     "name": "CAKE",
     "decimals": 18,
     "priority": 10,
@@ -89,11 +89,75 @@
       },
       "telegram": {
         "label": "Telegram",
-        "url": " https://t.me/PancakeSwap"
+        "url": "https://t.me/PancakeSwap"
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+      }
+    }
+  },
+  {
+    "address": "0xcfbcf6ea37713a5CF8F952EF7E91403abA1Bd92D",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 9,
+    "completedAPY": {
+      "0": "0",
+      "1": "0",
+      "2": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    }
+  },
+  {
+    "address": "0x0879a7122020b012e762f24De317fF6B6B75e418",
+    "name": "GUM",
+    "decimals": 18,
+    "priority": 8,
+    "completedAPY": {
+      "0": "0",
+      "1": "0",
+      "2": "0"
+    },
+    "subtitle": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
+    "description": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://gourmetgalaxy.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/gourmetprojects"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/gourmetgalaxy_chat"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
       }
     }
   }
