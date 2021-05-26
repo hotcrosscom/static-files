@@ -1,0 +1,61 @@
+[
+  {
+    "rewardToken": "0xc53708664b99df348dd27c3ac0759d2da9c40462",
+    "rewardVault": "0xea18AE2e0C1745425c469E399875B0c637B26607",
+    "crossPool": "0x5072639F5aE6b70eC1dE22A6F3EBeA5D49d76096",
+    "endDate": 1624802400,
+    "timeLockDate": 1624024800,
+    "startBlock": 7804483,
+    "endBlock": 8668483,
+    "timeLock": 8409283,
+    "blockDuration": 864000,
+    "timeLockDuration": 604800
+  },
+  {
+    "rewardToken": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+    "rewardVault": "0x736cbE250ea1f7C75daF333eD50a6400ce6f4Daa",
+    "crossPool": "0x8ee3F41DA7074E907940359De4b0a7bcA956173D",
+    "endDate": 1624802400,
+    "timeLockDate": 1623420000,
+    "startBlock": 7804483,
+    "endBlock": 8668483,
+    "timeLock": 8207683,
+    "blockDuration": 864000,
+    "timeLockDuration": 403200
+  },
+  {
+    "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "rewardVault": "0x8b5dc488F0312c85F9e23A8e829c88c7210A0F70",
+    "crossPool": "0x233DCd75146FaBe43ce27e5E953AddAe8294b4D3",
+    "endDate": 1624716000,
+    "timeLockDate": 1622124000,
+    "startBlock": 7775683,
+    "endBlock": 8639683,
+    "timeLock": 7775683,
+    "blockDuration": 864000,
+    "timeLockDuration": 0
+  },
+  {
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x2C37CE244941552C81C64A1a6f42E3cccDfAcCfD",
+    "crossPool": "0x881Bd00141078C2e7b4c35542Ec189EbFe4b95F7",
+    "endDate": 1624716000,
+    "timeLockDate": 1622124000,
+    "startBlock": 7775683,
+    "endBlock": 8639683,
+    "timeLock": 7775683,
+    "blockDuration": 864000,
+    "timeLockDuration": 0
+  },
+  {
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x9d24460372123FF62F4b047D2981DFC3FE85C9E5",
+    "crossPool": "0x2cC37dB18635e506C4Ba3749F1f71312BF37AdBe",
+    "endDate": 1624716000,
+    "timeLockDate": 1624543200,
+    "startBlock": 7775683,
+    "endBlock": 8639683,
+    "timeLock": 8582083,
+    "blockDuration": 864000,
+    "timeLockDuration": 806400
+  }

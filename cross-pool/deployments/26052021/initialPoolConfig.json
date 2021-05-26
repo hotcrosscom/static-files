@@ -3,10 +3,10 @@
 {
   "owner": {
     "privKey": "",
-    "address": ""
+    "address": "0x04F44ca397061999723B039E215cd92ED9F74eC7"
   },
   "totalReward": "1500000",
-  "startDate": ADD_TIME,
+  "startDate": 1622124000,
   "durationInDays": 30,
   "lockDurationInDays": 0,
   "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
@@ -14,7 +14,7 @@
 }
 ​
 { 
-  "crossPool": "",
+  "crossPool": "0x881Bd00141078C2e7b4c35542Ec189EbFe4b95F7",
   "pools": [
     {
       "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
@@ -41,10 +41,10 @@
 {
   "owner": {
     "privKey": "",
-    "address": ""
+    "address": "0x263B816d4527B01C4B9aadd3d3bCAf46e3d49C83"
   },
   "totalReward": "6000000",
-  "startDate": TIME,
+  "startDate": 1622124000,
   "durationInDays": 30,
   "lockDurationInDays": 28,
   "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
@@ -52,7 +52,7 @@
 }
 ​
 { 
-  "crossPool": "",
+  "crossPool": "0x2cC37dB18635e506C4Ba3749F1f71312BF37AdBe",
   "pools": [
     {
       "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
@@ -75,10 +75,10 @@
 {
   "owner": {
     "privKey": "",
-    "address": ""
+    "address": "0xb34e8161E46F8d18E7929B2E0797ffde9795B885"
   },
   "totalReward": "10000",
-  "startDate": TIME,
+  "startDate": 1622124000,
   "durationInDays": 30,
   "lockDurationInDays": 0,
   "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
@@ -86,7 +86,7 @@
 }
 ​
 {
-  "crossPool": "",
+  "crossPool": "0x233DCd75146FaBe43ce27e5E953AddAe8294b4D3",
   "pools": [
     {
       "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
@@ -109,10 +109,10 @@
 {
   "owner": {
     "privKey": "",
-    "address": ""
+    "address": "0x6043062244902BD2FDA68A7cdDEa9d80C7B83a56"
   },
   "totalReward": "300000",
-  "startDate": TIME,
+  "startDate": 1622210400,
   "durationInDays": 30,
   "lockDurationInDays": 14,
   "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
@@ -120,7 +120,7 @@
 }
 ​
 {
-  "crossPool": "",
+  "crossPool": "0x8ee3F41DA7074E907940359De4b0a7bcA956173D",
   "pools": [
     {
       "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
@@ -138,10 +138,10 @@
 {
   "owner": {
     "privKey": "",
-    "address": ""
+    "address": "0x9B2D519621BCD7208FcB9E5633f381BEB4eaaE89"
   },
   "totalReward": "300000",
-  "startDate": TIME,
+  "startDate": 1622210400,
   "durationInDays": 30,
   "lockDurationInDays": 21,
   "rewardToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
@@ -149,7 +149,7 @@
 }
 ​
 {
-  "crossPool": "",
+  "crossPool": "0x5072639F5aE6b70eC1dE22A6F3EBeA5D49d76096",
   "pools": [
     {
       "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
