@@ -1,9 +1,9 @@
 [
   {
-    "address": "",
+    "address": "0x2cC37dB18635e506C4Ba3749F1f71312BF37AdBe",
     "name": "HOT CROSS",
     "decimals": 18,
-    "priority": 99,
+    "priority": 12,
     "completedAPY": {
       "0": "0",
       "1": "0",
@@ -32,10 +32,10 @@
     }
   },
   {
-    "address": "",
+    "address": "0x881Bd00141078C2e7b4c35542Ec189EbFe4b95F7",
     "name": "HOT CROSS",
     "decimals": 18,
-    "priority": 100,
+    "priority": 11,
     "completedAPY": {
       "0": "0",
       "1": "0",
@@ -65,7 +65,7 @@
     }
   },
   {
-    "address": "",
+    "address": "0x233DCd75146FaBe43ce27e5E953AddAe8294b4D3",
     "name": "CAKE",
     "decimals": 18,
     "priority": 10,
@@ -97,7 +97,7 @@
     }
   },
   {
-    "address": "",
+    "address": "0x8ee3F41DA7074E907940359De4b0a7bcA956173D",
     "name": "FRONT",
     "decimals": 18,
     "priority": 9,
@@ -129,7 +129,7 @@
     }
   },
   {
-    "address": "",
+    "address": "0x5072639F5aE6b70eC1dE22A6F3EBeA5D49d76096",
     "name": "GUM",
     "decimals": 18,
     "priority": 8,
