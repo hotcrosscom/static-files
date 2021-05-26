@@ -6,22 +6,22 @@
     "decimals": 18
   },
   "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
-    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/info/logo.png",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
     "name": "Binance coin",
     "decimals": 18,
     "symbol": "BNB"
   },
   "BNB": {
-    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/info/logo.png",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
     "name": "Binance coin",
     "decimals": 18,
     "symbol": "BNB"
   },
   "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
-    "name": "Wrapped BNB",
+    "name": "BNB",
     "decimals": 18,
-    "symbol": "WBNB"
+    "symbol": "BNB"
   },
   "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
@@ -103,7 +103,7 @@
       "symbol": "HOTCROSS"
     },
     "tokenB": {
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/info/logo.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "BNB",
       "symbol": "BNB"
     }
@@ -122,7 +122,7 @@
       "symbol": "CAKE"
     },
     "tokenB": {
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/info/logo.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "BNB"
     }
@@ -141,7 +141,7 @@
       "symbol": "BUSD"
     },
     "tokenB": {
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/info/logo.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "BNB"
     }
@@ -160,7 +160,7 @@
       "symbol": "FRONT"
     },
     "tokenB": {
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/info/logo.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "BNB"
     }
