@@ -1,0 +1,163 @@
+// $HOTCROSS No Delay
+​
+{
+  "owner": {
+    "privKey": "",
+    "address": ""
+  },
+  "totalReward": "1500000",
+  "startDate": ADD_TIME,
+  "durationInDays": 30,
+  "lockDurationInDays": 0,
+  "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+  "rewardTokenDecimals": "18"
+}
+​
+{ 
+  "crossPool": "",
+  "pools": [
+    {
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "share": 75
+    },
+    {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "share": 17.5
+    },
+    {
+      "address": "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd",
+      "share": 5
+    },
+    {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "share": 2.5
+    }
+  ]
+}
+​
+​
+// $HOTCROSS Delay 28D
+​
+{
+  "owner": {
+    "privKey": "",
+    "address": ""
+  },
+  "totalReward": "6000000",
+  "startDate": TIME,
+  "durationInDays": 30,
+  "lockDurationInDays": 28,
+  "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+  "rewardTokenDecimals": "18"
+}
+​
+{ 
+  "crossPool": "",
+  "pools": [
+    {
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "share": 45
+    },
+    {
+      "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+      "share": 45
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "share": 10
+    }
+  ]
+}
+​
+​
+// CAKE
+​
+{
+  "owner": {
+    "privKey": "",
+    "address": ""
+  },
+  "totalReward": "10000",
+  "startDate": TIME,
+  "durationInDays": 30,
+  "lockDurationInDays": 0,
+  "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+  "rewardTokenDecimals": "18"
+}
+​
+{
+  "crossPool": "",
+  "pools": [
+    {
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "share": 80
+    },
+    {
+      "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+      "share": 10
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "share": 10
+    }
+  ]
+}
+​
+​
+// FRONT 14D delay
+​
+{
+  "owner": {
+    "privKey": "",
+    "address": ""
+  },
+  "totalReward": "300000",
+  "startDate": TIME,
+  "durationInDays": 30,
+  "lockDurationInDays": 14,
+  "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+  "rewardTokenDecimals": "18"
+}
+​
+{
+  "crossPool": "",
+  "pools": [
+    {
+      "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "share": 70
+    },
+    {
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "share": 30
+    }
+  ]
+}
+​
+// GUM 21D delay
+​
+{
+  "owner": {
+    "privKey": "",
+    "address": ""
+  },
+  "totalReward": "300000",
+  "startDate": TIME,
+  "durationInDays": 30,
+  "lockDurationInDays": 21,
+  "rewardToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+  "rewardTokenDecimals": "18"
+}
+​
+{
+  "crossPool": "",
+  "pools": [
+    {
+      "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+      "share": 70
+    },
+    {
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "share": 30
+    }
+  ]
+}
