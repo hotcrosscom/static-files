@@ -161,3 +161,34 @@
     }
   ]
 }
+
+
+​
+// MARSH 14D delay
+​
+{
+  "owner": {
+    "privKey": "",
+    "address": ""
+  },
+  "totalReward": "167000",
+  "startDate": 1622460600,
+  "durationInDays": 30,
+  "lockDurationInDays": 14,
+  "rewardToken": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+  "rewardTokenDecimals": "18"
+}
+​
+{
+  "crossPool": "0xe59Db745A8fDf477aecF788cf140c119995b8715",
+  "pools": [
+    {
+      "address": "0x222f93187f15f354d41ff6a7703ef7e18cdd5103",
+      "share": 70
+    },
+    {
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "share": 30
+    }
+  ]
+}
