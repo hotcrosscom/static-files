@@ -89,6 +89,31 @@
     "decimals": 18,
     "symbol": "GUM"
   },
+  "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "name": "Unmarshal",
+    "decimals": 18,
+    "symbol": "MARSH"
+  },
+  "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
+    "name": "MARSH-BNB Pair",
+    "symbol": "MARSH-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "MARSH",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/BNB/0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+      "address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+      "symbol": "MARSH"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "BNB",
+      "symbol": "BNB"
+    }
+  },
   "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915": {
     "name": "HOTCROSS-BNB Pair",
     "symbol": "HOTCROSS-BNB",
