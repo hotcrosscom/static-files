@@ -16,5 +16,8 @@
   },
   "0x2354ef4DF11afacb85a5C7f98B624072ECcddbB1": {
     "name": "USDC_BUSD"
+  },
+  "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
+    "name": "MARSH_BNB"
   }
 }
