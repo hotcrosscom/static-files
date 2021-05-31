@@ -129,7 +129,7 @@
     }
   },
   {
-    "address": "0x5072639F5aE6b70eC1dE22A6F3EBeA5D49d76096",
+    "address": "0x5072639f5ae6b70ec1de22a6f3ebea5d49d76096",
     "name": "GUM",
     "decimals": 18,
     "priority": 8,
@@ -140,7 +140,7 @@
     },
     "subtitle": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
     "description": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
-    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png?raw=true",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
     "links": {
       "website": {
         "label": "Website",
@@ -172,7 +172,43 @@
     },
     "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
     "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
-    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png?raw=true",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://unmarshal.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": " https://twitter.com/unmarshal"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://blog.unmarshal.io/"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/Unmarshal_Chat"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/add/BNB/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+      }
+    }
+  },
+  {
+    "address": "0x51384Ff283e28e616B11CB80eCd3aFbcba3995D4",
+    "name": "MARSH",
+    "decimals": 18,
+    "priority": 6,
+    "completedAPY": {
+      "0": "0",
+      "1": "0",
+      "2": "0"
+    },
+    "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
+    "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
     "links": {
       "website": {
         "label": "Website",
