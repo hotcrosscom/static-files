@@ -133,7 +133,7 @@
       "symbol": "BNB"
     }
   },
-  "0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6": {
+  "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0": {
     "name": "CAKE-BNB Pair",
     "symbol": "CAKE-BNB",
     "decimals": 18,
@@ -152,7 +152,7 @@
       "symbol": "BNB"
     }
   },
-  "0x1B96B92314C44b159149f7E0303511fB2Fc4774f": {
+  "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16": {
     "name": "BUSD-BNB Pair",
     "symbol": "BUSD-BNB",
     "decimals": 18,
@@ -190,8 +190,27 @@
       "symbol": "BNB"
     }
   },
-  "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd": {
+  "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00": {
     "name": "USDT-BUSD Pair",
+    "symbol": "USDT-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BUSD",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "addLiquidityLink": "https://v1exchange.pancakeswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x55d398326f99059ff775485246999027b3197955",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD"
+    }
+  },
+  "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd": {
+    "name": "USDT-BUSD V1 Pair",
     "symbol": "USDT-BUSD",
     "decimals": 18,
     "type": "lp",
