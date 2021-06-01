@@ -96,7 +96,7 @@
     "symbol": "MARSH"
   },
   "0x44754455564474a89358b2c2265883df993b12f0": {
-    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
     "name": "Zeroswap",
     "decimals": 18,
     "symbol": "ZEE"
