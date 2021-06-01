@@ -180,7 +180,7 @@
       },
       "twitter": {
         "label": "Twitter",
-        "url": " https://twitter.com/unmarshal"
+        "url": "https://twitter.com/unmarshal"
       },
       "medium": {
         "label": "Medium",
@@ -192,7 +192,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/add/BNB/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
     }
   },
@@ -216,7 +216,7 @@
       },
       "twitter": {
         "label": "Twitter",
-        "url": " https://twitter.com/unmarshal"
+        "url": "https://twitter.com/unmarshal"
       },
       "medium": {
         "label": "Medium",
@@ -228,7 +228,42 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/add/BNB/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+      }
+    }
+  },
+  {
+    "address": "0x4f0fa2b047a913940c61bae5670cc4fe4640daee",
+    "name": "ZEE",
+    "decimals": 18,
+    "priority": 5,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees.",
+    "description": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees. One of the core utilities of ZEE is to reduce friction in fundraising using digital assets; to solve that, we built a Dex Offering Platform Called — ZeeDO",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://zeroswap.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ZeroSwapLabs"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://medium.com/zeroswaplabs"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/zeroswap"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x44754455564474a89358b2c2265883df993b12f0"
       }
     }
   }
