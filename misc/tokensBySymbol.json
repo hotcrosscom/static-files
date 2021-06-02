@@ -27817,7 +27817,8 @@
   "zee": {
     "ticker": "zeroswap",
     "name": "ZeroSwap",
-    "ethereum": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5"
+    "ethereum": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+    "binance-smart-chain": "0x44754455564474a89358b2c2265883df993b12f0"
   },
   "zut": {
     "ticker": "zero-utility-token",
