@@ -101,6 +101,12 @@
     "decimals": 18,
     "symbol": "ZEE"
   },
+  "0x55d398326f99059fF775485246999027B3197955": {
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
+    "name": "Binance-Peg BUSD-T",
+    "decimals": 18,
+    "symbol": "USDT"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
