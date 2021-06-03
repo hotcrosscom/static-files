@@ -209,7 +209,7 @@
     "type": "lp",
     "buyTokenSymbol": "BUSD",
     "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
-    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x55d398326f99059ff775485246999027b3197955",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x55d398326f99059ff775485246999027b3197955/0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
       "address": "0x55d398326f99059ff775485246999027b3197955",
@@ -228,7 +228,7 @@
     "type": "lp",
     "buyTokenSymbol": "BUSD",
     "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
-    "addLiquidityLink": "https://v1exchange.pancakeswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x55d398326f99059ff775485246999027b3197955",
+    "addLiquidityLink": "https://v1exchange.pancakeswap.finance/#/add/0x55d398326f99059ff775485246999027b3197955/0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
       "address": "0x55d398326f99059ff775485246999027b3197955",
