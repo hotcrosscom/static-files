@@ -217,7 +217,7 @@
   },
   "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd": {
     "name": "USDT-BUSD V1 Pair",
-    "symbol": "USDT-BUSD",
+    "symbol": "USDT-BUSD V1",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BUSD",
