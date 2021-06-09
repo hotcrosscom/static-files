@@ -4,6 +4,7 @@
     "name": "HOT CROSS",
     "decimals": 18,
     "priority": 99,
+    "featured": true,
     "completedAPY": {
       "0": "58058.1",
       "1": "2990858.18",
@@ -36,6 +37,7 @@
   {
     "address": "0xE40deF526e9B29aCaCe23B99CBD67AAD689b59E3",
     "name": "HOT CROSS",
+    "featured": true,
     "decimals": 18,
     "priority": 100,
     "completedAPY": {
