@@ -101,6 +101,12 @@
     "decimals": 18,
     "symbol": "ZEE"
   },
+  "0x55d398326f99059fF775485246999027B3197955": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+    "name": "Binance-Peg BUSD-T",
+    "decimals": 18,
+    "symbol": "USDT"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
@@ -202,8 +208,8 @@
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BUSD",
-    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "addLiquidityLink": "https://v1exchange.pancakeswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x55d398326f99059ff775485246999027b3197955",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x55d398326f99059ff775485246999027b3197955/0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
       "address": "0x55d398326f99059ff775485246999027b3197955",
@@ -217,12 +223,12 @@
   },
   "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd": {
     "name": "USDT-BUSD V1 Pair",
-    "symbol": "USDT-BUSD",
+    "symbol": "USDT-BUSD V1",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BUSD",
-    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "addLiquidityLink": "https://v1exchange.pancakeswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x55d398326f99059ff775485246999027b3197955",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
+    "addLiquidityLink": "https://v1exchange.pancakeswap.finance/#/add/0x55d398326f99059ff775485246999027b3197955/0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
       "address": "0x55d398326f99059ff775485246999027b3197955",

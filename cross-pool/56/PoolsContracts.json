@@ -2,6 +2,7 @@
   {
     "address": "0x2cC37dB18635e506C4Ba3749F1f71312BF37AdBe",
     "name": "HOT CROSS",
+    "featured": true,
     "decimals": 18,
     "priority": 12,
     "completedAPY": {
@@ -34,6 +35,7 @@
   {
     "address": "0x881Bd00141078C2e7b4c35542Ec189EbFe4b95F7",
     "name": "HOT CROSS",
+    "featured": true,
     "decimals": 18,
     "priority": 11,
     "completedAPY": {
@@ -264,6 +266,31 @@
       "pancakeSwap": {
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x44754455564474a89358b2c2265883df993b12f0"
+      }
+    }
+  },
+  {
+    "address": "0x899f1CE302E9E400671C01c6eef24B0CC6C5081d",
+    "name": "BUSD",
+    "featured": true,
+    "decimals": 18,
+    "priority": 4,
+    "completedAPY": {
+      "0": "0",
+      "1": "0",
+      "2": "0"
+    },
+    "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.com/en/busd"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
     }
   }
