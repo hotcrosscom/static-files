@@ -22,5 +22,11 @@
   },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH_BNB"
+  },
+  "0x28Ea5894D4DBbE90bB58eE3BAB2869387d711c87": {
+    "name": "GUM_BNB"
+  },
+  "0x168349B5340d6022ECE6Ef908c0b0B14ff474007": {
+    "name": "GUM_BUSD"
   }
 }

@@ -258,5 +258,43 @@
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "symbol": "BUSD"
     }
+  },
+  "0x28Ea5894D4DBbE90bB58eE3BAB2869387d711c87": {
+    "name": "GUM-BNB Pair",
+    "symbol": "GUM-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "GUM",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/BNB/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png",
+      "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+      "symbol": "GUM"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "BNB"
+    }
+  },
+  "0x168349B5340d6022ECE6Ef908c0b0B14ff474007": {
+    "name": "GUM-BUSD Pair",
+    "symbol": "GUM-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "GUM",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png",
+      "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+      "symbol": "GUM"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD"
+    }
   }
 }
