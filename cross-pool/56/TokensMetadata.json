@@ -107,6 +107,12 @@
     "decimals": 18,
     "symbol": "USDT"
   },
+  "0xD85AD783cc94bd04196a13DC042A3054a9B52210": {
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/haka.png",
+    "name": "TribeOne",
+    "decimals": 18,
+    "symbol": "HAKA"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
