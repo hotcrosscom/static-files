@@ -360,5 +360,44 @@
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
       }
     }
+  },
+  {
+    "address": "0xFFB39a84AE3c0dBFaEB839E27F8550A27Cf06539",
+    "name": "HAKA",
+    "decimals": 18,
+    "priority": 90,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
+    "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/haka.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.tribeone.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/tribeonedefi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/tribeone"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://tribeone.medium.com/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/tribe1"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+      }
+    }
   }
 ]
