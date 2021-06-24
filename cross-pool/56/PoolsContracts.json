@@ -404,6 +404,7 @@
     "address": "0xFC7ae57C4523006f4bb483EC3c912Ef4A2be39E3",
     "name": "HAKA",
     "decimals": 18,
+    "hidden": true,
     "priority": 89,
     "completedAPY": {
       "0": "0",
