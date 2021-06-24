@@ -28070,5 +28070,10 @@
     "ticker": "zzz-finance-v2",
     "name": "zzz.finance v2",
     "ethereum": "0x93ed140172ff226dad1f7f3650489b8daa07ae7f"
+  },
+  "haka": {
+    "ticker": "tribeone",
+    "name": "TribeOne",
+    "ethereum": "0xd85ad783cc94bd04196a13dc042a3054a9b52210"
   }
 }
