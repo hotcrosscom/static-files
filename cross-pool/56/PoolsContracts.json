@@ -6,9 +6,9 @@
     "decimals": 18,
     "priority": 100,
     "completedAPY": {
-      "0": "0",
-      "1": "0",
-      "2": "0"
+      "0": "140.05",
+      "1": "185.11",
+      "2": "24.33"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -39,10 +39,10 @@
     "decimals": 18,
     "priority": 99,
     "completedAPY": {
-      "0": "0",
-      "1": "0",
-      "2": "0",
-      "3": "0"
+      "0": "117.78",
+      "1": "19.78",
+      "2": "28.63",
+      "3": "21.64"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -72,9 +72,9 @@
     "decimals": 18,
     "priority": 98,
     "completedAPY": {
-      "0": "0",
-      "1": "0",
-      "2": "0"
+      "0": "119.67",
+      "1": "17.46",
+      "2": "21.76"
     },
     "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
     "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
@@ -104,9 +104,8 @@
     "decimals": 18,
     "priority": 97,
     "completedAPY": {
-      "0": "0",
-      "1": "0",
-      "2": "0"
+      "0": "149.07",
+      "1": "142.77"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
