@@ -507,5 +507,34 @@
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     }
+  },
+  {
+    "address": "0xAdF39986aF8b1072a7762978231A5F3dAd7b30Be",
+    "name": "ETH",
+    "decimals": 18,
+    "featured": true,
+    "priority": 87,
+    "completedAPY": {
+      "0": "0",
+      "1": "0",
+      "2": "0"
+    },
+    "subtitle": "Ethereum is the community-run technology powering the cryptocurrency, ether (ETH) and thousands of decentralized applications.",
+    "description": "Ethereum is the community-run technology powering the cryptocurrency, ether (ETH) and thousands of decentralized applications.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://ethereum.org/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ethdotorg"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+      }
+    }
   }
 ]
