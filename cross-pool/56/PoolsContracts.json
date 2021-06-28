@@ -477,5 +477,36 @@
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     }
+  },
+  {
+    "address": "0x814D9965785d8b4Ca4db6e31e155FEaEAff8D63b",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 88,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    }
   }
 ]
