@@ -536,5 +536,40 @@
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
       }
     }
+  },
+  {
+    "address": "0x0df4B94444f13499ef34f7aECBb7f07f0e9821fA",
+    "name": "MARSH",
+    "decimals": 18,
+    "priority": 86,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
+    "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://unmarshal.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/unmarshal"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://blog.unmarshal.io/"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/Unmarshal_Chat"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+      }
+    }
   }
 ]
