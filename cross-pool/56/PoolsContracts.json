@@ -236,8 +236,8 @@
     "decimals": 18,
     "priority": 930,
     "completedAPY": {
-      "0": "0",
-      "1": "0"
+      "0": "102.78",
+      "1": "36.86"
     },
     "subtitle": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees.",
     "description": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees. One of the core utilities of ZEE is to reduce friction in fundraising using digital assets; to solve that, we built a Dex Offering Platform Called — ZeeDO",
