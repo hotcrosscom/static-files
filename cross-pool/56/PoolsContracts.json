@@ -234,7 +234,7 @@
     "address": "0x4f0fa2b047a913940C61bAE5670cC4Fe4640dAEE",
     "name": "ZEE",
     "decimals": 18,
-    "priority": 940,
+    "priority": 939,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -575,7 +575,7 @@
     "name": "BUSD",
     "featured": true,
     "decimals": 18,
-    "priority": 939,
+    "priority": 938,
     "completedAPY": {
       "0": "0",
       "1": "0"
