@@ -234,7 +234,7 @@
     "address": "0x4f0fa2b047a913940C61bAE5670cC4Fe4640dAEE",
     "name": "ZEE",
     "decimals": 18,
-    "priority": 939,
+    "priority": 930,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -270,7 +270,7 @@
     "name": "BUSD",
     "featured": true,
     "decimals": 18,
-    "priority": 910,
+    "priority": 880,
     "completedAPY": {
       "0": "0",
       "1": "0",
@@ -295,7 +295,7 @@
     "name": "WBNB",
     "featured": true,
     "decimals": 18,
-    "priority": 920,
+    "priority": 890,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -326,7 +326,7 @@
     "address": "0x7F450B954c7B151c48d4629EaB0Fe2bAEd2780f1",
     "name": "GUM",
     "decimals": 18,
-    "priority": 930,
+    "priority": 900,
     "featured": true,
     "completedAPY": {
       "0": "0",
@@ -361,7 +361,7 @@
     "address": "0xFFB39a84AE3c0dBFaEB839E27F8550A27Cf06539",
     "name": "HAKA",
     "decimals": 18,
-    "priority": 900,
+    "priority": 870,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -401,7 +401,7 @@
     "name": "HAKA",
     "decimals": 18,
     "hidden": true,
-    "priority": 890,
+    "priority": 860,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -440,7 +440,7 @@
     "address": "0x9C95999B4E42019658F10EA8DF40c5E9b78d981A",
     "name": "HAKA",
     "decimals": 18,
-    "priority": 890,
+    "priority": 850,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -479,7 +479,7 @@
     "address": "0x814D9965785d8b4Ca4db6e31e155FEaEAff8D63b",
     "name": "FRONT",
     "decimals": 18,
-    "priority": 880,
+    "priority": 840,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -511,7 +511,7 @@
     "name": "ETH",
     "decimals": 18,
     "featured": true,
-    "priority": 931,
+    "priority": 910,
     "completedAPY": {
       "0": "0",
       "1": "0",
@@ -575,7 +575,7 @@
     "name": "BUSD",
     "featured": true,
     "decimals": 18,
-    "priority": 938,
+    "priority": 920,
     "completedAPY": {
       "0": "0",
       "1": "0"
