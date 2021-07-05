@@ -593,5 +593,36 @@
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
     }
+  },
+  {
+    "address": "0x0389208349e01C99957F6cA2f37f07F4f5fC104c",
+    "name": "KYTE",
+    "decimals": 18,
+    "priority": 910,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "KYTE is Kambria's DeFi product. KYTE is focusing on offering the community the opportunity to earn incentives, stake and back projects on platform, and yield farm",
+    "description": "KYTE is Kambria's DeFi product. KYTE is focusing on offering the community the opportunity to earn incentives, stake and back projects on platform, and yield farm",
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/kyte.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://kambria.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/KambriaNetwork"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/kambriaofficial"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3"
+      }
+    }
   }
 ]

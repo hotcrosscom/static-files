@@ -119,6 +119,12 @@
     "decimals": 18,
     "symbol": "ETH"
   },
+  "0x0995d8643645dd0cea60ab1acfa5ad2f642273d3": {
+    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/kyte.png",
+    "name": "Kambria Yield Tuning Engine",
+    "decimals": 18,
+    "symbol": "KYTE"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
@@ -321,6 +327,25 @@
       "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/haka.png",
       "address": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
       "symbol": "HAKA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "BNB"
+    }
+  },
+  "0x4f2ee75371b31af8ffa7de05ac04ca670390410f": {
+    "name": "KYTE-BNB Pair",
+    "symbol": "KYTE-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "KYTE",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/BNB/0x0995d8643645dd0cea60ab1acfa5ad2f642273d3",
+    "tokenA": {
+      "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/kyte.png",
+      "address": "0x0995d8643645dd0cea60ab1acfa5ad2f642273d3",
+      "symbol": "KYTE"
     },
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
