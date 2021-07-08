@@ -125,6 +125,12 @@
     "decimals": 18,
     "symbol": "KYTE"
   },
+  "0xCD40F2670CF58720b694968698A5514e924F742d": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xCD40F2670CF58720b694968698A5514e924F742d/logo.png",
+    "name": "OddzToken",
+    "decimals": 18,
+    "symbol": "ODDZ"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
