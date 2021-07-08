@@ -599,7 +599,7 @@
     "address": "0x0389208349e01C99957F6cA2f37f07F4f5fC104c",
     "name": "KYTE",
     "decimals": 18,
-    "priority": 910,
+    "priority": 820,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -623,6 +623,37 @@
       "pancakeSwap": {
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3"
+      }
+    }
+  },
+  {
+    "address": "0xce24dBC8C07cD0e1EF27A29dd7aA83728c86C97a",
+    "name": "ODDZ",
+    "decimals": 18,
+    "priority": 830,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Oddz is a Multi- chain option trading platform that expedites the execution of call and put options contracts, Perpetual conditional trades, and futures.",
+    "description": "It employs the synergies of Ethereum, Binance Smart Chain, Elrond, Polygon and Polkadot to unleash the potential decentralized derivatives market. It focuses on building solutions that can propel the DeFi ecosystem by simplifying derivatives trading and enhancing the user experience.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xCD40F2670CF58720b694968698A5514e924F742d/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://oddz.fi/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/oddz_finance"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/oddz_finance"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
       }
     }
   }
