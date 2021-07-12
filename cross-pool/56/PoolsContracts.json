@@ -661,7 +661,7 @@
     "address": "0xe65317017B06e5E30e06724B16171c4d0DD225C6",
     "name": "BANANA",
     "decimals": 18,
-    "priority": 900,
+    "priority": 930,
     "featured": true,
     "completedAPY": {
       "0": "0"
