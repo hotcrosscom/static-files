@@ -296,7 +296,7 @@
     "name": "WBNB",
     "featured": true,
     "decimals": 18,
-    "priority": 890,
+    "priority": 1000,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -512,7 +512,7 @@
     "name": "ETH",
     "decimals": 18,
     "featured": true,
-    "priority": 910,
+    "priority": 920,
     "completedAPY": {
       "0": "0",
       "1": "0",
@@ -576,7 +576,7 @@
     "name": "BUSD",
     "featured": true,
     "decimals": 18,
-    "priority": 920,
+    "priority": 910,
     "completedAPY": {
       "0": "0",
       "1": "0"
@@ -654,6 +654,37 @@
       "pancakeSwap": {
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
+      }
+    }
+  },
+  {
+    "address": "0xe65317017B06e5E30e06724B16171c4d0DD225C6",
+    "name": "BANANA",
+    "decimals": 18,
+    "priority": 900,
+    "featured": true,
+    "completedAPY": {
+      "0": "0"
+    },
+    "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
+    "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://apeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ape_swap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/ape_swap"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
       }
     }
   }
