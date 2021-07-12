@@ -2818,8 +2818,8 @@
     "name": "Bamboo"
   },
   "banana": {
-    "ticker": "banana-finance",
-    "name": "Banana Finance",
+    "ticker": "apeswap-finance",
+    "name": "ApeSwap Finance",
     "ethereum": "0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298",
     "binance-smart-chain": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
   },
