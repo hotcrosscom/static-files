@@ -131,6 +131,13 @@
     "decimals": 18,
     "symbol": "ODDZ"
   },
+  "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "name": "ApeSwapFinance Banana",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+    "decimals": 18,
+    "symbol": "BANANA"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
