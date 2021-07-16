@@ -337,7 +337,7 @@
     "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210",
     "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/BNB/0xD85AD783cc94bd04196a13DC042A3054a9B52210",
     "tokenA": {
-      "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/haka.png",
+      "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/tribe_one.png",
       "address": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
       "symbol": "HAKA"
     },
