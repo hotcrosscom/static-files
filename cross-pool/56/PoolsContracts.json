@@ -687,5 +687,37 @@
         "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
       }
     }
+  },
+  {
+    "address": "0x7a4f36000820Bd8FceD106F9CE4ac3a03A4dA395",
+    "name": "WBNB",
+    "featured": true,
+    "decimals": 18,
+    "priority": 1010,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain.",
+    "description": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain. Wrapped BNB (WBNB) is a token on Binance Smart Chain where the price is pegged to BNB at a rate of 1 WBNB = 1 BNB. WBNB is used in many dApps on the Binance Smart Chain.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.org/en/smartChain"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/binancechain"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/BinanceDEXchange"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+      }
+    }
   }
 ]
