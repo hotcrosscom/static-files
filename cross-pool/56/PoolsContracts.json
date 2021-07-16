@@ -693,7 +693,7 @@
     "name": "WBNB",
     "featured": true,
     "decimals": 18,
-    "priority": 1000,
+    "priority": 1010,
     "completedAPY": {
       "0": "0",
       "1": "0"
