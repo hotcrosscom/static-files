@@ -5,7 +5,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 1000,
-    "completedAPY": {
+    "completedAPR": {
       "0": "140.05",
       "1": "185.11",
       "2": "24.33"
@@ -30,6 +30,34 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "6944444444444444444",
+      "startBlock": "7775683",
+      "endBlock": "8639683",
+      "timeLock": "8582083",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x9d24460372123FF62F4b047D2981DFC3FE85C9E5",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "5999999999999999999616000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "450",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+          "allocationPoints": "450",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "allocationPoints": "100",
+          "pid": 2
+        }
+      ]
     }
   },
   {
@@ -38,7 +66,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 990,
-    "completedAPY": {
+    "completedAPR": {
       "0": "117.78",
       "1": "19.78",
       "2": "28.63",
@@ -64,6 +92,39 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "1736111111111111111",
+      "startBlock": "7775683",
+      "endBlock": "8639683",
+      "timeLock": "7775683",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x2C37CE244941552C81C64A1a6f42E3cccDfAcCfD",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "1499999999999999999904000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "750",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "allocationPoints": "175",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd",
+          "allocationPoints": "50",
+          "pid": 2
+        },
+        {
+          "stakingToken": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+          "allocationPoints": "25",
+          "pid": 3
+        }
+      ]
     }
   },
   {
@@ -71,7 +132,7 @@
     "name": "CAKE",
     "decimals": 18,
     "priority": 980,
-    "completedAPY": {
+    "completedAPR": {
       "0": "119.67",
       "1": "17.46",
       "2": "21.76"
@@ -96,6 +157,34 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "11574074074074074",
+      "startBlock": "7775683",
+      "endBlock": "8639683",
+      "timeLock": "7775683",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x8b5dc488F0312c85F9e23A8e829c88c7210A0F70",
+      "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "farmingPeriod": 30,
+      "totalReward": "9999999999999999936000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "800",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "allocationPoints": "100",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "allocationPoints": "100",
+          "pid": 2
+        }
+      ]
     }
   },
   {
@@ -103,7 +192,7 @@
     "name": "FRONT",
     "decimals": 18,
     "priority": 970,
-    "completedAPY": {
+    "completedAPR": {
       "0": "149.07",
       "1": "142.77"
     },
@@ -127,6 +216,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222222222222222",
+      "startBlock": "7804483",
+      "endBlock": "8668483",
+      "timeLock": "8207683",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x736cbE250ea1f7C75daF333eD50a6400ce6f4Daa",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999808000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -134,7 +246,7 @@
     "name": "GUM",
     "decimals": 18,
     "priority": 960,
-    "completedAPY": {
+    "completedAPR": {
       "0": "290.43",
       "1": "128.41"
     },
@@ -158,6 +270,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222222222222222",
+      "startBlock": "7804483",
+      "endBlock": "8668483",
+      "timeLock": "8409283",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xea18AE2e0C1745425c469E399875B0c637B26607",
+      "rewardToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999808000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -165,7 +300,7 @@
     "name": "MARSH",
     "decimals": 18,
     "priority": 950,
-    "completedAPY": {
+    "completedAPR": {
       "0": "330.82",
       "1": "59.77"
     },
@@ -193,6 +328,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "193287260749144385",
+      "startBlock": "7887412",
+      "endBlock": "8751411",
+      "timeLock": "8290612",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xc00AEEC0633ED43fb9BFBb3DDb003595fC111478",
+      "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+      "farmingPeriod": 30,
+      "totalReward": "166999999999999999495615",
+      "stakingPools": [
+        {
+          "stakingToken": "0x222F93187f15F354D41Ff6a7703eF7e18cdD5103",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -200,7 +358,7 @@
     "name": "MARSH",
     "decimals": 18,
     "priority": 940,
-    "completedAPY": {
+    "completedAPR": {
       "0": "167.49",
       "1": "59.83"
     },
@@ -228,6 +386,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "153935185185185185",
+      "startBlock": "7887137",
+      "endBlock": "8751137",
+      "timeLock": "8290337",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x9b0A9b2C6E1a18b0f65635468fc9D39Bd44D3AFd",
+      "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+      "farmingPeriod": 30,
+      "totalReward": "132999999999999999840000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -235,13 +416,13 @@
     "name": "ZEE",
     "decimals": 18,
     "priority": 930,
-    "completedAPY": {
+    "completedAPR": {
       "0": "102.78",
       "1": "36.86"
     },
     "subtitle": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees.",
     "description": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees. One of the core utilities of ZEE is to reduce friction in fundraising using digital assets; to solve that, we built a Dex Offering Platform Called — ZeeDO",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
     "links": {
       "website": {
         "label": "Website",
@@ -263,6 +444,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x44754455564474a89358b2c2265883df993b12f0"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222222222222222",
+      "startBlock": "7947015",
+      "endBlock": "8811015",
+      "timeLock": "8753414",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x938aFBc0C38FeC3dFF43A9CCE483b0b58faD1e63",
+      "rewardToken": "0x44754455564474A89358B2C2265883DF993b12F0",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999808000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x44754455564474A89358B2C2265883DF993b12F0",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -271,7 +475,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 880,
-    "completedAPY": {
+    "completedAPR": {
       "0": "19.14",
       "1": "32.14",
       "2": "19.18",
@@ -289,6 +493,39 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "115740740740740740",
+      "startBlock": "7976196",
+      "endBlock": "8840196",
+      "timeLock": "8062596",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x7Cd0dd17071E09242C936217D0bfa30758436d61",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 30,
+      "totalReward": "99999999999999999360000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "250",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0x55d398326f99059fF775485246999027B3197955",
+          "allocationPoints": "125",
+          "pid": 2
+        },
+        {
+          "stakingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "allocationPoints": "125",
+          "pid": 3
+        }
+      ]
     }
   },
   {
@@ -297,9 +534,9 @@
     "featured": true,
     "decimals": 18,
     "priority": 1000,
-    "completedAPY": {
-      "0": "13.87",
-      "1": "63.69"
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
     },
     "subtitle": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain.",
     "description": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain. Wrapped BNB (WBNB) is a token on Binance Smart Chain where the price is pegged to BNB at a rate of 1 WBNB = 1 BNB. WBNB is used in many dApps on the Binance Smart Chain.",
@@ -321,6 +558,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "578703703703703",
+      "startBlock": "8346188",
+      "endBlock": "9210188",
+      "timeLock": "8346188",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x83873e78eD5e59c5eEC5BC26daf646E3cFd7E98B",
+      "rewardToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "farmingPeriod": 30,
+      "totalReward": "499999999999999392000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -329,7 +589,7 @@
     "decimals": 18,
     "priority": 900,
     "featured": true,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0",
       "2": "0",
@@ -356,6 +616,44 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "964506544948512711",
+      "startBlock": "8690867",
+      "endBlock": "11282866",
+      "timeLock": "8693746",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x8556A6f155cA86C3760d83c27a4022bff533d33b",
+      "rewardToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+      "farmingPeriod": 90,
+      "totalReward": "2499999999999999998399289",
+      "stakingPools": [
+        {
+          "stakingToken": "0x28Ea5894D4DBbE90bB58eE3BAB2869387d711c87",
+          "allocationPoints": "250",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x168349B5340d6022ECE6Ef908c0b0B14ff474007",
+          "allocationPoints": "200",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+          "allocationPoints": "150",
+          "pid": 2
+        },
+        {
+          "stakingToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+          "allocationPoints": "250",
+          "pid": 3
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "150",
+          "pid": 4
+        }
+      ]
     }
   },
   {
@@ -363,13 +661,13 @@
     "name": "HAKA",
     "decimals": 18,
     "priority": 870,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
     "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
     "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/tribe_one.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
     "links": {
       "website": {
         "label": "Website",
@@ -395,6 +693,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "173611111111111111",
+      "startBlock": "8551521",
+      "endBlock": "9415521",
+      "timeLock": "8753121",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x28F201b6E1c80Ec38266f50d1993922f67e45349",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 30,
+      "totalReward": "149999999999999999904000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -403,13 +724,13 @@
     "decimals": 18,
     "hidden": true,
     "priority": 860,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
     "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
     "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/tribe_one.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
     "links": {
       "website": {
         "label": "Website",
@@ -435,6 +756,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222624100259375",
+      "startBlock": "8553095",
+      "endBlock": "9417094",
+      "timeLock": "8553382",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x6E16bdDf871cc4b81830D78bB6F7Fe96D2C6Df4E",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999740625",
+      "stakingPools": [
+        {
+          "stakingToken": "0x3CdD9d3A67BFCE83B4a96703BA8cC70e8372F819",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -442,13 +786,13 @@
     "name": "HAKA",
     "decimals": 18,
     "priority": 850,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
     "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
     "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/tribe_one.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
     "links": {
       "website": {
         "label": "Website",
@@ -474,6 +818,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222222222222222",
+      "startBlock": "8575225",
+      "endBlock": "9439225",
+      "timeLock": "8575512",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x4fF765077B7D64a73fd39f2B4Ed438f46E649299",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999808000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x3CdD9d3A67BFCE83B4a96703BA8cC70e8372F819",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -481,7 +848,7 @@
     "name": "FRONT",
     "decimals": 18,
     "priority": 840,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -505,6 +872,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222222222222222",
+      "startBlock": "8690697",
+      "endBlock": "9554697",
+      "timeLock": "8690985",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x0f9833DFf1f143c5209Fcaa00A10D03542cb19F8",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999808000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -513,7 +903,7 @@
     "decimals": 18,
     "featured": true,
     "priority": 920,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0",
       "2": "0"
@@ -534,6 +924,34 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "86805555555555",
+      "startBlock": "8691893",
+      "endBlock": "9843893",
+      "timeLock": "8778293",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xdB4325cea8FBaC13c2ba4FE37C667966faEA2Fa8",
+      "rewardToken": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "farmingPeriod": 40,
+      "totalReward": "99999999999999360000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "250",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "allocationPoints": "250",
+          "pid": 2
+        }
+      ]
     }
   },
   {
@@ -541,7 +959,7 @@
     "name": "MARSH",
     "decimals": 18,
     "priority": 860,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -569,6 +987,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "289351851851851851",
+      "startBlock": "8771456",
+      "endBlock": "10499456",
+      "timeLock": "9174656",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x28B85c2e26Be0F66C64CFd424aE9631f1e84D58D",
+      "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+      "farmingPeriod": 60,
+      "totalReward": "499999999999999998528000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -577,7 +1018,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 910,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -593,6 +1034,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "115740740740740740",
+      "startBlock": "8807897",
+      "endBlock": "9671897",
+      "timeLock": "8839577",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x317E65e893005575bbb168b2055D8A40106D46DC",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 30,
+      "totalReward": "99999999999999999360000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "900",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "allocationPoints": "100",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -600,13 +1064,13 @@
     "name": "KYTE",
     "decimals": 18,
     "priority": 820,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
     "subtitle": "KYTE offers the community an opportunity to earn incentives, stake, and back projects on its platform.",
     "description": "KYTE is Kambria's DeFi product. KYTE is focused on offering the community an opportunity to earn incentives, stake, and back projects on its platform, as well as yield farm.",
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/kyte.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/kyte.png",
     "links": {
       "website": {
         "label": "Website",
@@ -624,6 +1088,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "125000000000000000",
+      "startBlock": "8892382",
+      "endBlock": "10908382",
+      "timeLock": "9295583",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x2F8dEB2Ef2a8788A5Cf05fb32A1F5dd98b7262b4",
+      "rewardToken": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
+      "farmingPeriod": 70,
+      "totalReward": "252000000000000000000000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4f2EE75371B31aF8FFA7DE05aC04Ca670390410F",
+          "allocationPoints": "600",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "400",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -631,7 +1118,7 @@
     "name": "ODDZ",
     "decimals": 18,
     "priority": 830,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -655,6 +1142,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "578703033908525568",
+      "startBlock": "8978951",
+      "endBlock": "9842952",
+      "timeLock": "9410952",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x86e6e29A6Ce0D17908cE6Fdd8b40C1c8507038fC",
+      "rewardToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
+      "farmingPeriod": 30,
+      "totalReward": "499999999999999999277568",
+      "stakingPools": [
+        {
+          "stakingToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
     }
   },
   {
@@ -663,7 +1173,7 @@
     "decimals": 18,
     "priority": 930,
     "featured": true,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0"
     },
     "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
@@ -686,6 +1196,24 @@
         "label": "ApeSwap",
         "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "77160553364624509",
+      "startBlock": "9095319",
+      "endBlock": "10391318",
+      "timeLock": "9095606",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x78629BA63d5892193289E57bB274372C0c202e7A",
+      "rewardToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "farmingPeriod": 45,
+      "totalReward": "99999999999999999039491",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
     }
   },
   {
@@ -718,6 +1246,29 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "578703703703703",
+      "startBlock": "9207490",
+      "endBlock": "10935490",
+      "timeLock": "9783490",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xa9419d9D8E6797DA5D2CA26edB2c862bf00132e4",
+      "rewardToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "farmingPeriod": 60,
+      "totalReward": "999999999999998784000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
     }
   }
 ]
