@@ -1270,5 +1270,58 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x94a1F2e19Dbba1AF9Ef62704A02bF31c37a34C65",
+    "name": "HOT CROSS",
+    "featured": true,
+    "decimals": 18,
+    "priority": 1020,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/hotcross"
+      },
+      "reddit": {
+        "label": "Reddit",
+        "url": "https://www.reddit.com/r/hotcross/"
+      },
+      "gitHub": {
+        "label": "GitHub",
+        "url": "https://github.com/hotcrosscom"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347221820345115341",
+      "startBlock": "9495159",
+      "endBlock": "10359160",
+      "timeLock": "9495448",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xF46632a50b3EE76c23d62e57f29E08B9358547d3",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999739341",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
   }
 ]
