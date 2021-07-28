@@ -138,6 +138,13 @@
     "decimals": 18,
     "symbol": "BANANA"
   },
+  "0xacb2d47827C9813AE26De80965845D80935afd0B": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xacb2d47827C9813AE26De80965845D80935afd0B/logo.png",
+    "name": "MacaronSwap Token",
+    "buyTokenLink": "https://exchange.macaronswap.finance/#/swap?outputCurrency=0xacb2d47827c9813ae26de80965845d80935afd0b",
+    "decimals": 18,
+    "symbol": "MCRN"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
