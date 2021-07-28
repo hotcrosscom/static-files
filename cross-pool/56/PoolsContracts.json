@@ -1376,5 +1376,54 @@
         }
       ]
     }
+  },
+  {
+    "address": "0xaf852AA4c6215045F13711AB8c3F0a6239Cf4444",
+    "name": "MCRN",
+    "decimals": 18,
+    "priority": 810,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "MacaronSwap allows users to be Liquidity Provider, Farming, Staking, Exchange, Bridging Assets across chains and more.",
+    "description": "MacaronSwap is a decentralized Cross-Chain Farm-Staking and Exchange Platform. MacaronSwap uses an automated market maker (AMM) model.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xacb2d47827C9813AE26De80965845D80935afd0B/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.macaronswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/macaronswap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/macaronswap"
+      },
+      "macaronSwap": {
+        "label": "MacaronSwap",
+        "url": "https://exchange.macaronswap.finance/#/swap?outputCurrency=0xacb2d47827c9813ae26de80965845d80935afd0b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "5787037037037037",
+      "startBlock": "9547742",
+      "endBlock": "11275742",
+      "timeLock": "9548030",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x9aE99965373C2F0800adFd277BAb397DECeEd8cA",
+      "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+      "farmingPeriod": 60,
+      "totalReward": "9999999999999999936000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
   }
 ]
