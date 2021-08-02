@@ -1064,6 +1064,7 @@
     "name": "KYTE",
     "decimals": 18,
     "priority": 820,
+    "disableStake": true,
     "completedAPR": {
       "0": "0",
       "1": "0"
