@@ -1019,8 +1019,8 @@
     "decimals": 18,
     "priority": 910,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "76.00",
+      "1": "7.14"
     },
     "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
     "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
@@ -1492,7 +1492,7 @@
     },
     "subtitle": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot.",
     "description": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot. Uno Re will allow the community to invest and trade in ‘risk’ and receive sizable returns on their investments while also allowing the community to propose innovative insurance products to the space, thus propelling a new generation of Insurtech companies powered by the UnoRe ecosystem.",
-    "image": "",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/unore_logo.png",
     "links": {
       "website": {
         "label": "Website",
