@@ -379,5 +379,24 @@
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "BNB"
     }
+  },
+  "0x3c2c77353E2F6AC1578807b6b2336Bf3a3CbB014": {
+    "name": "ODDZ-BNB Pair",
+    "symbol": "ODDZ-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "ODDZ",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/BNB/0xCD40F2670CF58720b694968698A5514e924F742d",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xCD40F2670CF58720b694968698A5514e924F742d/logo.png",
+      "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+      "symbol": "ODDZ"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "BNB"
+    }
   }
 }
