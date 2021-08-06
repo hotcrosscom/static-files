@@ -1119,8 +1119,8 @@
     "decimals": 18,
     "priority": 830,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "241.14",
+      "1": "92.51"
     },
     "subtitle": "Oddz is a Multi- chain option trading platform that expedites the execution of call and put options contracts, Perpetual conditional trades, and futures.",
     "description": "It employs the synergies of Ethereum, Binance Smart Chain, Elrond, Polygon and Polkadot to unleash the potential decentralized derivatives market. It focuses on building solutions that can propel the DeFi ecosystem by simplifying derivatives trading and enhancing the user experience.",
@@ -1541,6 +1541,39 @@
           "pid": 1
         }
       ]
+    }
+  },
+  {
+    "address": "0x6D3431C0CC6D6fF848FD37aae4cAea774A4b6649",
+    "name": "ODDZ",
+    "featured": true,
+    "decimals": 18,
+    "priority": 925,
+    "completedAPY": {
+      "0": "0",
+      "1": "0",
+      "2": "0"
+    },
+    "subtitle": "Oddz is a Multi- chain option trading platform that expedites the execution of call and put options contracts, Perpetual conditional trades, and futures.",
+    "description": "It employs the synergies of Ethereum, Binance Smart Chain, Elrond, Polygon and Polkadot to unleash the potential decentralized derivatives market. It focuses on building solutions that can propel the DeFi ecosystem by simplifying derivatives trading and enhancing the user experience.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xCD40F2670CF58720b694968698A5514e924F742d/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://oddz.fi/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/oddz_finance"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/oddz_finance"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
+      }
     }
   }
 ]
