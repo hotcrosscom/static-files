@@ -1574,6 +1574,34 @@
         "label": "PancakeSwap",
         "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
       }
+    },
+    "chaindata": {
+      "rewardPerBlock": "462962962962962962",
+      "startBlock": "9800618",
+      "endBlock": "11528618",
+      "timeLock": "10664618",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x5a1FD450C6C2d8E552a930ffdAbF0e9A9fccDD37",
+      "rewardToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
+      "farmingPeriod": 60,
+      "totalReward": "799999999999999998336000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x3c2c77353E2F6AC1578807b6b2336Bf3a3CbB014",
+          "allocationPoints": "350",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
+          "allocationPoints": "350",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 2
+        }
+      ]
     }
   }
 ]
