@@ -1603,5 +1603,64 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x842F5FF6cfD40a2CF571B1921e36c81104e2d416",
+    "name": "MARSH",
+    "decimals": 18,
+    "featured": true,
+    "priority": 805,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
+    "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://unmarshal.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/unmarshal"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://blog.unmarshal.io/"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/Unmarshal_Chat"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "192901234567901234",
+      "startBlock": "10138430",
+      "endBlock": "12730430",
+      "timeLock": "11002430",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x05B47954B33B1E05670Ef71CcCC56b88497e582c",
+      "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+      "farmingPeriod": 90,
+      "totalReward": "499999999999999998528000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x222F93187f15F354D41Ff6a7703eF7e18cdD5103",
+          "allocationPoints": "800",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "200",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
