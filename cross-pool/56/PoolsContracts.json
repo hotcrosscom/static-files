@@ -1222,7 +1222,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 1010,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -1382,7 +1382,7 @@
     "name": "MCRN",
     "decimals": 18,
     "priority": 810,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -1549,7 +1549,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 925,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0",
       "2": "0"
