@@ -1433,8 +1433,8 @@
     "decimals": 18,
     "priority": 810,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "69.23",
+      "1": "79.95"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
