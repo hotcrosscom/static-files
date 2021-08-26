@@ -1174,7 +1174,7 @@
     "priority": 930,
     "featured": true,
     "completedAPR": {
-      "0": "0"
+      "0": "106.74"
     },
     "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
     "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
@@ -1222,7 +1222,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 1010,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -1278,7 +1278,7 @@
     "decimals": 18,
     "priority": 1030,
     "completedAPR": {
-      "0": "0"
+      "0": "89.41"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -1382,7 +1382,7 @@
     "name": "MCRN",
     "decimals": 18,
     "priority": 810,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0"
     },
@@ -1433,8 +1433,8 @@
     "decimals": 18,
     "priority": 810,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "69.23",
+      "1": "79.95"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
@@ -1549,7 +1549,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 925,
-    "completedAPY": {
+    "completedAPR": {
       "0": "0",
       "1": "0",
       "2": "0"
