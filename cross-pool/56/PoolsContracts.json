@@ -960,8 +960,8 @@
     "decimals": 18,
     "priority": 860,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "146.72",
+      "1": "54.18"
     },
     "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
     "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
@@ -1658,6 +1658,61 @@
         {
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
           "allocationPoints": "200",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xdFdF269C5e01c41325c426421Cb8d4E19a6eb707",
+    "name": "FRONT",
+    "featured": true,
+    "decimals": 18,
+    "priority": 810,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "231481481481481481",
+      "startBlock": "10481101",
+      "endBlock": "11345101",
+      "timeLock": "10884301",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x37F5036aeCE12A4401f246addF0A1f396aE5fB1f",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 30,
+      "totalReward": "199999999999999999584000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
           "pid": 1
         }
       ]
