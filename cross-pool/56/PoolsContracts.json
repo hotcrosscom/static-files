@@ -28,7 +28,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
     },
     "chaindata": {
@@ -90,7 +90,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
     },
     "chaindata": {
@@ -155,7 +155,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
       }
     },
     "chaindata": {
@@ -214,7 +214,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
     "chaindata": {
@@ -268,7 +268,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
       }
     },
     "chaindata": {
@@ -326,7 +326,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
     },
     "chaindata": {
@@ -384,7 +384,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
     },
     "chaindata": {
@@ -442,7 +442,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x44754455564474a89358b2c2265883df993b12f0"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x44754455564474a89358b2c2265883df993b12f0"
       }
     },
     "chaindata": {
@@ -491,7 +491,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
     },
     "chaindata": {
@@ -556,7 +556,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       }
     },
     "chaindata": {
@@ -614,7 +614,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
       }
     },
     "chaindata": {
@@ -691,7 +691,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     },
     "chaindata": {
@@ -754,7 +754,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     },
     "chaindata": {
@@ -816,7 +816,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     },
     "chaindata": {
@@ -870,7 +870,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
     "chaindata": {
@@ -922,7 +922,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
       }
     },
     "chaindata": {
@@ -985,7 +985,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
     },
     "chaindata": {
@@ -1032,7 +1032,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
     },
     "chaindata": {
@@ -1086,7 +1086,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3"
       }
     },
     "chaindata": {
@@ -1140,7 +1140,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
       }
     },
     "chaindata": {
@@ -1244,7 +1244,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       }
     },
     "chaindata": {
@@ -1454,7 +1454,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
     "chaindata": {
@@ -1517,6 +1517,10 @@
       "linkedIn": {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/company/unore"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x474021845C4643113458ea4414bdb7fB74A01A77"
       }
     },
     "chaindata": {
@@ -1572,7 +1576,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
       }
     },
     "chaindata": {
@@ -1636,7 +1640,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
     },
     "chaindata": {
@@ -1691,7 +1695,7 @@
       },
       "pancakeSwap": {
         "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
     "chaindata": {
