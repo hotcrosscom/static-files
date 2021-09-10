@@ -167,8 +167,8 @@
     },
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
-      "address": "BNB",
-      "symbol": "BNB"
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
     }
   },
   "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915": {
@@ -186,8 +186,8 @@
     },
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
-      "address": "BNB",
-      "symbol": "BNB"
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
     }
   },
   "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0": {
@@ -206,7 +206,7 @@
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB"
+      "symbol": "WBNB"
     }
   },
   "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16": {
@@ -225,7 +225,7 @@
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB"
+      "symbol": "WBNB"
     }
   },
   "0xC6b668548aA4A56792e8002A920d3159728121D5": {
@@ -244,7 +244,7 @@
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB"
+      "symbol": "WBNB"
     }
   },
   "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00": {
@@ -320,7 +320,7 @@
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB"
+      "symbol": "WBNB"
     }
   },
   "0x168349B5340d6022ECE6Ef908c0b0B14ff474007": {
@@ -358,7 +358,7 @@
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB"
+      "symbol": "WBNB"
     }
   },
   "0x4f2ee75371b31af8ffa7de05ac04ca670390410f": {
@@ -377,7 +377,7 @@
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB"
+      "symbol": "WBNB"
     }
   },
   "0x3c2c77353E2F6AC1578807b6b2336Bf3a3CbB014": {
@@ -396,7 +396,7 @@
     "tokenB": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB"
+      "symbol": "WBNB"
     }
   }
 }
