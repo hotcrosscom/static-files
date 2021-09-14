@@ -1065,8 +1065,8 @@
     "decimals": 18,
     "priority": 820,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "202.88",
+      "1": "28.74"
     },
     "subtitle": "KYTE offers the community an opportunity to earn incentives, stake, and back projects on its platform.",
     "description": "KYTE is Kambria's DeFi product. KYTE is focused on offering the community an opportunity to earn incentives, stake, and back projects on its platform, as well as yield farm.",
@@ -1223,8 +1223,8 @@
     "decimals": 18,
     "priority": 1010,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "19.14",
+      "1": "38.18"
     },
     "subtitle": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain.",
     "description": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain. Wrapped BNB (WBNB) is a token on Binance Smart Chain where the price is pegged to BNB at a rate of 1 WBNB = 1 BNB. WBNB is used in many dApps on the Binance Smart Chain.",
@@ -1711,6 +1711,68 @@
       "stakingPools": [
         {
           "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xd905BA2b0e8f156173BEE64089FE52bBEd655920",
+    "name": "HAKA",
+    "decimals": 18,
+    "priority": 790,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
+    "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.tribeone.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/tribeonedefi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/tribeone"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://tribeone.medium.com/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/tribe1"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "1388888888888888888",
+      "startBlock": "10908705",
+      "endBlock": "12204705",
+      "timeLock": "11715105",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xce55b4fEAC4D47B25f5Bc3584954FFFe39251b63",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 45,
+      "totalReward": "1799999999999999998848000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
           "allocationPoints": "700",
           "pid": 0
         },
