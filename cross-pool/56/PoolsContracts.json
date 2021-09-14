@@ -1065,8 +1065,8 @@
     "decimals": 18,
     "priority": 820,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "202.88",
+      "1": "28.74"
     },
     "subtitle": "KYTE offers the community an opportunity to earn incentives, stake, and back projects on its platform.",
     "description": "KYTE is Kambria's DeFi product. KYTE is focused on offering the community an opportunity to earn incentives, stake, and back projects on its platform, as well as yield farm.",
@@ -1223,8 +1223,8 @@
     "decimals": 18,
     "priority": 1010,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "19.14",
+      "1": "38.18"
     },
     "subtitle": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain.",
     "description": "BNB powers the Binance Ecosystem and is the native coin of the Binance Chain and the Binance Smart Chain. Wrapped BNB (WBNB) is a token on Binance Smart Chain where the price is pegged to BNB at a rate of 1 WBNB = 1 BNB. WBNB is used in many dApps on the Binance Smart Chain.",
