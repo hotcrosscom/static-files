@@ -1327,11 +1327,10 @@
   {
     "address": "0xEb96216d313556334D460515DA18735f1343eB30",
     "name": "HOT CROSS",
-    "isMystery": true,
     "decimals": 18,
     "priority": 1020,
     "completedAPR": {
-      "0": "0"
+      "0": "47.33"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
