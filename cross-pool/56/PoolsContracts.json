@@ -590,11 +590,11 @@
     "priority": 900,
     "featured": true,
     "completedAPR": {
-      "0": "0",
-      "1": "0",
-      "2": "0",
-      "3": "0",
-      "4": "0"
+      "0": "187.62",
+      "1": "173.62",
+      "2": "298.18",
+      "3": "52.83",
+      "4": "31.92"
     },
     "subtitle": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
     "description": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
@@ -1382,8 +1382,7 @@
     "decimals": 18,
     "priority": 810,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "59.24"
     },
     "subtitle": "MacaronSwap allows users to be Liquidity Provider, Farming, Staking, Exchange, Bridging Assets across chains and more.",
     "description": "MacaronSwap is a decentralized Cross-Chain Farm-Staking and Exchange Platform. MacaronSwap uses an automated market maker (AMM) model.",
@@ -1880,6 +1879,54 @@
       "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
       "farmingPeriod": 30,
       "totalReward": "299999999999999999808000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xc5E7a03f1701132ab9EAB29bedAc27cD4272107F",
+    "name": "MCRN",
+    "decimals": 18,
+    "priority": 810,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "MacaronSwap allows users to be Liquidity Provider, Farming, Staking, Exchange, Bridging Assets across chains and more.",
+    "description": "MacaronSwap is a decentralized Cross-Chain Farm-Staking and Exchange Platform. MacaronSwap uses an automated market maker (AMM) model.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xacb2d47827C9813AE26De80965845D80935afd0B/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.macaronswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/macaronswap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/macaronswap"
+      },
+      "macaronSwap": {
+        "label": "MacaronSwap",
+        "url": "https://exchange.macaronswap.finance/#/swap?outputCurrency=0xacb2d47827c9813ae26de80965845d80935afd0b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "4143518518518518",
+      "startBlock": "11281204",
+      "endBlock": "13009204",
+      "timeLock": "11281491",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x4cab31925BFA3359a94baf071C50BBFa06E01534",
+      "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+      "farmingPeriod": 60,
+      "totalReward": "7159999999999999104000",
       "stakingPools": [
         {
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
