@@ -590,11 +590,11 @@
     "priority": 900,
     "featured": true,
     "completedAPR": {
-      "0": "0",
-      "1": "0",
-      "2": "0",
-      "3": "0",
-      "4": "0"
+      "0": "187.62",
+      "1": "173.62",
+      "2": "298.18",
+      "3": "52.83",
+      "4": "31.92"
     },
     "subtitle": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
     "description": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
@@ -1327,11 +1327,10 @@
   {
     "address": "0xEb96216d313556334D460515DA18735f1343eB30",
     "name": "HOT CROSS",
-    "isMystery": true,
     "decimals": 18,
     "priority": 1020,
     "completedAPR": {
-      "0": "0"
+      "0": "47.33"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -1383,8 +1382,7 @@
     "decimals": 18,
     "priority": 810,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "59.24"
     },
     "subtitle": "MacaronSwap allows users to be Liquidity Provider, Farming, Staking, Exchange, Bridging Assets across chains and more.",
     "description": "MacaronSwap is a decentralized Cross-Chain Farm-Staking and Exchange Platform. MacaronSwap uses an automated market maker (AMM) model.",
@@ -1674,8 +1672,8 @@
     "decimals": 18,
     "priority": 810,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "54.57",
+      "1": "42.09"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
@@ -1773,6 +1771,214 @@
       "stakingPools": [
         {
           "stakingToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xEB21F5579E7e3D8751a4caa3B3A79D58e46A7105",
+    "name": "AVAX",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Avalanche is the fastest smart contract platform in the blockchain industry, as measured by time-to-finality",
+    "description": "Avalanche is the fastest smart contract platform in the blockchain industry, as measured by time-to-finality, and has the most validators securing its activity of any proof-of-stake protocol.",
+    "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.avalabs.org/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/avalabsofficial?lang=en"
+      },
+      "facebook": {
+        "label": "Medium",
+        "url": "https://www.facebook.com/avalabsofficial/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/avalabsofficial/"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x1CE0c2827e2eF14D5C4f29a091d735A204794041"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "2893518518518518",
+      "startBlock": "11080835",
+      "endBlock": "11944835",
+      "timeLock": "11081123",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xC1Bfb880aceE3AB44DD1F6D63A87c29927F4Da42",
+      "rewardToken": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "farmingPeriod": 30,
+      "totalReward": "2499999999999999552000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "800",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+          "allocationPoints": "200",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xaA5F63132F61C4FA67D4D5b0e10ac89449e4AD3e",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "priority": 1010,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222222222222222",
+      "startBlock": "11166738",
+      "endBlock": "12030738",
+      "timeLock": "11167026",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x7a50B102320053197B5CC34AdDA4cE5618126293",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "299999999999999999808000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xc5E7a03f1701132ab9EAB29bedAc27cD4272107F",
+    "name": "MCRN",
+    "decimals": 18,
+    "priority": 810,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "MacaronSwap allows users to be Liquidity Provider, Farming, Staking, Exchange, Bridging Assets across chains and more.",
+    "description": "MacaronSwap is a decentralized Cross-Chain Farm-Staking and Exchange Platform. MacaronSwap uses an automated market maker (AMM) model.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xacb2d47827C9813AE26De80965845D80935afd0B/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.macaronswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/macaronswap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/macaronswap"
+      },
+      "macaronSwap": {
+        "label": "MacaronSwap",
+        "url": "https://exchange.macaronswap.finance/#/swap?outputCurrency=0xacb2d47827c9813ae26de80965845d80935afd0b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "4143518518518518",
+      "startBlock": "11281204",
+      "endBlock": "13009204",
+      "timeLock": "11281491",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x4cab31925BFA3359a94baf071C50BBFa06E01534",
+      "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+      "farmingPeriod": 60,
+      "totalReward": "7159999999999999104000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x47dD216582446C29790C1D928F04f746F1D7C5A9",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 810,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "231481481481481481",
+      "startBlock": "11339452",
+      "endBlock": "12203452",
+      "timeLock": "11742652",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x16f0470CA6b6194c7Bdaf39B8602955B0677775A",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 30,
+      "totalReward": "199999999999999999584000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
           "allocationPoints": "700",
           "pid": 0
         },

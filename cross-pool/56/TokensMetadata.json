@@ -153,7 +153,7 @@
     "symbol": "UNO"
   },
   "0x1CE0c2827e2eF14D5C4f29a091d735A204794041": {
-    "image": "https://github.com/trustwallet/assets/blob/master/blockchains/avalanchec/info/logo.png",
+    "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
     "name": "Avalanche",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
     "decimals": 18,
