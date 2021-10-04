@@ -178,6 +178,25 @@
       "symbol": "WBNB"
     }
   },
+  "0x3B9Aa711D1D90A4f8639f66C227881729a3317F2": {
+    "name": "HOTCROSS-BUSD Pair",
+    "symbol": "HOTCROSS-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HOTCROSS",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+      "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
   "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915": {
     "name": "HOTCROSS-BNB Pair",
     "symbol": "HOTCROSS-BNB",
