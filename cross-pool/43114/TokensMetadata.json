@@ -1,0 +1,126 @@
+{
+  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/avalanchec/info/logo.png",
+    "name": "Avalanche coin",
+    "decimals": 18,
+    "symbol": "AVAX"
+  },
+  "AVAX": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/avalanchec/info/logo.png",
+    "name": "Avalanche coin",
+    "decimals": 18,
+    "symbol": "AVAX"
+  },
+  "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/avalanchec/info/logo.png",
+    "name": "Wrapped Avalanche",
+    "decimals": 18,
+    "symbol": "WAVAX"
+  },
+  "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd": {
+    "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+    "name": "JoeToken",
+    "decimals": 18,
+    "symbol": "JOE"
+  },
+  "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33": {
+    "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33/logo.png",
+    "name": "JoeBar",
+    "decimals": 18,
+    "symbol": "xJOE"
+  },
+  "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB": {
+    "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "symbol": "WETH.e"
+  },
+  "0xc7198437980c041c805A1EDcbA50c1Ce5db95118": {
+    "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+    "name": "Tether USD",
+    "decimals": 6,
+    "symbol": "USDT.e"
+  },
+  "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664": {
+    "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+    "name": "USD Coin",
+    "decimals": 6,
+    "symbol": "USDC.e"
+  },
+  "0x454E67025631C065d3cFAD6d71E6892f74487a15": {
+    "name": "JOE-AVAX Pair",
+    "symbol": "JOE-AVAX",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "JOE",
+    "buyTokenLink": "https://www.traderjoexyz.com/#/trade?outputCurrency=0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "addLiquidityLink": "https://www.traderjoexyz.com/#/pool/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "symbol": "JOE"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/avalanchec/info/logo.png",
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "symbol": "WAVAX"
+    }
+  },
+  "0xFE15c2695F1F920da45C30AAE47d11dE51007AF9": {
+    "name": "WETH.e-AVAX Pair",
+    "symbol": "WETH.e-AVAX",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "WETH.e",
+    "buyTokenLink": "https://www.traderjoexyz.com/#/trade?outputCurrency=0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "addLiquidityLink": "https://www.traderjoexyz.com/#/pool/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "symbol": "WETH.e"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/avalanchec/info/logo.png",
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "symbol": "WAVAX"
+    }
+  },
+  "0x67926d973cD8eE876aD210fAaf7DFfA99E414aCf": {
+    "name": "JOE-USDC.e Pair",
+    "symbol": "JOE-USDC.e",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "JOE",
+    "buyTokenLink": "https://www.traderjoexyz.com/#/trade?outputCurrency=0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "addLiquidityLink": "https://www.traderjoexyz.com/#/pool/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "symbol": "JOE"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "symbol": "USDC.e"
+    }
+  },
+  "0x1643de2efB8e35374D796297a9f95f64C082a8ce": {
+    "name": "JOE-USDT.e Pair",
+    "symbol": "JOE-USDT.e",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "JOE",
+    "buyTokenLink": "https://www.traderjoexyz.com/#/trade?outputCurrency=0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "addLiquidityLink": "https://www.traderjoexyz.com/#/pool/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "symbol": "JOE"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+      "symbol": "USDT.e"
+    }
+  }
+}
