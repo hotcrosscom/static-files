@@ -1989,5 +1989,59 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x4cFeB7cb8A854c69D9B796B4Ab624c3f1051917a",
+    "name": "CAKE",
+    "decimals": 18,
+    "priority": 980,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
+    "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://pancakeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PancakeSwap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": " https://t.me/PancakeSwap"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "23611138438817637",
+      "startBlock": "11480878",
+      "endBlock": "12344877",
+      "timeLock": "11481166",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x88152382cFbA5c98A8C281c8AAB05b7A1c69D090",
+      "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "farmingPeriod": 30,
+      "totalReward": "20399999999999999550363",
+      "stakingPools": [
+        {
+          "stakingToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+          "allocationPoints": "750",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "250",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
