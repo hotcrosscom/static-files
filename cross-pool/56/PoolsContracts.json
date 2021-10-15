@@ -13,6 +13,7 @@
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
     "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "keywords": ["hotcross", "bnb", "hotcross-bnb", "busd"],
     "links": {
       "website": {
         "label": "Website",
@@ -75,6 +76,7 @@
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
     "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "keywords": ["hotcross", "bnb", "usdt", "usdc", "busd"],
     "links": {
       "website": {
         "label": "Website",
@@ -140,6 +142,7 @@
     "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
     "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "keywords": ["cake", "hotcross", "bnb", "busd"],
     "links": {
       "website": {
         "label": "Website",
@@ -199,6 +202,7 @@
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "keywords": ["front", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -253,6 +257,7 @@
     "subtitle": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
     "description": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png",
+    "keywords": ["gum", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -307,6 +312,7 @@
     "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
     "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "keywords": ["marsh", "unmarshal", "marsh-bnb", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -365,6 +371,7 @@
     "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
     "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "keywords": ["marsh", "unmarshal", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -423,6 +430,7 @@
     "subtitle": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees.",
     "description": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees. One of the core utilities of ZEE is to reduce friction in fundraising using digital assets; to solve that, we built a Dex Offering Platform Called — ZeeDO",
     "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
+    "keywords": ["zeroswap", "zee", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
