@@ -1,0 +1,101 @@
+{
+  "tokens": [
+    {
+      "address": "0xe321EfF1A3a1D08e7CD4A8bE1B182b30Be25f314",
+      "name": "HOTCROSS-BNB Pair",
+      "symbol": "HOTCROSS-BNB",
+      "decimals": 18,
+      "type": "lp",
+      "buyTokenSymbol": "HOTCROSS",
+      "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "tokenA": {
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "symbol": "HOTCROSS"
+      },
+      "tokenB": {
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+        "address": "BNB",
+        "symbol": "BNB"
+      }
+    },
+    {
+      "address": "0x3411Ee1981A6cacC9e47c5B389c623f513C439b7",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "name": "Binance USD",
+      "decimals": 18,
+      "symbol": "BUSD"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "name": "BNB",
+      "decimals": 18,
+      "symbol": "BNB"
+    }
+  ],
+  "zap": "0x95F1Fd99e1660b5fc857a4c6B63DD130d06aa418",
+  "purchase": "0xe321EfF1A3a1D08e7CD4A8bE1B182b30Be25f314",
+  "offering": "0x6e1d960F35922Bc10f9d482E8B43Fc0cE20C89F3",
+  "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
+  "basic": {
+    "address": "0x6781BE3b1C487877d7c122560B9C99e73D3f1440",
+    "maxLPEntry": 196,
+    "raising": 1000,
+    "offering": 200000,
+    "buyWith": [
+      "0xe321EfF1A3a1D08e7CD4A8bE1B182b30Be25f314",
+      "0x3411Ee1981A6cacC9e47c5B389c623f513C439b7",
+      "0x0000000000000000000000000000000000000000"
+    ],
+    "entryWith": "LP",
+    "purchaseToken": "0xe321EfF1A3a1D08e7CD4A8bE1B182b30Be25f314",
+    "launchDate": "October 4th at 05:46 UTC",
+    "duration": "8 Hours",
+    "available": "30,000,000 $TOKEN",
+    "toRaise": "$300,000",
+    "pricePerToken": "$0.01",
+    "toCrosspool": "$150.000",
+    "cap": "$100",
+    "color": "#F25139"
+  },
+  "unlimited": {
+    "address": "0x588b03484C51FE4f0afBd64e554d323032b2a04F",
+    "maxLPEntry": 100000000000000000000,
+    "raising": 1000,
+    "offering": 200000,
+    "buyWith": [
+      "0xe321EfF1A3a1D08e7CD4A8bE1B182b30Be25f314",
+      "0x3411Ee1981A6cacC9e47c5B389c623f513C439b7",
+      "0x0000000000000000000000000000000000000000"
+    ],
+    "entryWith": "LP",
+    "purchaseToken": "0xe321EfF1A3a1D08e7CD4A8bE1B182b30Be25f314",
+    "launchDate": "October 4th at 14:07 UTC",
+    "duration": "8 Hours",
+    "available": "70,000,000 $TOKEN",
+    "toRaise": "$700,000",
+    "toCrosspool": "$150.000",
+    "pricePerToken": "$0.01",
+    "color": "#414A56"
+  },
+  "announcement": "https://telegram.org",
+  "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
+  "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/9846045109.png",
+  "name": "Pontoon",
+  "symbol": "TOON",
+  "description": "Pontoon is one-click liquidity mirror protocol for cross chain which aims to resolve fragmentation and composability concerns in the ecosystem in a complete trustless way.",
+  "startBlock": 13358066,
+  "endBlock": 13362066,
+  "kycDeadline": 1634803200,
+  "offeringPrice": 2,
+  "links": {
+    "website": "https://www.google.com",
+    "twitter": "https://twitter.com",
+    "medium": "https://medium.com",
+    "github": "https://github.com",
+    "tg": "https://telegram.org",
+    "audits": "https://telegram.org"
+  }
+}
