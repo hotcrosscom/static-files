@@ -35,13 +35,13 @@
       "symbol": "BNB"
     }
   ],
-  "zap": "0x53605A7612405B2D2e52b0718b080275EA400d3b",
+  "zap": "0x8866a038FdAAB7af22A1FB82C0D918793dd90bc5",
   "purchase": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
   "offering": "0xcBb21d2a892ad06f90282c470C8fc48eDFeaB29C",
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
   "basic": {
-    "address": "0xf818B120920816A08613da9Eb56D1556f65873F2",
-    "maxLPEntry": 33.4022715719,
+    "address": "0x358D4729226D8C1d4304f4213403f089729fBBeB",
+    "maxLPEntry": 5000.4022715719,
     "raising": 10020.681471559142527849,
     "offering": 1000000,
     "buyWith": [
@@ -51,8 +51,8 @@
     ],
     "entryWith": "LP",
     "purchaseToken": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
-    "launchDate": "October 28th at 07:00 PM UTC",
-    "duration": "6 Hours",
+    "launchDate": "October 28th at 09:00 PM UTC",
+    "duration": "4 Hours",
     "available": "1,000,000 TOON",
     "toRaise": "$350,000",
     "pricePerToken": "$0.35",
@@ -60,7 +60,7 @@
     "color": "#F25139"
   },
   "unlimited": {
-    "address": "0x7768E0C123c9f731eaEd856fFa7467E2308bdB2D",
+    "address": "0x1f9c44F4216Cd4deC095d1A641F28f17BA10809D",
     "maxLPEntry": 100000000000000000000,
     "raising": 10020.681471559142527849,
     "offering": 1000000,
@@ -71,8 +71,8 @@
     ],
     "entryWith": "LP",
     "purchaseToken": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
-    "launchDate": "October 28th at 07:00 PM UTC",
-    "duration": "6 Hours",
+    "launchDate": "October 28th at 09:00 PM UTC",
+    "duration": "4 Hours",
     "available": "1,000,000 TOON",
     "toRaise": "$350,000",
     "pricePerToken": "$0.35",
@@ -84,9 +84,9 @@
   "name": "Pontoon",
   "symbol": "TOON",
   "description": "Pontoon is one-click liquidity mirror protocol for cross chain which aims to resolve fragmentation and composability concerns in the ecosystem in a complete trustless way.",
-  "startBlock": 13422700,
-  "endBlock": 13423900,
-  "kycDeadline": 1634832618000,
+  "startBlock": 13442776,
+  "endBlock": 13444000,
+  "kycDeadline": 1635094800000,
   "offeringPrice": 0.35,
   "isPending": false,
   "links" : {
