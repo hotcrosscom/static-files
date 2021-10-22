@@ -53,6 +53,7 @@
   "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
 	"headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/9846045109.png",
 	"name": "Pontoon",
+  "symbol": "TOON",
   "description": "Pontoon is one-click liquidity mirror protocol for cross chain which aims to resolve fragmentation and composability concerns in the ecosystem in a complete trustless way.",
   "isPending": true,
   "kycDeadline": 1635094800000,
