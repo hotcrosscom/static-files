@@ -28,6 +28,13 @@
       "symbol": "BUSD"
     },
     {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "name": "Wrapped BNB",
+      "decimals": 18,
+      "symbol": "WBNB"
+    },
+    {
       "address": "0x0000000000000000000000000000000000000000",
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "name": "BNB",
@@ -36,28 +43,51 @@
     }
   ],
   "purchase": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-  "offeringTokenImage": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+  "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
   "basic": {
-    "buyWith": ["0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915", "0xe9e7cea3dedca5984780bafc599bd69add087d56", "0x0000000000000000000000000000000000000000"],
+    "buyWith": [
+      "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+      "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "0x0000000000000000000000000000000000000000"
+    ],
     "entryWith": "LP",
     "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+    "launchDate": "October 28th at 09:00 AM UTC",
+    "duration": "4 Hours",
+    "available": "1,000,000 TOON",
+    "toRaise": "$350,000",
+    "pricePerToken": "$0.35",
+    "cap": "$1,000",
     "color": "#F25139"
   },
   "unlimited": {
-    "buyWith": ["0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915", "0xe9e7cea3dedca5984780bafc599bd69add087d56", "0x0000000000000000000000000000000000000000"],
+    "buyWith": [
+      "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+      "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "0x0000000000000000000000000000000000000000"
+    ],
     "entryWith": "LP",
     "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+    "launchDate": "October 28th at 09:00 AM UTC",
+    "duration": "4 Hours",
+    "available": "1,000,000 TOON",
+    "toRaise": "$350,000",
+    "pricePerToken": "$0.35",
     "color": "#414A56"
   },
   "announcement": "https://hotcross.link/HOW-TO-TOON",
   "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
-	"headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/9846045109.png",
-	"name": "Pontoon",
+  "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/9846045109.png",
+  "name": "Pontoon",
   "symbol": "TOON",
   "description": "Pontoon is one-click liquidity mirror protocol for cross chain which aims to resolve fragmentation and composability concerns in the ecosystem in a complete trustless way.",
-  "isPending": true,
+  "isPending": false,
+  "startBlock": 12160659,
+  "endBlock": 12165160,
   "kycDeadline": 1635094800000,
-  "links" : {
+  "links": {
     "website": "https://pontoon.fi/",
     "twitter": "https://twitter.com/PontoonFi/",
     "github": "https://github.com/pontoonfi",
