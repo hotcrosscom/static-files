@@ -2091,5 +2091,53 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x57532d391E1bbB44d298b09E9A354B1b0D8674fb",
+    "name": "BANANA",
+    "decimals": 18,
+    "priority": 930,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
+    "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://apeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ape_swap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/ape_swap"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "57870370370370370",
+      "startBlock": "12108810",
+      "endBlock": "12972810",
+      "timeLock": "12110010",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xC7621930495362708E806e0cc50B52809291F3e7",
+      "rewardToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "farmingPeriod": 30,
+      "totalReward": "49999999999999999680000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
   }
 ]
