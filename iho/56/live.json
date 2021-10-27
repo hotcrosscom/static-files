@@ -42,9 +42,14 @@
       "symbol": "BNB"
     }
   ],
+  "zap": "",
   "purchase": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+  "offering": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
+  "offeringPrice": 0.35,
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
   "basic": {
+    "address": "",
+    "maxLPEntry": 0,
     "buyWith": [
       "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
       "0xe9e7cea3dedca5984780bafc599bd69add087d56",
@@ -60,9 +65,12 @@
     "toRaise": "$350,000",
     "pricePerToken": "$0.35",
     "cap": "$1,000",
+    "purchasePrice": 0,
     "color": "#F25139"
   },
   "unlimited": {
+    "address": "",
+    "maxLPEntry": 100000000000000000000,
     "buyWith": [
       "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
       "0xe9e7cea3dedca5984780bafc599bd69add087d56",
@@ -77,6 +85,7 @@
     "available": "1,000,000 TOON",
     "toRaise": "$350,000",
     "pricePerToken": "$0.35",
+    "purchasePrice": 29.93808363747164,
     "color": "#414A56"
   },
   "announcement": "https://hotcross.link/HOW-TO-TOON",
