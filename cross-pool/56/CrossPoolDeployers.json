@@ -138,5 +138,55 @@
     "address": "0x6D3431C0CC6D6fF848FD37aae4cAea774A4b6649",
     "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
     "buidltxn": "https://bscscan.com/tx/0x5e26b8b5fbafcf0fed1b834a15ccfd0d4a0d94e50700d4f960d153968ef2e5a7"
+  },
+  {
+    "address": "0x842F5FF6cfD40a2CF571B1921e36c81104e2d416",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "https://bscscan.com/tx/0x921f803a55849087f2fb43fd04884b17bc3106c11fcbeaf3e6256ede7e1c0a8c"
+  },
+  {
+    "address": "0xdFdF269C5e01c41325c426421Cb8d4E19a6eb707",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "https://bscscan.com/tx/0x434e28caf858f13e9aee97d2615d339433f6f3cb87f5afc79914aff99d2d2073"
+  },
+  {
+    "address": "0xd905BA2b0e8f156173BEE64089FE52bBEd655920",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "https://bscscan.com/tx/0xeb26a2210ee50df161a764c59dade2187054363232871e975ae408a816ab9479"
+  },
+  {
+    "address": "0xEB21F5579E7e3D8751a4caa3B3A79D58e46A7105",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "https://bscscan.com/tx/0xa480c8248069ea29c3dbf5a99108df7cef709ac01f013a3cfd548f55cfe5e2dd"
+  },
+  {
+    "address": "0xaA5F63132F61C4FA67D4D5b0e10ac89449e4AD3e",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "https://bscscan.com/tx/0xee444452dc7452968094f48bfb2dbb9d55de6dc4653611ad379e3b97e4a2f380"
+  },
+  {
+    "address": "0x5C079438902B0229b3c55c6221bEd3A321F891A3",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "https://bscscan.com/tx/0xfd680ca8a211b4819e1d8aba73da1609f16296b12595f0f016d62579756688bb"
+  },
+  {
+    "address": "0x57532d391E1bbB44d298b09E9A354B1b0D8674fb",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "https://bscscan.com/tx/0x3100f249e9aad5b96e98b218414f86ab000305bf8c6a779ab0cc203eb330f5ad"
+  },
+  {
+    "address": "0x5454cDE94Ce1072f5615D6C217bb6f92fdD75D27",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "PENDING"
+  },
+  {
+    "address": "0x584bDb8207a9dfB48894a7e509D18b2eEA2EE2b2",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "PENDING"
+  },
+  {
+    "address": "0xE3fdA64201F07aAA56ED9c1328DFAA4eC60576a9",
+    "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
+    "buidltxn": "PENDING"
   }
 ]
