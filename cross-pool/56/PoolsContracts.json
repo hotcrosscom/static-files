@@ -2210,7 +2210,7 @@
     "address": "0x584bDb8207a9dfB48894a7e509D18b2eEA2EE2b2",
     "name": "FRONT",
     "decimals": 18,
-    "priority": 970,
+    "priority": 950,
     "completedAPR": {
       "0": "0",
       "1": "0"
@@ -2256,6 +2256,104 @@
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
           "allocationPoints": "300",
           "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xE3fdA64201F07aAA56ED9c1328DFAA4eC60576a9",
+    "name": "TOON",
+    "decimals": 18,
+    "priority": 970,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Cross-Chain Liquidity Mirror Protocol, One-click liquidity mirroring across ETH, BSC, HECO Chain, xDAI, POLYGON",
+    "description": "One-click liquidity mirroring across ETH, BSC, HECO Chain, xDAI, POLYGON , OPTIMISM with incentivized relayer network and liquidity mining for liquidity providers across the chains.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://pontoon.fi/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PontoonFi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/pontoon_fi"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "115740740740740740",
+      "startBlock": "12166945",
+      "endBlock": "13030945",
+      "timeLock": "12570145",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x292920351ea01665CAdC2bc2ff7c334824732D15",
+      "rewardToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+      "farmingPeriod": 30,
+      "totalReward": "99999999999999999360000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x2D6a020c8073107DCadbFD114489823E7f186436",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "priority": 960,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "202546061867983949",
+      "startBlock": "12166885",
+      "endBlock": "13030886",
+      "timeLock": "12570085",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x3739E3CC9b5eFfB9bcBe9E7F8AA2fDb07971994a",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "174999999999999999919949",
+      "stakingPools": [
+        {
+          "stakingToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+          "allocationPoints": "1000",
+          "pid": 0
         }
       ]
     }
