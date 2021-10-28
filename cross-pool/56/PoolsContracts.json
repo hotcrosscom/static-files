@@ -2284,6 +2284,10 @@
       "telegram": {
         "label": "Telegram",
         "url": "https://t.me/pontoon_fi"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02"
       }
     },
     "chaindata": {
