@@ -159,6 +159,13 @@
     "decimals": 18,
     "symbol": "AVAX"
   },
+  "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
+    "name": "PontoonToken",
+    "buyTokenLink": "#",
+    "decimals": 18,
+    "symbol": "TOON"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
