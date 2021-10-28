@@ -65,7 +65,7 @@
     "toRaise": "$350,000",
     "pricePerToken": "$0.35",
     "cap": "$1,000",
-    "purchasePrice": 0,
+    "purchasePrice": 30,
     "color": "#F25139"
   },
   "unlimited": {
@@ -85,7 +85,7 @@
     "available": "1,000,000 TOON",
     "toRaise": "$350,000",
     "pricePerToken": "$0.35",
-    "purchasePrice": 29.93808363747164,
+    "purchasePrice": 30,
     "color": "#414A56"
   },
   "announcement": "https://hotcross.link/HOW-TO-TOON",
