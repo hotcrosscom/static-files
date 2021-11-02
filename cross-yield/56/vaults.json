@@ -11,12 +11,7 @@
     "poolId": 0,
     "crossYieldZap": "0xc39183A310B136231E89b59cCD02749530A7AfC5",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
-    "platform": "PancakeSwap",
-    "sizzlePool": {
-      "address": "0x5C079438902B0229b3c55c6221bEd3A321F891A3",
-      "pid": "0",
-      "farmingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
-    }
+    "platform": "PancakeSwap"
   },
   {
     "contractAddress": "0x3c3989E5D576f9DC96C825589dc5e8dEF916140e",
@@ -33,12 +28,7 @@
     "platform": "PancakeSwap",
     "excludedTokens": [
       "0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
-    ],
-    "sizzlePool": {
-      "address": "0x4cFeB7cb8A854c69D9B796B4Ab624c3f1051917a",
-      "pid": "0",
-      "farmingToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915"
-    }
+    ]
   },
   {
     "contractAddress": "0x9FD20EDd8B0e25A0BD09678A51Dab62a042D1e5d",
