@@ -1552,9 +1552,9 @@
     "decimals": 18,
     "priority": 925,
     "completedAPR": {
-      "0": "0",
-      "1": "0",
-      "2": "0"
+      "0": "216.35",
+      "1": "109.22",
+      "2": "35.28"
     },
     "subtitle": "Oddz is a Multi- chain option trading platform that expedites the execution of call and put options contracts, Perpetual conditional trades, and futures.",
     "description": "It employs the synergies of Ethereum, Binance Smart Chain, Elrond, Polygon and Polkadot to unleash the potential decentralized derivatives market. It focuses on building solutions that can propel the DeFi ecosystem by simplifying derivatives trading and enhancing the user experience.",
@@ -1726,8 +1726,8 @@
     "decimals": 18,
     "priority": 790,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "208.72",
+      "1": "80.02"
     },
     "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
     "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
@@ -1788,8 +1788,8 @@
     "decimals": 18,
     "priority": 1000,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "26.88",
+      "1": "26.06"
     },
     "subtitle": "Avalanche is the fastest smart contract platform in the blockchain industry, as measured by time-to-finality",
     "description": "Avalanche is the fastest smart contract platform in the blockchain industry, as measured by time-to-finality, and has the most validators securing its activity of any proof-of-stake protocol.",
@@ -1846,7 +1846,7 @@
     "decimals": 18,
     "priority": 1010,
     "completedAPR": {
-      "0": "0"
+      "0": "22.23"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -1942,8 +1942,8 @@
     "decimals": 18,
     "priority": 810,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "45.90",
+      "1": "60.28"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
@@ -1979,6 +1979,440 @@
       "stakingPools": [
         {
           "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x4cFeB7cb8A854c69D9B796B4Ab624c3f1051917a",
+    "name": "CAKE",
+    "decimals": 18,
+    "priority": 980,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
+    "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://pancakeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PancakeSwap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": " https://t.me/PancakeSwap"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "23611138438817637",
+      "startBlock": "11480878",
+      "endBlock": "12344877",
+      "timeLock": "11481166",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x88152382cFbA5c98A8C281c8AAB05b7A1c69D090",
+      "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "farmingPeriod": 30,
+      "totalReward": "20399999999999999550363",
+      "stakingPools": [
+        {
+          "stakingToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+          "allocationPoints": "750",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "250",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x5C079438902B0229b3c55c6221bEd3A321F891A3",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "priority": 1010,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "578704038601874190",
+      "startBlock": "11996461",
+      "endBlock": "13724460",
+      "timeLock": "12601260",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x7935F59fECc3ec75CC75452B17AC306ddaf95932",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 60,
+      "totalReward": "999999999999999998445810",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x57532d391E1bbB44d298b09E9A354B1b0D8674fb",
+    "name": "BANANA",
+    "decimals": 18,
+    "priority": 930,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
+    "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://apeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ape_swap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/ape_swap"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "57870370370370370",
+      "startBlock": "12108810",
+      "endBlock": "12972810",
+      "timeLock": "12110010",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xC7621930495362708E806e0cc50B52809291F3e7",
+      "rewardToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "farmingPeriod": 30,
+      "totalReward": "49999999999999999680000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x5454cDE94Ce1072f5615D6C217bb6f92fdD75D27",
+    "name": "UNO",
+    "decimals": 18,
+    "priority": 800,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot.",
+    "description": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot. Uno Re will allow the community to invest and trade in ‘risk’ and receive sizable returns on their investments while also allowing the community to propose innovative insurance products to the space, thus propelling a new generation of Insurtech companies powered by the UnoRe ecosystem.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/unore_logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://unore.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/unoreinsure"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://medium.com/uno-re"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/UnoReinsure"
+      },
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/Uno-Re"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/unore"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x474021845C4643113458ea4414bdb7fB74A01A77"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "55941336442385631",
+      "startBlock": "12194963",
+      "endBlock": "14786964",
+      "timeLock": "13001364",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xA4E9Be900E7b2F61caF8fA8b661F91258465505F",
+      "rewardToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+      "farmingPeriod": 90,
+      "totalReward": "144999999999999997937631",
+      "stakingPools": [
+        {
+          "stakingToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x584bDb8207a9dfB48894a7e509D18b2eEA2EE2b2",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 950,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "231481213563410227",
+      "startBlock": "12192546",
+      "endBlock": "13056547",
+      "timeLock": "12480547",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xb70251847d0A4a1e07886152f368ae4B0FE9946D",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 30,
+      "totalReward": "199999999999999999538227",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xE3fdA64201F07aAA56ED9c1328DFAA4eC60576a9",
+    "name": "TOON",
+    "decimals": 18,
+    "priority": 970,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Cross-Chain Liquidity Mirror Protocol, One-click liquidity mirroring across ETH, BSC, HECO Chain, xDAI, POLYGON",
+    "description": "Pontoon offers users one-click liquidity mirroring across Ethereum, BSC, Polygon, Avax, HECO Chain, xDAI, Optimism etc with an Incentivised Relayer Network and Liquidity Mining for liquidity providers participating across chains. Pontoon aims to reduce the fragmented liquidity across chains and address the lack of trustless decentralized interoperability among cross-chain DeFi protocols",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://pontoon.fi/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PontoonFi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/pontoon_fi"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "115740740740740740",
+      "startBlock": "12166945",
+      "endBlock": "13030945",
+      "timeLock": "12570145",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x292920351ea01665CAdC2bc2ff7c334824732D15",
+      "rewardToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+      "farmingPeriod": 30,
+      "totalReward": "99999999999999999360000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x2D6a020c8073107DCadbFD114489823E7f186436",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "priority": 960,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "202546061867983949",
+      "startBlock": "12166885",
+      "endBlock": "13030886",
+      "timeLock": "12570085",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x3739E3CC9b5eFfB9bcBe9E7F8AA2fDb07971994a",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "174999999999999999919949",
+      "stakingPools": [
+        {
+          "stakingToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xFf420D06D908dE2803AeA27DE552072e44d79b6b",
+    "name": "HAKA",
+    "decimals": 18,
+    "priority": 870,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
+    "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.tribeone.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/tribeonedefi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/tribeone"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://tribeone.medium.com/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/tribe1"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "401234258306899454",
+      "startBlock": "12280439",
+      "endBlock": "13576440",
+      "timeLock": "13086840",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x162D8Fc818FBd69bdd4CaD1dB6e2D12d21462064",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 45,
+      "totalReward": "519999999999999999283454",
+      "stakingPools": [
+        {
+          "stakingToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
           "allocationPoints": "700",
           "pid": 0
         },
