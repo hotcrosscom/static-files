@@ -177,16 +177,16 @@
   {
     "address": "0x5454cDE94Ce1072f5615D6C217bb6f92fdD75D27",
     "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
-    "buidltxn": "PENDING"
+    "buidltxn": "https://bscscan.com/tx/0x037b2d32715a3e7a70c88791dd2a69b79f5b8aa4083a0b93ebc38dae90e79abd"
   },
   {
     "address": "0x584bDb8207a9dfB48894a7e509D18b2eEA2EE2b2",
     "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
-    "buidltxn": "PENDING"
+    "buidltxn": "https://bscscan.com/tx/0x1a8737d4c14578d047933127ae78929bcb5e57523ada2312140cbdd107086057"
   },
   {
     "address": "0xE3fdA64201F07aAA56ED9c1328DFAA4eC60576a9",
     "deployer": "0x816FdDB6d6f7bce7b49c0A11a14b82CC33C30221",
-    "buidltxn": "PENDING"
+    "buidltxn": "https://bscscan.com/tx/0x9ef94b9a574d713f64fb1cbecebed502fffb3073e318bbaf730d2b6b83cab9b9"
   }
 ]
