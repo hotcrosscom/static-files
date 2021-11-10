@@ -2423,5 +2423,59 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x89b85A5d490D1C1d9C20249297Eb6Aaa0D981247",
+    "name": "SHILL",
+    "decimals": 18,
+    "priority": 860,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming.",
+    "description": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming that utilizes Multi-Chain Hybrid Technology and integrates Game Hub, GameFi, DAO, ESports, and Growth Program. Aiming to revolutionize the gaming industry by introducing traditional gaming industry standards into the blockchain gaming ecosystem, Project SEED integrates all GameFi functions within the application, making the experience seamless for the players",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/seed.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://projectseed.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/projectseedgame"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/projectseedannouncements"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "115740606781705113",
+      "startBlock": "12533935",
+      "endBlock": "13397936",
+      "timeLock": "12735536",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x71Ca588205A5D51c65953f501751D081594C8595",
+      "rewardToken": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+      "farmingPeriod": 30,
+      "totalReward": "99999999999999999337113",
+      "stakingPools": [
+        {
+          "stakingToken": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
