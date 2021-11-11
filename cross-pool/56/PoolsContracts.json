@@ -2502,9 +2502,9 @@
         "label": "Telegram",
         "url": "https://t.me/kalata_group"
       },
-      "apeSwap": {
-        "label": "ApeSwap",
-        "url": "https://app.apeswap.finance/swap?outputCurrency=0x32299c93960bB583A43c2220Dc89152391A610c5"
+      "kalaSwap": {
+        "label": "KalaSwap",
+        "url": "https://app.kalata.io/"
       }
     },
     "chaindata": {
@@ -2528,32 +2528,32 @@
   },
   {
     "address": "0x50213c66c5F89195809D3F44bAA71643183A0b94",
-    "name": "KALA",
+    "name": "HOT CROSS",
     "decimals": 18,
     "priority": 840,
     "completedAPR": {
       "0": "0",
       "1": "0"
     },
-    "subtitle": "Kalata is a derivatives trading platform based on BSC, allowing everyone to gain on-chain exposure to a vast range of assets.",
-    "description": "KALATA is the backbone of Synthetic Asset issuance and transaction agreements, allowing everyone to have a smooth experience of real world financial assets. Kalata will built on Binance Smart Chain with higher performance, lower transaction costs and a higher degree of customization. KALATA is also a derivative trading and mortgage lending platform for decentralized synthetic assets.",
-    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
     "links": {
       "website": {
         "label": "Website",
-        "url": "https://kalata.io/"
+        "url": "http://www.hotcross.com/"
       },
       "twitter": {
         "label": "Twitter",
-        "url": "https://twitter.com/KalataOfficial"
+        "url": "https://twitter.com/hotcrosscom"
       },
       "telegram": {
         "label": "Telegram",
-        "url": "https://t.me/kalata_group"
+        "url": "https://t.me/HotCross"
       },
-      "kalaSwap": {
-        "label": "KalaSwap",
-        "url": "https://app.kalata.io/swap?outputCurrency=0x32299c93960bB583A43c2220Dc89152391A610c5"
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
     },
     "chaindata": {
