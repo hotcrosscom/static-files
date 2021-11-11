@@ -2529,9 +2529,8 @@
   {
     "address": "0x50213c66c5F89195809D3F44bAA71643183A0b94",
     "name": "HOT CROSS",
-    "featured": true,
     "decimals": 18,
-    "priority": 1000,
+    "priority": 840,
     "completedAPR": {
       "0": "0"
     },
