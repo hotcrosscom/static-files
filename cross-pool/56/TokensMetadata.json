@@ -173,6 +173,13 @@
     "decimals": 18,
     "symbol": "SHILL"
   },
+  "0x32299c93960bB583A43c2220Dc89152391A610c5": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+    "name": "Kalata",
+    "buyTokenLink": "https://app.kalata.io/",
+    "decimals": 18,
+    "symbol": "KALA"
+  },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
     "symbol": "MARSH-BNB",
@@ -437,6 +444,25 @@
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "WBNB"
+    }
+  },
+  "0x64330C8AcCd74E8EB30894F341eF45c743B875b5": {
+    "name": "KALA-BUSD Pair",
+    "symbol": "KALA-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "KALA",
+    "buyTokenLink": "https://app.kalata.io/",
+    "addLiquidityLink": "https://app.kalata.io/#/?event=addliquidity",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+      "address": "0x32299c93960bB583A43c2220Dc89152391A610c5",
+      "symbol": "KALA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD"
     }
   }
 }
