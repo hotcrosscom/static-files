@@ -2502,9 +2502,9 @@
         "label": "Telegram",
         "url": "https://t.me/kalata_group"
       },
-      "apeSwap": {
-        "label": "ApeSwap",
-        "url": "https://app.apeswap.finance/swap?outputCurrency=0x32299c93960bB583A43c2220Dc89152391A610c5"
+      "kalaSwap": {
+        "label": "KalaSwap",
+        "url": "https://app.kalata.io/"
       }
     },
     "chaindata": {
