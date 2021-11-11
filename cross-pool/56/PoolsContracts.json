@@ -2477,5 +2477,107 @@
         }
       ]
     }
+  },
+  {
+    "address": "0xB4e97CBa69c59d2E7e5C9e45074664F541010279",
+    "name": "KALA",
+    "decimals": 18,
+    "priority": 850,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Kalata is a derivatives trading platform based on BSC, allowing everyone to gain on-chain exposure to a vast range of assets.",
+    "description": "KALATA is the backbone of Synthetic Asset issuance and transaction agreements, allowing everyone to have a smooth experience of real world financial assets. Kalata will built on Binance Smart Chain with higher performance, lower transaction costs and a higher degree of customization. KALATA is also a derivative trading and mortgage lending platform for decentralized synthetic assets.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://kalata.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/KalataOfficial"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/kalata_group"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0x32299c93960bB583A43c2220Dc89152391A610c5"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "94328812880570463",
+      "startBlock": "12590013",
+      "endBlock": "13454012",
+      "timeLock": "12791612",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x840e607997C0A7D1f25B340D9B122b66A6f1e7d8",
+      "rewardToken": "0x32299c93960bB583A43c2220Dc89152391A610c5",
+      "farmingPeriod": 30,
+      "totalReward": "81499999999999999461537",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x50213c66c5F89195809D3F44bAA71643183A0b94",
+    "name": "KALA",
+    "decimals": 18,
+    "priority": 840,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Kalata is a derivatives trading platform based on BSC, allowing everyone to gain on-chain exposure to a vast range of assets.",
+    "description": "KALATA is the backbone of Synthetic Asset issuance and transaction agreements, allowing everyone to have a smooth experience of real world financial assets. Kalata will built on Binance Smart Chain with higher performance, lower transaction costs and a higher degree of customization. KALATA is also a derivative trading and mortgage lending platform for decentralized synthetic assets.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://kalata.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/KalataOfficial"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/kalata_group"
+      },
+      "kalaSwap": {
+        "label": "KalaSwap",
+        "url": "https://app.kalata.io/swap?outputCurrency=0x32299c93960bB583A43c2220Dc89152391A610c5"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "63657481085047552",
+      "startBlock": "12590007",
+      "endBlock": "13454006",
+      "timeLock": "12791606",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x9c710Cdc37FcabC839A816a7432707ff48168263",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "54999999999999999880448",
+      "stakingPools": [
+        {
+          "stakingToken": "0x64330C8AcCd74E8EB30894F341eF45c743B875b5",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x32299c93960bB583A43c2220Dc89152391A610c5",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
