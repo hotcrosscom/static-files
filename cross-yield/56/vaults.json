@@ -219,8 +219,8 @@
     "platform": "ApeSwap"
   },
   {
-    "contractAddress": "0x36f429d602d8a6Df3F8Cf8B4293980735BeaF245",
-    "strategy": "0x51A4804194641306c88A70d93e3E062872754A49",
+    "contractAddress": "0xa177b19734fab3563e9874A87b67BF2325180D4C",
+    "strategy": "0x296d4Cd65bb57A7a66903FA990e43ebC18eF02e7",
     "farmingToken": "0x2e707261d086687470B515B320478Eb1C88D49bb",
     "token0": "0x55d398326f99059ff775485246999027b3197955",
     "token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
