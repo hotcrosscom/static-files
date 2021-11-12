@@ -113,7 +113,7 @@
     "decimals": 18,
     "symbol": "HAKA"
   },
-  "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
+  "0x2170Ed0880ac9A755fd29B2688956BD959F933F8": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
     "name": "Binance-Peg Ethereum Token",
     "decimals": 18,
@@ -179,6 +179,241 @@
     "buyTokenLink": "https://app.kalata.io/",
     "decimals": 18,
     "symbol": "KALA"
+  },
+  "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/btcb.png",
+    "name": "Binance-Peg BTCB Token",
+    "buyTokenLink": "https://app.apeswap.finance/swap?outputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "decimals": 18,
+    "symbol": "BTCB"
+  },
+  "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
+    "name": "BANANA-BNB Pair",
+    "symbol": "BANANA-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BANANA",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/BNB/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png?raw=true",
+      "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "symbol": "BANANA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x7Bd46f6Da97312AC2DBD1749f82E202764C0B914": {
+    "name": "BANANA-BUSD Pair",
+    "symbol": "BANANA-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BANANA",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png?raw=true",
+      "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "symbol": "BANANA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0x1c4a479ce71f41a68d4c2de26854fc99f310918d": {
+    "name": "HOTCROSS-BNB Pair",
+    "symbol": "HOTCROSS-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HOTCROSS",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+      "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xC184FdB2D1107195aE393691c853855798fd626F": {
+    "name": "TOON-BNB Pair",
+    "symbol": "TOON-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "TOON",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/BNB/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02/logo.png?raw=true",
+      "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+      "symbol": "TOON"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xA0C3Ef24414ED9C9B456740128d8E63D016A9e11": {
+    "name": "ETH-BNB Pair",
+    "symbol": "ETH-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "ETH",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/BNB/0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x2e707261d086687470B515B320478Eb1C88D49bb": {
+    "name": "BUSD-USDT Pair",
+    "symbol": "BUSD-USDT",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "USDT",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x55d398326f99059fF775485246999027B3197955",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png?raw=true",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    }
+  },
+  "0xC087C78AbaC4A0E900a327444193dBF9BA69058E": {
+    "name": "BUSD-USDC Pair",
+    "symbol": "BUSD-USDC",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "USDC",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png?raw=true",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "symbol": "USDC"
+    }
+  },
+  "0x51e6D27FA57373d8d4C256231241053a70Cb1d93": {
+    "name": "BUSD-BNB Pair",
+    "symbol": "BUSD-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BUSD",
+    "buyTokenLink": "https://dex.apeswap.finance/#/swap?outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "addLiquidityLink": "https://dex.apeswap.finance/#/add/BNB/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE": {
+    "name": "USDT-BNB Pair",
+    "symbol": "USDT-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "USDT",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x55d398326f99059fF775485246999027B3197955",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xf45cd219aef8618a92baa7ad848364a158a24f33": {
+    "name": "BTCB-BUSD Pair",
+    "symbol": "BTCB-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BTCB",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/btcb.png",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTCB"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082": {
+    "name": "BTCB-BNB Pair",
+    "symbol": "BTCB-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BTCB",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/btcb.png",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTCB"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x74E4716E431f45807DCF19f284c7aA99F18a4fbc": {
+    "name": "ETH-BNB Pair",
+    "symbol": "ETH-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "ETH",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
   },
   "0x222f93187f15f354d41ff6a7703ef7e18cdd5103": {
     "name": "MARSH-BNB Pair",
