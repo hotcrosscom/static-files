@@ -48,6 +48,31 @@
     "decimals": 6,
     "symbol": "USDC.e"
   },
+  "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7": {
+    "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+    "name": "Yak Token",
+    "decimals": 18,
+    "symbol": "YAK"
+  },
+  "0xb5c9e891af3063004a441ba4fab4ca3d6deb5626": {
+    "name": "YAK-AVAX Pair",
+    "symbol": "YAK-AVAX",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "YAK",
+    "buyTokenLink": "https://www.traderjoexyz.com/#/trade?outputCurrency=0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+    "addLiquidityLink": "https://www.traderjoexyz.com/#/pool/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+      "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+      "symbol": "YAK"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/avalanchec/info/logo.png",
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "symbol": "WAVAX"
+    }
+  },
   "0x454E67025631C065d3cFAD6d71E6892f74487a15": {
     "name": "JOE-AVAX Pair",
     "symbol": "JOE-AVAX",
