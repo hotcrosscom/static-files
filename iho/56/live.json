@@ -1,6 +1,6 @@
 {
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
-  "announcement": "https://hotcross.link/HOW-TO-TOON",
+  "announcement": "https://hotcross.link/HELLO-PROPEL",
   "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
   "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/propel_banner.png",
   "name": "Propel",
@@ -13,7 +13,7 @@
   "links": {
     "website": "https://www.propel.xyz",
     "twitter": "https://twitter.com/propelxyz",
-    "tg": " https://t.me/propelchat",
+    "tg": " https://t.me/propelchat"
   },
   "basic": {},
   "unlimited": {}
