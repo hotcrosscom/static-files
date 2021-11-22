@@ -2579,5 +2579,58 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x30f0222a1Ec8EeF795fe672Cf4a526A6A39d57C1",
+    "name": "BUSD",
+    "isSizzle": true,
+    "decimals": 18,
+    "priority": 1020,
+    "completedAPR": {
+      "0": "0",
+      "1": "0",
+      "2": "0"
+    },
+    "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.com/en/busd"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "223214285714285714",
+      "startBlock": "12865205",
+      "endBlock": "13268405",
+      "timeLock": "12868085",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x95e588401B5Be86cd3cF22fefF947e86D71aA256",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 14,
+      "totalReward": "89999999999999999884800",
+      "stakingPools": [
+        {
+          "stakingToken": "0x9Bff65A94C56F7173406f9B417B2Bb81bf233965",
+          "allocationPoints": "340",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xe1b17ddabA13c0c511D5b03e043DbCb81f046b5b",
+          "allocationPoints": "330",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0xcA1eAcC9a3B35C5D19EE8930B770e8358D7a502F",
+          "allocationPoints": "330",
+          "pid": 2
+        }
+      ]
+    }
   }
 ]
