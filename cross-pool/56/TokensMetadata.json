@@ -709,12 +709,12 @@
     "buyTokenLink": "https://app.hotcross.com/yield",
     "addLiquidityLink": "",
     "tokenA": {
-      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png",
       "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
       "symbol": "HOTCROSS"
     },
     "tokenB": {
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "symbol": "BNB"
     }
@@ -728,12 +728,12 @@
     "buyTokenLink": "https://app.hotcross.com/yield",
     "addLiquidityLink": "",
     "tokenA": {
-      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png",
       "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
       "symbol": "HOTCROSS"
     },
     "tokenB": {
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "symbol": "BNB"
     }
@@ -747,7 +747,7 @@
     "buyTokenLink": "https://app.hotcross.com/yield",
     "addLiquidityLink": "",
     "tokenA": {
-      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png",
       "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
       "symbol": "HOTCROSS"
     },
