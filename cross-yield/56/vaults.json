@@ -15,7 +15,11 @@
     "platform": "PancakeSwap",
     "excludedTokens": [
       "0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
-    ]
+    ],
+    "sizzlePool": {
+      "address": "0x30f0222a1Ec8EeF795fe672Cf4a526A6A39d57C1",
+      "pid": "0"
+    }
   },
   {
     "contractAddress": "0x4e4E6769d4E3387bd6717e805bb03f557C44390b",
@@ -183,7 +187,11 @@
     "platform": "ApeSwap",
     "excludedTokens": [
       "0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
-    ]
+    ],
+    "sizzlePool": {
+      "address": "0x30f0222a1Ec8EeF795fe672Cf4a526A6A39d57C1",
+      "pid": "1"
+    }
   },
   {
     "contractAddress": "0xcA1eAcC9a3B35C5D19EE8930B770e8358D7a502F",
@@ -201,7 +209,11 @@
     "platform": "ApeSwap",
     "excludedTokens": [
       "0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
-    ]
+    ],
+    "sizzlePool": {
+      "address": "0x30f0222a1Ec8EeF795fe672Cf4a526A6A39d57C1",
+      "pid": "2"
+    }
   },
   {
     "contractAddress": "0xE78eB91f9289A65b06Ba7297C95f08521ebE0Be6",
