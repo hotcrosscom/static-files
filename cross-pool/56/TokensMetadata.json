@@ -699,5 +699,62 @@
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "symbol": "BUSD"
     }
+  },
+  "0x9Bff65A94C56F7173406f9B417B2Bb81bf233965": {
+    "name": "HY-HOTCROSS-BNB (PCS)",
+    "symbol": "HY-HOTCROSS-BNB (PCS)",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HY-HOTCROSS-BNB",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "addLiquidityLink": "",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "symbol": "BNB"
+    }
+  },
+  "0xe1b17ddabA13c0c511D5b03e043DbCb81f046b5b": {
+    "name": "HY-HOTCROSS-BNB (APE)",
+    "symbol": "HY-HOTCROSS-BNB (APE)",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HY-HOTCROSS-BNB",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "addLiquidityLink": "",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "symbol": "BNB"
+    }
+  },
+  "0xcA1eAcC9a3B35C5D19EE8930B770e8358D7a502F": {
+    "name": "HY-HOTCROSS-BUSD (APE)",
+    "symbol": "HY-HOTCROSS-BUSD (APE)",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HY-HOTCROSS-BUSD",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "addLiquidityLink": "",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/KALA.png",
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
   }
 }
