@@ -2632,5 +2632,113 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x0B297cDc7a6Ac1c2C0686EeB7C145Fc9E026BC84",
+    "name": "TOON",
+    "decimals": 18,
+    "priority": 970,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Cross-Chain Liquidity Mirror Protocol, One-click liquidity mirroring across ETH, BSC, HECO Chain, xDAI, POLYGON",
+    "description": "Pontoon offers users one-click liquidity mirroring across Ethereum, BSC, Polygon, Avax, HECO Chain, xDAI, Optimism etc with an Incentivised Relayer Network and Liquidity Mining for liquidity providers participating across chains. Pontoon aims to reduce the fragmented liquidity across chains and address the lack of trustless decentralized interoperability among cross-chain DeFi protocols",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://pontoon.fi/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PontoonFi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/pontoon_fi"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "69444444444444444",
+      "startBlock": "13059778",
+      "endBlock": "14499778",
+      "timeLock": "13146178",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xa4d018645c7209C17a945B56A7e87644Cc40d5F4",
+      "rewardToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+      "farmingPeriod": 50,
+      "totalReward": "99999999999999999360000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x6E53B100f54f8db713988531EB197157F90897eA",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 950,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "231481481481481481",
+      "startBlock": "13059671",
+      "endBlock": "13923671",
+      "timeLock": "13462871",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x266B46369B3842D49B201378db8BC2d5E0fAaD90",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 30,
+      "totalReward": "199999999999999999584000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
