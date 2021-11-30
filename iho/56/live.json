@@ -6,9 +6,9 @@
   "name": "Propel",
   "symbol": "PEL",
   "description": "Multi-Chain Metaverse and DeFi-as-a-Service provider",
-  "isPending": true,
-  "startBlock": 12159685,
-  "endBlock": 12164485,
+  "isPending": false,
+  "startBlock": 121596850,
+  "endBlock": 121644850,
   "kycDeadline": 1638316800000,
   "links": {
     "website": "https://www.propel.xyz",
@@ -16,6 +16,58 @@
     "tg": "https://t.me/propelchat",
     "medium": "https://propelxyz.medium.com"
   },
-  "basic": {},
-  "unlimited": {}
+  "sessions":[
+    {
+      "address":"",
+      "buyWith":["0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"],
+      "paymentMethod":"HOTCROSS",
+      "entryWith":"HOTCROSS",
+      "launchDate":"December 7th, 2021",
+      "duration":"3 Hours",
+      "available":"1,800,000 PEL",
+      "toRaise":"$234,000",
+      "pricePerToken":"$0.13",
+      "cap":"$1,000",
+      "color":"#14213D",
+      "secondaryColor":"#FCA311",
+      "type":"basic",
+      "title": "HOTCROSS Capped Session"
+    },
+    {
+      "address":"",
+      "buyWith":["0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"],
+      "paymentMethod":"HOTDOG",
+      "entryWith":"HOTDOG",
+      "launchDate":"December 7th, 2021",
+      "duration":"3 Hours",
+      "available":"1,800,000 PEL",
+      "toRaise":"$234,000",
+      "pricePerToken":"$0.13",
+      "cap":"$10,000",
+      "color": "#9CA0A1",
+      "secondaryColor":"#14213D",
+      "type":"basic",
+      "title": "HOTDOG Capped Session"
+    },
+    {
+      "address":"",
+      "buyWith": [
+        "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "paymentMethod":"HOTCROSS-BNB PCS LP, BNB, BUSD",
+      "entryWith":"LP",
+      "launchDate":"December 7th, 2021",
+      "duration":"3 Hours",
+      "available":"1,800,000 PEL",
+      "toRaise":"$234,000",
+      "pricePerToken":"$0.13",
+      "color":"#FCA311",
+      "secondaryColor": "#9CA0A1",
+      "type":"unlimited",
+      "title": "LP Uncapped Session"
+    }
+  ]
 }

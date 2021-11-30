@@ -48,47 +48,53 @@
     "offering": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
     "offeringPrice": 0.35,
     "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
-    "basic": {
-      "address": "0x3ccFA176f443A3812d2762b0257e3f0f2Fd91A8c",
-      "maxLPEntry": 33.3333333333,
-      "buyWith": [
-        "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-        "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-        "0x0000000000000000000000000000000000000000"
-      ],
-      "paymentMethod": "HOTCROSS-BNB PCS LP, BNB, BUSD",
-      "entryWith": "LP",
-      "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-      "launchDate": "October 28th at 09:00 AM UTC",
-      "duration": "4 Hours",
-      "available": "1,000,000 TOON",
-      "toRaise": "$350,000",
-      "pricePerToken": "$0.35",
-      "cap": "$1,000",
-      "purchasePrice": 30,
-      "color": "#F25139"
-    },
-    "unlimited": {
-      "address": "0x2322e9C9dA07651eA9A69829789087eC7b355Eb6",
-      "maxLPEntry": 100000000000000000000,
-      "buyWith": [
-        "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-        "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-        "0x0000000000000000000000000000000000000000"
-      ],
-      "paymentMethod": "HOTCROSS-BNB PCS LP, BNB, BUSD",
-      "entryWith": "LP",
-      "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-      "launchDate": "October 28th at 09:00 AM UTC",
-      "duration": "4 Hours",
-      "available": "1,000,000 TOON",
-      "toRaise": "$350,000",
-      "pricePerToken": "$0.35",
-      "purchasePrice": 30,
-      "color": "#414A56"
-    },
+    "sessions": [
+      {
+        "address": "0x3ccFA176f443A3812d2762b0257e3f0f2Fd91A8c",
+        "maxLPEntry": 33.3333333333,
+        "buyWith": [
+          "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+          "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+          "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "0x0000000000000000000000000000000000000000"
+        ],
+        "paymentMethod": "HOTCROSS-BNB PCS LP, BNB, BUSD",
+        "entryWith": "LP",
+        "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "launchDate": "October 28th at 09:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "1,000,000 TOON",
+        "toRaise": "$350,000",
+        "pricePerToken": "$0.35",
+        "cap": "$1,000",
+        "purchasePrice": 30,
+        "color": "#F25139",
+        "secondaryColor":"#414A56",
+        "type":"basic"
+      },
+      {
+        "address": "0x2322e9C9dA07651eA9A69829789087eC7b355Eb6",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+          "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+          "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "0x0000000000000000000000000000000000000000"
+        ],
+        "paymentMethod": "HOTCROSS-BNB PCS LP, BNB, BUSD",
+        "entryWith": "LP",
+        "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "launchDate": "October 28th at 09:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "1,000,000 TOON",
+        "toRaise": "$350,000",
+        "pricePerToken": "$0.35",
+        "purchasePrice": 30,
+        "color": "#414A56",
+        "secondaryColor":"#F25139",
+        "type":"unlimited"
+      }
+    ],
     "announcement": "https://hotcross.link/HOW-TO-TOON",
     "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
     "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/9846045109.png",
