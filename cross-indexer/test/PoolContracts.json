@@ -1,0 +1,78 @@
+[
+  {
+    "address": "0xD5DB4226cbEAb8698564be6ecC516Ae0ba710723",
+    "name": "HOT CROSS",
+    "rewardToken": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+    "rewardVault": "0xf5C49F5Efa4Af97395CDbd66deBF9aF6D5c30561",
+    "rewardTokenDecimals": 18,
+    "startBlock": 10134296,
+    "endBlock": 12726296,
+    "stakingPools": [
+      {
+        "address": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+        "share": 45,
+        "pid": 0
+      },
+      {
+        "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+        "share": 45,
+        "pid": 1
+      },
+      {
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "share": 10,
+        "pid": 2
+      }
+    ]
+  },
+  {
+    "address": "0x5058027Fb93a5d10282c442024C0D714b0635e34",
+    "name": "HOT CROSS",
+    "rewardToken": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+    "rewardVault": "0x08C4a987e82E60496F413848F83bce7b4aE97b6D",
+    "startBlock": 10134296,
+    "endBlock": 11862296,
+    "stakingPools": [
+      {
+        "address": "0x522d4F721431E4e969A97d6ceDA522942F7cbC54",
+        "share": 45,
+        "pid": 0
+      },
+      {
+        "address": "0xA4A8Dd9ebfF26C77829DFA4B82f7F2861c9339A2",
+        "share": 30,
+        "pid": 1
+      },
+      {
+        "address": "0x253b72D76E143458E54f921be3FEDf3E3ace7abb",
+        "share": 25,
+        "pid": 2
+      }
+    ]
+  },
+  {
+    "address": "0xF3CC10FDc8fE33B55a98586F97b841E49da51795",
+    "name": "CAKE",
+    "rewardToken": "0x2cF4Fc5874157CCaF6AE8ab00FE418a1003465E9",
+    "rewardVault": "0xE1Af27A129128F6876491EC39aE72656B42248AA",
+    "startBlock": 9160796,
+    "endBlock": 10024796,
+    "stakingPools": [
+      {
+        "address": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+        "share": 80,
+        "pid": 0
+      },
+      {
+        "address": "0xC38c93d3269c89047b27f09cB00085210924F5fC",
+        "share": 10,
+        "pid": 1
+      },
+      {
+        "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+        "share": 10,
+        "pid": 2
+      }
+    ]
+  }
+]

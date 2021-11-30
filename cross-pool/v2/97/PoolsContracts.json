@@ -1,0 +1,276 @@
+[
+  {
+    "address": "0x507Dd7Ab2AE49e54606f0c31420C1C5A7EEe0c35",
+    "name": "HOTCROSS/CAKE",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
+      "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "14226643",
+      "endBlock": "16818643",
+      "claimDelay": "14226643",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+        "0xB6fd8551311962cA3f232C74138394ede4C71d20"
+      ],
+      "rewardDecimals": ["18", "18"],
+      "rewardsPerBlock": ["77160493827160493", "77160493827160493"],
+      "totalReward": ["199999999999999997856000", "199999999999999997856000"],
+      "rewardProcessor": "0xB295369b77649c7816e0115b306738004f2EC67D",
+      "rewardVault": "0x79116Be2eCF3d06856f6f4395295A8d6E77E2E12",
+      "stakingPools": [
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 500,
+          "pid": 0,
+          "decimals": "18",
+          "depositCap": "10000000000000000000000",
+          "capValidUntilBlock": "14514643"
+        },
+        {
+          "stakingToken": "0xB6fd8551311962cA3f232C74138394ede4C71d20",
+          "allocationPoints": 500,
+          "pid": 1,
+          "decimals": "18",
+          "depositCap": "10000000000000000000000",
+          "capValidUntilBlock": "14514643"
+        }
+      ],
+      "compoundEnabled": false,
+      "fees": {
+        "feeManager": "0xeDB0C93f78f77DE15c65E519f9DcCc73926eBF7a",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0
+      }
+    }
+  },
+  {
+    "address": "0x97A5F409eb3FD1FdBa9ea601B1b48D64cD074F52",
+    "name": "HOTCROSS",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "14226643",
+      "endBlock": "16818643",
+      "claimDelay": "14226643",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "500",
+      "farmingPeriod": 90,
+      "rewardTokens": ["0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81"],
+      "rewardDecimals": ["18"],
+      "rewardsPerBlock": ["192901234567901234"],
+      "totalReward": ["499999999999999998528000"],
+      "rewardProcessor": "0xb9711cc4f23d0A6c1CD4f7D6a5BEc190991C5D09",
+      "rewardVault": "0xE54f75e23e8Ef9a95aefe59eeD9393F8d73030fE",
+      "stakingPools": [
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 500,
+          "pid": 0,
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "14226643"
+        }
+      ],
+      "compoundEnabled": false,
+      "fees": {
+        "feeManager": "0xdC947E1ffCCF5732B999C118F0AEdA0343c1Ad38",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0
+      }
+    }
+  },
+  {
+    "address": "0x1C61831C55909823615Db441F492318Fad65f4Ff",
+    "name": "HOTCROSS",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "14226644",
+      "endBlock": "16818643",
+      "claimDelay": "14226644",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": ["0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81"],
+      "rewardDecimals": ["18"],
+      "rewardsPerBlock": ["77160523595881016"],
+      "totalReward": ["199999999999999997590984"],
+      "rewardProcessor": "0x6cd0f98a45d0b9B8dfC1A229B9bEab014F14e7aF",
+      "rewardVault": "0xe9e33f97681323328568d6d997b9B6F6493aa57d",
+      "stakingPools": [
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 500,
+          "pid": 0,
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "14226644"
+        },
+        {
+          "stakingToken": "0xB6fd8551311962cA3f232C74138394ede4C71d20",
+          "allocationPoints": 500,
+          "pid": 1,
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "14226644"
+        }
+      ],
+      "compoundEnabled": true,
+      "fees": {
+        "feeManager": "0x3A047629BF26cfBeef8cbD5334B9563cb79182d9",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0
+      }
+    }
+  },
+  {
+    "address": "0x931eC23d6EBA48d032B2139b9321147c833cBe72",
+    "name": "CAKE",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
+    "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://pancakeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PancakeSwap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": " https://t.me/PancakeSwap"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+      }
+    },
+    "chaindata": {
+      "startBlock": "14226644",
+      "endBlock": "16818643",
+      "claimDelay": "15090644",
+      "unstakeDelayDuration": "288000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": ["0xB6fd8551311962cA3f232C74138394ede4C71d20"],
+      "rewardDecimals": ["18"],
+      "rewardsPerBlock": ["77160523595881016"],
+      "totalReward": ["199999999999999997590984"],
+      "rewardProcessor": "0x50a007853e98443dD50228f75EF8c289144202cD",
+      "rewardVault": "0x07785b23F5d6f764BE0e71275CCB18fDb7E795D4",
+      "stakingPools": [
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 500,
+          "pid": 0,
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "14226644"
+        },
+        {
+          "stakingToken": "0xB6fd8551311962cA3f232C74138394ede4C71d20",
+          "allocationPoints": 500,
+          "pid": 1,
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "14226644"
+        }
+      ],
+      "compoundEnabled": true,
+      "fees": {
+        "feeManager": "0x0FB26BF84Fd6775C2AC26546A9D3Ba04D67397df",
+        "protocolFee": 0.01,
+        "withdrawPenaltyFee": 0.03
+      }
+    }
+  }
+]

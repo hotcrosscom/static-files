@@ -1,4 +1,11 @@
 {
+  "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+    "name": "Hot Cross",
+    "symbol": "HOTCROSS",
+    "decimals": 18,
+    "description": "The reward token"
+  },
   "0x8FD04009bcb9DE9aaf6756039571EdF89262E625": {
     "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
     "name": "Hot Cross",
@@ -6,14 +13,14 @@
     "decimals": 18,
     "description": "The reward token"
   },
-  "0xa928498275d502da7B91ee4FaEfF4b512DE30068": {
+  "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0": {
     "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
-    "name": "Binance coin",
+    "name": "Wrapt Binance coin",
     "decimals": 18,
-    "symbol": "BNB",
+    "symbol": "WBNB",
     "description": "Staking token"
   },
-  "0xC38c93d3269c89047b27f09cB00085210924F5fC": {
+  "0xB4857fF921AAEb1Ed1d67B3Adc8b45765dbf5f0b": {
     "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
     "name": "Binance USD",
     "decimals": 18,
@@ -60,6 +67,13 @@
     "name": "Vai",
     "decimals": 18,
     "symbol": "VAI",
+    "description": "Staking token"
+  },
+  "0xB6fd8551311962cA3f232C74138394ede4C71d20": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png?raw=true",
+    "name": "PancakeSwap",
+    "decimals": 18,
+    "symbol": "CAKE",
     "description": "Staking token"
   },
   "0x05CE3a90582067AE21F981EF389D1044501C0B05": {
