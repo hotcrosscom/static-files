@@ -12,6 +12,300 @@
         "addLiquidityLink":"https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
         "tokenA":{
           "image":"https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address":"0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol":"HOTCROSS"
+        },
+        "tokenB":{
+          "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address":"BNB",
+          "symbol":"BNB"
+        }
+      },
+      {
+        "address":"0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name":"Binance USD",
+        "decimals":18,
+        "symbol":"BUSD"
+      },
+      {
+        "address":"0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name":"Wrapped BNB",
+        "decimals":18,
+        "symbol":"WBNB"
+      },
+      {
+        "address":"0x0000000000000000000000000000000000000000",
+        "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name":"BNB",
+        "decimals":18,
+        "symbol":"BNB"
+      },
+      {
+        "address":"0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image":"https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name":"HOTDOG",
+        "decimals":18,
+        "symbol":"HOTDOG"
+      },
+      {
+        "address":"0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image":"https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name":"HOTCROSS",
+        "decimals":18,
+        "symbol":"HOTCROSS"
+      }
+    ],
+    "zap":"0x9b976684aFE8FC27B0365b199EA136e377f151c1",
+    "purchase":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+    "offering":"0xcBb21d2a892ad06f90282c470C8fc48eDFeaB29C",
+    "offeringPrice":0.13,
+    "offeringTokenImage":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
+    "sessions":[
+      {
+        "address":"0xC4B0C472b8Ad6545F718ad130ee7fdD8324D0027",
+        "maxLPEntry":3300,
+        "buyWith":[
+          "0x96F9A6781B28296428500c6aAea009D97E489dAe"
+        ],
+        "paymentMethod":"HOTCROSS",
+        "entryWith":"HOTCROSS",
+        "purchaseToken":"0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "launchDate":"October 28th at 09:00 AM UTC",
+        "duration":"3 Hours",
+        "available":"1,800,000 PEL",
+        "toRaise":"$234,000",
+        "pricePerToken":"$0.13",
+        "cap":"$1,000",
+        "purchasePrice":15,
+        "color": "#9CA0A1",
+        "secondaryColor":"#14213D",
+        "type":"basic",
+        "title": "HOTCROSS Capped Session"
+      },
+      {
+        "address":"0x42586a2Dea2417B1EDDe8049a054E470561C2b6b",
+        "maxLPEntry":100000,
+        "buyWith":[
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod":"HOTDOG",
+        "entryWith":"HOTDOG",
+        "purchaseToken":"0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate":"October 28th at 09:00 AM UTC",
+        "duration":"3 Hours",
+        "available":"1,800,000 PEL",
+        "toRaise":"$234,000",
+        "pricePerToken":"$0.13",
+        "cap":"$1,000",
+        "purchasePrice":20,
+        "color":"#14213D",
+        "secondaryColor":"#FCA311",
+        "type":"basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03
+      },
+      {
+        "address":"0x69041BEaEd638661AC503e6f0A0e643925a23307",
+        "maxLPEntry":100000000000000000000,
+        "buyWith":[
+          "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+          "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+          "0x0000000000000000000000000000000000000000"
+        ],
+        "paymentMethod":"HOTCROSS-BNB PCS LP, BNB, BUSD",
+        "entryWith":"LP",
+        "purchaseToken":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "launchDate":"October 28th at 09:00 AM UTC",
+        "duration":"3 Hours",
+        "available":"1,800,000 PEL",
+        "toRaise":"$234,000",
+        "pricePerToken":"$0.13",
+        "purchasePrice":29.93808363747164,
+        "color":"#FCA311",
+        "secondaryColor": "#9CA0A1",
+        "type":"unlimited",
+        "title": "LP Uncapped Session"
+      }
+    ],
+    "announcement":"https://hotcross.link/HOW-TO-TOON",
+    "logo":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
+    "headerBg":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/propel_banner.png",
+    "name":"Propel",
+    "symbol":"PEL",
+    "description":"Multi-Chain Metaverse and DeFi-as-a-Service provider",
+    "startBlock":14649624,
+    "endBlock":14650400,
+    "kycDeadline":1635243004000,
+    "isPending":false,
+    "links":{
+      "website":"https://www.propel.xyz",
+      "twitter":"https://twitter.com/propelxyz",
+      "tg":"https://t.me/propelchat"
+    }
+  },
+  {
+    "tokens":[
+      {
+        "address":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name":"HOTCROSS-BNB Pair",
+        "symbol":"HOTCROSS-BNB",
+        "decimals":18,
+        "type":"lp",
+        "buyTokenSymbol":"HOTCROSS",
+        "buyTokenLink":"https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink":"https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA":{
+          "image":"https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address":"0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol":"HOTCROSS"
+        },
+        "tokenB":{
+          "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address":"BNB",
+          "symbol":"BNB"
+        }
+      },
+      {
+        "address":"0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name":"Binance USD",
+        "decimals":18,
+        "symbol":"BUSD"
+      },
+      {
+        "address":"0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name":"Wrapped BNB",
+        "decimals":18,
+        "symbol":"WBNB"
+      },
+      {
+        "address":"0x0000000000000000000000000000000000000000",
+        "image":"https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name":"BNB",
+        "decimals":18,
+        "symbol":"BNB"
+      },
+      {
+        "address":"0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image":"https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name":"HOTDOG",
+        "decimals":18,
+        "symbol":"HOTDOG"
+      },
+      {
+        "address":"0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image":"https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name":"HOTCROSS",
+        "decimals":18,
+        "symbol":"HOTCROSS"
+      }
+    ],
+    "zap":"0x58Ed8c097D39cf8A568125C615130f53c6584668",
+    "purchase":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+    "offering":"0xcBb21d2a892ad06f90282c470C8fc48eDFeaB29C",
+    "offeringPrice":0.13,
+    "offeringTokenImage":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
+    "sessions":[
+      {
+        "address":"0x98D3843eC3E9ab673C41f0405Fcc8e47F2466ABB",
+        "maxLPEntry":3300,
+        "buyWith":[
+          "0x96F9A6781B28296428500c6aAea009D97E489dAe"
+        ],
+        "paymentMethod":"HOTCROSS",
+        "entryWith":"HOTCROSS",
+        "purchaseToken":"0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "launchDate":"October 28th at 09:00 AM UTC",
+        "duration":"4 Hours",
+        "available":"1,000,000 PEL",
+        "toRaise":"$350,000",
+        "pricePerToken":"$0.13",
+        "cap":"$1,000",
+        "purchasePrice":15,
+        "color": "#9CA0A1",
+        "secondaryColor":"#14213D",
+        "type":"basic",
+        "title": "HOTCROSS Capped Session"
+      },
+      {
+        "address":"0x764b8d7e5A0ea4b0266c88FD3C7AcabFB8EB909F",
+        "maxLPEntry":100000,
+        "buyWith":[
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod":"HOTDOG",
+        "entryWith":"HOTDOG",
+        "purchaseToken":"0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate":"October 28th at 09:00 AM UTC",
+        "duration":"4 Hours",
+        "available":"1,000,000 PEL",
+        "toRaise":"$350,000",
+        "pricePerToken":"$0.13",
+        "cap":"$1,000",
+        "purchasePrice":20,
+        "color":"#14213D",
+        "secondaryColor":"#FCA311",
+        "type":"basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03
+      },
+      {
+        "address":"0xe8aF38272111482635DDc72694BD9F04d04e182C",
+        "maxLPEntry":100000000000000000000,
+        "buyWith":[
+          "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+          "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+          "0x0000000000000000000000000000000000000000"
+        ],
+        "paymentMethod":"HOTCROSS-BNB PCS LP, BNB, BUSD",
+        "entryWith":"LP",
+        "purchaseToken":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "launchDate":"October 28th at 09:00 AM UTC",
+        "duration":"4 Hours",
+        "available":"1,000,000 PEL",
+        "toRaise":"$350,000",
+        "pricePerToken":"$0.13",
+        "purchasePrice":29.93808363747164,
+        "color":"#FCA311",
+        "secondaryColor": "#9CA0A1",
+        "type":"unlimited",
+        "title": "LP Uncapped Session"
+      }
+    ],
+    "announcement":"https://hotcross.link/HOW-TO-TOON",
+    "logo":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
+    "headerBg":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/propel_banner.png",
+    "name":"Propel",
+    "symbol":"PEL",
+    "description":"Multi-Chain Metaverse and DeFi-as-a-Service provider",
+    "startBlock":14646600,
+    "endBlock":14647300,
+    "kycDeadline":1635243004000,
+    "isPending":false,
+    "links":{
+      "website":"https://www.propel.xyz",
+      "twitter":"https://twitter.com/propelxyz",
+      "tg":"https://t.me/propelchat"
+    }
+  },
+  {
+    "tokens":[
+      {
+        "address":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name":"HOTCROSS-BNB Pair",
+        "symbol":"HOTCROSS-BNB",
+        "decimals":18,
+        "type":"lp",
+        "buyTokenSymbol":"HOTCROSS",
+        "buyTokenLink":"https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink":"https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA":{
+          "image":"https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
           "address":"0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
           "symbol":"HOTCROSS"
         },
@@ -69,7 +363,8 @@
         "cap":"$1,000",
         "purchasePrice":29.93808363747164,
         "color":"#F25139",
-        "type":"basic"
+        "type":"basic",
+        "secondaryColor": "#414A56"
       },
       {
         "address":"0xf22eFFC34284E193c7E109111305C8F431c23035",
@@ -90,29 +385,8 @@
         "pricePerToken":"$0.35",
         "purchasePrice":29.93808363747164,
         "color":"#414A56",
-        "type":"unlimited"
-      },
-      {
-        "address":"0xC5c6D8407709f48C257bb9cc0aa9751EEEF49161",
-        "maxLPEntry":5000,
-        "buyWith":[
-          "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
-          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
-          "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
-          "0x0000000000000000000000000000000000000000"
-        ],
-        "paymentMethod":"HOTCROSS-BNB PCS LP, BNB, BUSD",
-        "entryWith":"LP",
-        "purchaseToken":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
-        "launchDate":"October 28th at 09:00 AM UTC",
-        "duration":"4 Hours",
-        "available":"1,000,000 TOON",
-        "toRaise":"$350,000",
-        "pricePerToken":"$0.35",
-        "cap":"$1,000",
-        "purchasePrice":29.93808363747164,
-        "color":"#F25139",
-        "type":"basic"
+        "type":"unlimited",
+        "secondaryColor": "#F25139"
       }
     ],
     "announcement":"https://hotcross.link/HOW-TO-TOON",
