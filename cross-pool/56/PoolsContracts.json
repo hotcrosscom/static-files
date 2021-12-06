@@ -2587,9 +2587,9 @@
     "decimals": 18,
     "priority": 1020,
     "completedAPR": {
-      "0": "0",
-      "1": "0",
-      "2": "0"
+      "0": "17.84",
+      "1": "26.08",
+      "2": "37.33"
     },
     "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
     "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
