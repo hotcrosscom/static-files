@@ -56,15 +56,15 @@
       "symbol":"HOTCROSS"
     }
   ],
-  "zap":"0x9b976684aFE8FC27B0365b199EA136e377f151c1",
+  "zap":"0xD61c96002558757D6715ee707d66ec596dC72dE3",
   "purchase":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
   "offering":"0xcBb21d2a892ad06f90282c470C8fc48eDFeaB29C",
   "offeringPrice":0.13,
   "offeringTokenImage":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
   "sessions":[
     {
-      "address":"0xC4B0C472b8Ad6545F718ad130ee7fdD8324D0027",
-      "maxLPEntry":3300,
+      "address":"0xcb611FA6318f5E64b67EA443FE896e206b8a6c9F",
+      "maxLPEntry": 200000.1234,
       "buyWith":[
         "0x96F9A6781B28296428500c6aAea009D97E489dAe"
       ],
@@ -77,15 +77,15 @@
       "toRaise":"$234,000",
       "pricePerToken":"$0.13",
       "cap":"$1,000",
-      "purchasePrice":15,
+      "purchasePrice": 0.45,
       "color": "#9CA0A1",
       "secondaryColor":"#14213D",
       "type":"basic",
       "title": "HOTCROSS Capped Session"
     },
     {
-      "address":"0x42586a2Dea2417B1EDDe8049a054E470561C2b6b",
-      "maxLPEntry":100000,
+      "address":"0x87b43B0F529d8d542E540104964b66965f5FB851",
+      "maxLPEntry":200000.1234,
       "buyWith":[
         "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
       ],
@@ -98,7 +98,7 @@
       "toRaise":"$234,000",
       "pricePerToken":"$0.13",
       "cap":"$1,000",
-      "purchasePrice":20,
+      "purchasePrice": 0.58,
       "color":"#14213D",
       "secondaryColor":"#FCA311",
       "type":"basic",
@@ -106,7 +106,7 @@
       "reflectFee": 0.03
     },
     {
-      "address":"0x69041BEaEd638661AC503e6f0A0e643925a23307",
+      "address":"0x732213158BfB8B1DA3AB1e28239bFe85F598A409",
       "maxLPEntry":100000000000000000000,
       "buyWith":[
         "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
@@ -135,8 +135,8 @@
   "name":"Propel",
   "symbol":"PEL",
   "description":"Multi-Chain Metaverse and DeFi-as-a-Service provider",
-  "startBlock":14649624,
-  "endBlock":14650400,
+  "startBlock":14737301,
+  "endBlock":14738301,
   "kycDeadline":1635243004000,
   "isPending":false,
   "links":{
