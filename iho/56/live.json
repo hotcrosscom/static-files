@@ -135,8 +135,8 @@
   "symbol": "PEL",
   "description": "Multi-Chain Metaverse and DeFi-as-a-Service provider",
   "isPending": false,
-  "startBlock": 13274913,
-  "endBlock": 13278512,
+  "startBlock": 13269012,
+  "endBlock": 13272512,
   "kycDeadline": 1638316800000,
   "links": {
     "website": "https://www.propel.xyz",
