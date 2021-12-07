@@ -1,0 +1,23 @@
+{
+  "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+    "name": "Hot Cross",
+    "symbol": "HOTCROSS",
+    "decimals": 18,
+    "description": "The reward token"
+  },
+  "0x8055224F9C5f891Fc42C78Cd76Aa479e3C19bBB1": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
+    "name": "Wrapt Binance coin",
+    "decimals": 18,
+    "symbol": "WBNB",
+    "description": "Staking token"
+  },
+  "0x43454eD950DDae91b902853d090C3Ad23C2F0589": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
+    "name": "Binance USD",
+    "decimals": 18,
+    "symbol": "BUSD",
+    "description": "Staking token"
+  }
+}
