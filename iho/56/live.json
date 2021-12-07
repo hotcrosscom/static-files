@@ -56,14 +56,14 @@
       "symbol": "BNB"
     }
   ],
-  "zap": "",
+  "zap": "0x5C41E6BAD6Bda2b89dc95A2d1bFCfd61648D2BB4",
   "purchase": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
   "offering": "0xa75e7928d3de682e3f44da60c26f33117c4e6c5c",
   "offeringPrice": 0.13,
   "sessions": [
     {
-      "address": "",
-      "maxLPEntry": 2202.64317180617,
+      "address": "0x1cBdd2c9a163134c4Df1fc5D7164dD88Ab67b7eb",
+      "maxLPEntry": 2202.6431718062,
       "buyWith": [
         "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
       ],
@@ -83,8 +83,8 @@
       "title": "HOTCROSS Capped Session"
     },
     {
-      "address": "",
-      "maxLPEntry": 18315.0183150183,
+      "address": "0xeb6c80a4cB2f1fD73E510b7Ee4AE2B9830197BEC",
+      "maxLPEntry": 18281.9383259912,
       "buyWith": [
         "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
       ],
@@ -97,14 +97,14 @@
       "toRaise": "$234,000",
       "pricePerToken": "$0.13",
       "cap": "$10,000",
-      "purchasePrice": 0.546,
+      "purchasePrice": 0.5469879518,
       "color": "#9CA0A1",
       "secondaryColor": "#14213D",
       "type": "basic",
       "title": "HOTDOG Capped Session"
     },
     {
-      "address": "",
+      "address": "0x345B89FC93222748F1289C1A9B24742a7aF588d2",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
         "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
@@ -120,7 +120,7 @@
       "available": "1,800,000 PEL",
       "toRaise": "$234,000",
       "pricePerToken": "$0.13",
-      "purchasePrice": 34.807,
+      "purchasePrice": 36,
       "color": "#FCA311",
       "secondaryColor": "#9CA0A1",
       "type": "unlimited",
