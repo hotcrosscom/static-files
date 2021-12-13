@@ -2484,7 +2484,7 @@
     "decimals": 18,
     "priority": 850,
     "completedAPR": {
-      "0": "0"
+      "0": "26.98"
     },
     "subtitle": "Kalata is a derivatives trading platform based on BSC, allowing everyone to gain on-chain exposure to a vast range of assets.",
     "description": "KALATA is the backbone of Synthetic Asset issuance and transaction agreements, allowing everyone to have a smooth experience of real world financial assets. Kalata will built on Binance Smart Chain with higher performance, lower transaction costs and a higher degree of customization. KALATA is also a derivative trading and mortgage lending platform for decentralized synthetic assets.",
@@ -2532,8 +2532,8 @@
     "decimals": 18,
     "priority": 840,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "361.33",
+      "1": "138.21"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
