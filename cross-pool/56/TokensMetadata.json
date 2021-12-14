@@ -187,6 +187,20 @@
     "decimals": 18,
     "symbol": "BTCB"
   },
+  "0x4e4E6769d4E3387bd6717e805bb03f557C44390b": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "name": "HY-CAKE (PCS)",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "decimals": 18,
+    "symbol": "HY-CAKE (PCS)"
+  },
+  "0x58b05d8a31878481AC3518F3d63F1b0EaBC4b56c": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "name": "HY-BANANA (APE)",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "decimals": 18,
+    "symbol": "HY-BANANA (APE)"
+  },
   "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
     "name": "BANANA-BNB Pair",
     "symbol": "BANANA-BNB",
