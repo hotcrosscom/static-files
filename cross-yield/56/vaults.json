@@ -99,7 +99,7 @@
     "sizzlePool": {
       "address": "0x5Db83590B5b7010Bc45160F60aF7e853b22DfEf0",
       "pid": "0",
-      "farmingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      "farmingToken": "0x06e3177fD413A64aE2634cc3A647dcB6cDa08847"
     }
   },
   {
@@ -164,7 +164,7 @@
     "sizzlePool": {
       "address": "0x5Db83590B5b7010Bc45160F60aF7e853b22DfEf0",
       "pid": "2",
-      "farmingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      "farmingToken": "0x0760c3e695FA5a23ae66DAdC57d3D9cD7C93FCeC"
     }
   },
   {
@@ -270,7 +270,7 @@
     "sizzlePool": {
       "address": "0x5Db83590B5b7010Bc45160F60aF7e853b22DfEf0",
       "pid": "1",
-      "farmingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      "farmingToken": "0xa177b19734fab3563e9874A87b67BF2325180D4C"
     }
   },
   {
@@ -290,7 +290,7 @@
     "sizzlePool": {
       "address": "0x5Db83590B5b7010Bc45160F60aF7e853b22DfEf0",
       "pid": "3",
-      "farmingToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      "farmingToken": "0x1f83451CA13f7d5876aA19B792dCeb7619621b09"
     }
   },
   {
