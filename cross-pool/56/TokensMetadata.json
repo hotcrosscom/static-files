@@ -770,5 +770,81 @@
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "symbol": "BUSD"
     }
+  },
+  "0x06e3177fD413A64aE2634cc3A647dcB6cDa08847": {
+    "name": "HY-USDT-BUSD (PCS)",
+    "symbol": "HY-USDT-BUSD (PCS)",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HY-USDT-BUSD",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "addLiquidityLink": "",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0xa177b19734fab3563e9874A87b67BF2325180D4C": {
+    "name": "HY-USDT-BUSD (APE)",
+    "symbol": "HY-USDT-BUSD (APE)",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HY-USDT-BUSD",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "addLiquidityLink": "",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0x0760c3e695FA5a23ae66DAdC57d3D9cD7C93FCeC": {
+    "name": "HY-USDC-BUSD (PCS)",
+    "symbol": "HY-USDC-BUSD (PCS)",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HY-USDC-BUSD",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "addLiquidityLink": "",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "symbol": "USDC"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0x1f83451CA13f7d5876aA19B792dCeb7619621b09": {
+    "name": "HY-USDC-BUSD (APE)",
+    "symbol": "HY-USDC-BUSD (APE)",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HY-USDC-BUSD",
+    "buyTokenLink": "https://app.hotcross.com/yield",
+    "addLiquidityLink": "",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "symbol": "USDC"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
   }
 }

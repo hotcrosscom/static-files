@@ -2849,5 +2849,64 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x5Db83590B5b7010Bc45160F60aF7e853b22DfEf0",
+    "name": "BUSD",
+    "isSizzle": true,
+    "decimals": 18,
+    "priority": 1020,
+    "completedAPR": {
+      "0": "0",
+      "1": "0",
+      "2": "0",
+      "3": "0"
+    },
+    "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.com/en/busd"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "57870370370370370",
+      "startBlock": "13499506",
+      "endBlock": "14363506",
+      "timeLock": "13585906",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xe48c8D77da59e6bb80Bfc6398A276905c0fd8408",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 30,
+      "totalReward": "49999999999999999680000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x06e3177fD413A64aE2634cc3A647dcB6cDa08847",
+          "allocationPoints": "250",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xa177b19734fab3563e9874A87b67BF2325180D4C",
+          "allocationPoints": "250",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0x0760c3e695FA5a23ae66DAdC57d3D9cD7C93FCeC",
+          "allocationPoints": "250",
+          "pid": 2
+        },
+        {
+          "stakingToken": "0x1f83451CA13f7d5876aA19B792dCeb7619621b09",
+          "allocationPoints": "250",
+          "pid": 3
+        }
+      ]
+    }
   }
 ]
