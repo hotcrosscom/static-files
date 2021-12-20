@@ -2368,8 +2368,8 @@
     "decimals": 18,
     "priority": 870,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "65.16",
+      "1": "20.93"
     },
     "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
     "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
@@ -2905,6 +2905,68 @@
           "stakingToken": "0x1f83451CA13f7d5876aA19B792dCeb7619621b09",
           "allocationPoints": "250",
           "pid": 3
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x1D585C6fEe7539a1Fc715e9cd4BAC68574208795",
+    "name": "HAKA",
+    "decimals": 18,
+    "priority": 870,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
+    "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.tribeone.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/tribeonedefi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/tribeone"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://tribeone.medium.com/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/tribe1"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "655864703599308332",
+      "startBlock": "13643168",
+      "endBlock": "14939167",
+      "timeLock": "14449567",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x9c919Cd5E83079d4F30eC8394C236A23CA79f759",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 45,
+      "totalReward": "849999999999999998963668",
+      "stakingPools": [
+        {
+          "stakingToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
         }
       ]
     }
