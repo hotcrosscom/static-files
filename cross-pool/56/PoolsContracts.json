@@ -2050,7 +2050,7 @@
     "decimals": 18,
     "priority": 1010,
     "completedAPR": {
-      "0": "0"
+      "0": "17.58"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -2967,6 +2967,54 @@
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
           "allocationPoints": "300",
           "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x9476eE19ef58248151A88d7871a4a52e48298c2f",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "priority": 1010,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "578704373500432292",
+      "startBlock": "13722831",
+      "endBlock": "14586830",
+      "timeLock": "13809231",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x41519dBc6fACC55944aD5E92A64dC785CfE003b8",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "499999999999999999855708",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
         }
       ]
     }
