@@ -187,6 +187,13 @@
     "decimals": 18,
     "symbol": "BTCB"
   },
+  "0x40f906e19B14100D5247686E08053c4873c66192": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/sugar_bounce.png",
+    "name": "SugarBounce",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x40f906e19b14100d5247686e08053c4873c66192",
+    "decimals": 18,
+    "symbol": "TIP"
+  },
   "0x4e4E6769d4E3387bd6717e805bb03f557C44390b": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     "name": "HY-CAKE (PCS)",

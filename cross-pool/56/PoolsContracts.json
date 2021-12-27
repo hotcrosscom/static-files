@@ -3018,5 +3018,63 @@
         }
       ]
     }
+  },
+  {
+    "address": "0xE85da195755d40072bA3CcA69CeFEa05dd531E73",
+    "name": "TIP",
+    "decimals": 18,
+    "priority": 790,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "A mature content sharing platform, SugarBounce is a universe for all the elevated entertainment needs of the next generation.",
+    "description": "A mature content sharing platform, SugarBounce is a universe for all the elevated entertainment needs of the next generation.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/sugar_bounce.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://sugarbounce.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/SugarBounceNSFW"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/SugarBounceNSFW"
+      },
+      "gitHub": {
+        "label": "Github",
+        "url": "https://github.com/SugarBounceNSFW"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x40f906e19b14100d5247686e08053c4873c66192"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "151234567901234567",
+      "startBlock": "13845007",
+      "endBlock": "15141007",
+      "timeLock": "14651407",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x598d78157b828B8f20Ba5efAc92987A980F454A3",
+      "rewardToken": "0x40f906e19B14100D5247686E08053c4873c66192",
+      "farmingPeriod": 45,
+      "totalReward": "195999999999999998832000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x40f906e19B14100D5247686E08053c4873c66192",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
