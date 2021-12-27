@@ -2693,8 +2693,8 @@
     "decimals": 18,
     "priority": 950,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "42.28",
+      "1": "34.45"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
@@ -3066,6 +3066,60 @@
       "stakingPools": [
         {
           "stakingToken": "0x40f906e19B14100D5247686E08053c4873c66192",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xa07ebbaD15AFd879BaE608503382844cd66f5707",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 950,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "154320987654320987",
+      "startBlock": "13923597",
+      "endBlock": "15219597",
+      "timeLock": "14729997",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xA3Ab5691AF8d1a540bcEFe3526c5c860bDe914eC",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 45,
+      "totalReward": "199999999999999999152000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
           "allocationPoints": "700",
           "pid": 0
         },
