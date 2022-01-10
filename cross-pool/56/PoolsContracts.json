@@ -3130,5 +3130,59 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x7cFA13Fe0EF4c4F5AEa4a697d99d06a65A28Fcf4",
+    "name": "BANANA",
+    "decimals": 18,
+    "priority": 1020,
+    "isSizzle": true,
+    "completedAPR": {
+      "0": "106.74"
+    },
+    "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
+    "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://apeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ape_swap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/ape_swap"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "173611312050129687",
+      "startBlock": "14246368",
+      "endBlock": "15110367",
+      "timeLock": "14249247",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xDB54Dfd1c70b963150c20CF9161BaF0F024482F0",
+      "rewardToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "farmingPeriod": 30,
+      "totalReward": "149999999999999999438313",
+      "stakingPools": [
+        {
+          "stakingToken": "0xe1b17ddabA13c0c511D5b03e043DbCb81f046b5b",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xcA1eAcC9a3B35C5D19EE8930B770e8358D7a502F",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
