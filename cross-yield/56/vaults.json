@@ -1,11 +1,11 @@
 [
   {
-    "contractAddress": "0x9Eb5bC67d66d18d3f0702fA2d4AA1C42D86dEf7d",
-    "strategy": "0xf89BfB57Bb617d6278f4f7e6E94d5A05a253836d",
+    "contractAddress": "0x242413374B2c7888DF22D52C7f40A68405351011",
+    "strategy": "0xA450152a75eC12608abd7d69F6B3ecB9836B58d5",
     "farmingToken": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
     "token0": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
     "token1": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
-    "blockNumber": 14316412,
+    "blockNumber": 14323674,
     "name": "BSW",
     "ibtSymbol": "HotYield BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
@@ -15,12 +15,12 @@
     "platform": "BiSwap"
   },
   {
-    "contractAddress": "0x87799C095407600bb2EeB18718fbA384aB5a99aA",
-    "strategy": "0x229b7327E69db320eB1dc0293Dd269d74Ddfe8B6",
+    "contractAddress": "0xEc90c73a9061307984861C7422bbB26C4A00a25C",
+    "strategy": "0xe84d6C6dd99a6C2b7aD443C64E9Ca655c2965eF8",
     "farmingToken": "0x2b30c317ceDFb554Ec525F85E79538D59970BEb0",
     "token0": "0x55d398326f99059fF775485246999027B3197955",
     "token1": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
-    "blockNumber": 14316449,
+    "blockNumber": 14323666,
     "name": "BSW-USDT",
     "ibtSymbol": "HotYield BSW-USDT",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
