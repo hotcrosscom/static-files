@@ -194,6 +194,20 @@
     "decimals": 18,
     "symbol": "TIP"
   },
+  "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1/logo.png",
+    "name": "BiSwap",
+    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "decimals": 18,
+    "symbol": "BSW"
+  },
+  "0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657/logo.png",
+    "name": "Baby",
+    "buyTokenLink": "https://exchange.babyswap.finance/#/swap?outputCurrency=0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+    "decimals": 18,
+    "symbol": "BABY"
+  },
   "0x4e4E6769d4E3387bd6717e805bb03f557C44390b": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     "name": "HY-CAKE (PCS)",
@@ -207,6 +221,44 @@
     "buyTokenLink": "https://app.hotcross.com/yield",
     "decimals": 18,
     "symbol": "HY-BANANA (APE)"
+  },
+  "0x2b30c317ceDFb554Ec525F85E79538D59970BEb0": {
+    "name": "BSW-USDT Pair",
+    "symbol": "BSW-USDT",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BSW",
+    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1/0x55d398326f99059fF775485246999027B3197955",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1/logo.png",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+      "symbol": "BSW"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    }
+  },
+  "0xE730C7B7470447AD4886c763247012DfD233bAfF": {
+    "name": "BABY-USDT Pair",
+    "symbol": "BABY-USDT",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "BABY",
+    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657/0x55d398326f99059fF775485246999027B3197955",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657/logo.png",
+      "address": "0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+      "symbol": "BABY"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    }
   },
   "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
     "name": "BANANA-BNB Pair",
