@@ -56,15 +56,15 @@
       "symbol":"HOTCROSS"
     }
   ],
-  "zap":"0xD61c96002558757D6715ee707d66ec596dC72dE3",
+  "zap":"0x20bd745f59E2CF9414c4e578Af94D1BCBA5b507C",
   "purchase":"0x7420570e8F8001f6887d02d9dAF29466AB529c43",
   "offering":"0xcBb21d2a892ad06f90282c470C8fc48eDFeaB29C",
   "offeringPrice":0.13,
   "offeringTokenImage":"https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
   "sessions":[
     {
-      "address":"0xcb611FA6318f5E64b67EA443FE896e206b8a6c9F",
-      "maxLPEntry": 200000.1234,
+      "address":"0xc9EfCbbf29C1999bFfD96d41176Ac03E55FdB1fA",
+      "maxLPEntry": 400000,
       "buyWith":[
         "0x96F9A6781B28296428500c6aAea009D97E489dAe"
       ],
@@ -81,11 +81,16 @@
       "color": "#9CA0A1",
       "secondaryColor":"#14213D",
       "type":"basic",
-      "title": "HOTCROSS Capped Session"
+      "title": "HOTCROSS Capped Session",
+      "vestingStartDate": 1639681219,
+      "claimVestingDuration": 3600,
+      "refundVestingDuration": 3600,
+      "claimVestingCliff": 1639683019,
+      "refundVestingCliff": 1639683019
     },
     {
-      "address":"0x87b43B0F529d8d542E540104964b66965f5FB851",
-      "maxLPEntry":200000.1234,
+      "address":"0xD1b1A75706C5690D5a928fc4c2234362e5aF0e36",
+      "maxLPEntry": 100000.5734,
       "buyWith":[
         "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
       ],
@@ -103,10 +108,15 @@
       "secondaryColor":"#FCA311",
       "type":"basic",
       "title": "HOTDOG Capped Session",
-      "reflectFee": 0.03
+      "reflectFee": 0.03,
+      "vestingStartDate": 1639681219,
+      "claimVestingDuration": 3600,
+      "refundVestingDuration": 3600,
+      "claimVestingCliff": 1639683019,
+      "refundVestingCliff": 1639683019
     },
     {
-      "address":"0x732213158BfB8B1DA3AB1e28239bFe85F598A409",
+      "address":"0xC25386A4D575aEE3B0d82a61f00fDf082f51167F",
       "maxLPEntry":100000000000000000000,
       "buyWith":[
         "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
@@ -126,7 +136,12 @@
       "color":"#FCA311",
       "secondaryColor": "#9CA0A1",
       "type":"unlimited",
-      "title": "LP Uncapped Session"
+      "title": "LP Uncapped Session",
+      "vestingStartDate": 1639681219,
+      "claimVestingDuration": 3600,
+      "refundVestingDuration": 3600,
+      "claimVestingCliff": 1639683019,
+      "refundVestingCliff": 1639683019
     }
   ],
   "announcement":"https://hotcross.link/HOW-TO-TOON",
@@ -135,8 +150,8 @@
   "name":"Propel",
   "symbol":"PEL",
   "description":"Multi-Chain Metaverse and DeFi-as-a-Service provider",
-  "startBlock":14737301,
-  "endBlock":14738301,
+  "startBlock":15028529,
+  "endBlock":15029729,
   "kycDeadline":1635243004000,
   "isPending":false,
   "links":{
