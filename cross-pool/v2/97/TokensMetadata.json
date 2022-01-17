@@ -103,6 +103,18 @@
     "decimals": 18,
     "symbol": "GUM"
   },
+  "0xA7A04eA8a03f21c6E36983d61B32776EFe59813E": {
+    "image": "https://assets-global.website-files.com/5cb0ac9c57054973ac1bf1e4/5cd05a47c44956d45350bd60_3810.png",
+    "name": "Gold 8",
+    "decimals": 8,
+    "symbol": "GLD8"
+  },
+  "0xaB1a86C7acF2FD783548a5701199b2384E0407aA": {
+    "image": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "name": "Tether",
+    "decimals": 6,
+    "symbol": "USDT"
+  },
   "0xA4A8Dd9ebfF26C77829DFA4B82f7F2861c9339A2": {
     "name": "CAKE-BNB Pair",
     "symbol": "CAKE-BNB",

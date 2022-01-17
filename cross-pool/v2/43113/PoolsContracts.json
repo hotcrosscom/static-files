@@ -1,7 +1,7 @@
 [
   {
-    "address": "0xE9E8278e22c679afE6bF0E7FceE045f26e1af278",
-    "name": "HOTCROSS/BUSD",
+    "address": "0xE74D45db96478c40dD4c64Ec46Fec4BcEbeD6A29",
+    "name": "HOTCROSS/AVAX",
     "decimals": 18,
     "priority": 1000,
     "completedAPR": {
@@ -23,68 +23,59 @@
       "telegram": {
         "label": "Telegram",
         "url": "https://t.me/HotCross"
-      },
-      "pancakeSwap": {
-        "label": "PancakeSwap",
-        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
     },
     "chaindata": {
-      "startBlock": "3186578",
-      "endBlock": "5778578",
-      "claimDelay": "3186578",
+      "startBlock": "4826296",
+      "endBlock": "7418295",
+      "claimDelay": "4826296",
       "unstakeDelayDuration": "0",
       "totalAllocationPoints": "1000",
       "farmingPeriod": 90,
       "rewardTokens": [
         "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284",
-        "0x43454eD950DDae91b902853d090C3Ad23C2F0589"
+        "0x9Fc2526142a0CA2F023776825e994A07778CE2B0"
       ],
       "rewardDecimals": [
         "18",
         "18"
       ],
       "rewardsPerBlock": [
-        "385802469135802469",
-        "77160493827160493"
+        "385802617979405084",
+        "77160523595881016"
       ],
       "totalReward": [
-        "999999999999999999648000",
-        "199999999999999997856000"
+        "999999999999999998322916",
+        "199999999999999997590984"
       ],
-      "rewardProcessor": "0x3Aa2Ce1312BB5df5a667FFe503869a4bB918a784",
-      "rewardVault": "0xA81120cf0C04E9414A1f74F8b6328660964088d1",
+      "rewardProcessor": "0xAbe2590A2ba6Bf7cE436f95E3121A795Ca3481a5",
+      "rewardVault": "0x36d52FC977Eaf440A81bcB92Ba5c398e5ebB3461",
       "stakingPools": [
         {
           "stakingToken": "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284",
           "allocationPoints": 500,
           "pid": 0,
+          "swapPath": [],
           "decimals": "18",
           "depositCap": "200000000000000000000000",
-          "capValidUntilBlock": "3474578"
+          "capValidUntilBlock": "5114296"
         },
         {
-          "stakingToken": "0x43454eD950DDae91b902853d090C3Ad23C2F0589",
-          "allocationPoints": 250,
+          "stakingToken": "0x9Fc2526142a0CA2F023776825e994A07778CE2B0",
+          "allocationPoints": 500,
           "pid": 1,
+          "swapPath": [],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "3474578"
-        },
-        {
-          "stakingToken": "0x8055224F9C5f891Fc42C78Cd76Aa479e3C19bBB1",
-          "allocationPoints": 250,
-          "pid": 2,
-          "decimals": "18",
-          "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "3474578"
+          "capValidUntilBlock": "5114296"
         }
       ],
       "compoundEnabled": false,
       "fees": {
-        "feeManager": "0x6f6210827E80Ed536FCB5c6D5ffAfc40C242B0d9",
+        "feeManager": "0x6D71525AdeD298FCCb257B0fea18A78502aA8D47",
         "protocolFee": 0.01,
-        "withdrawPenaltyFee": 0.03
+        "withdrawPenaltyFee": 0.03,
+        "withdrawPenaltyBlock": 4912696
       }
     }
   }
