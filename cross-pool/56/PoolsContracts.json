@@ -3185,5 +3185,52 @@
         }
       ]
     }
+  },
+  {
+    "address": "0xD6188F51f94C05bd7AA61346bffc278Ad3Eb67B5",
+    "name": "BUSD",
+    "isSizzle": true,
+    "decimals": 18,
+    "priority": 1020,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.com/en/busd"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "23148148148148148",
+      "startBlock": "14447417",
+      "endBlock": "16175417",
+      "timeLock": "15311416",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xe9b72bDeF3a4f511977D1690B6F00D1b1522Aa67",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 60,
+      "totalReward": "39999999999999999744000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x06e3177fD413A64aE2634cc3A647dcB6cDa08847",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x0760c3e695FA5a23ae66DAdC57d3D9cD7C93FCeC",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
