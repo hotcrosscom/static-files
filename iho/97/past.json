@@ -83,11 +83,7 @@
         "secondaryColor": "#FF7F0F",
         "type": "basic",
         "title": "BUSD Capped Session",
-        "vestingStartDate": 1642375800,
-        "claimVestingDuration": 7776000,
-        "refundVestingDuration": 7776000,
-        "claimVestingCliff": 1642377600,
-        "refundVestingCliff": 1642377600
+        "claimableBy": 1650151800
       },
       {
         "address": "0xEAe34990b2f7FB090B6ddCa18bABE9D712B33D20",
@@ -110,11 +106,7 @@
         "type": "basic",
         "title": "HOTDOG Capped Session",
         "reflectFee": 0.03,
-        "vestingStartDate": 1642375800,
-        "claimVestingDuration": 7776000,
-        "refundVestingDuration": 7776000,
-        "claimVestingCliff": 1642377600,
-        "refundVestingCliff": 1642377600
+        "claimableBy": 1650151800
       },
       {
         "address": "0xab332Ddc7A0a33F6875ccb3E90C5F08D2d13e0C6",
@@ -136,11 +128,7 @@
         "type": "unlimited",
         "title": "HOTDOG Uncapped Session",
         "reflectFee": 0.03,
-        "vestingStartDate": 1642375800,
-        "claimVestingDuration": 7776000,
-        "refundVestingDuration": 7776000,
-        "claimVestingCliff": 1642377600,
-        "refundVestingCliff": 1642377600
+        "claimableBy": 1650151800
       }
     ],
     "announcement": "https://hotcross.link/HOW-TO-TOON",
