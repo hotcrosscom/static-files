@@ -63,7 +63,7 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "0x29B1694c0649DA6b2c09F4DE6422a6D9659E4894",
+      "address": "0x44C720E368A8c3B3561594EA071260A699296f60",
       "maxLPEntry": 10000,
       "buyWith": [
         "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
@@ -82,14 +82,14 @@
       "secondaryColor": "#FF7F0F",
       "type": "basic",
       "title": "BUSD Capped Session",
-      "vestingStartDate": 1642529400,
-      "claimVestingDuration": 1200,
-      "refundVestingDuration": 1200,
-      "claimVestingCliff": 1642529700,
-      "refundVestingCliff": 1642529700
+      "vestingStartDate": 1642585980,
+      "claimVestingDuration": 1500,
+      "refundVestingDuration": 1500,
+      "claimVestingCliff": 1642586280,
+      "refundVestingCliff": 1642586280
     },
     {
-      "address": "0x967C055593121e9fa35a93e04E87705C3747ff7e",
+      "address": "0xeA7818540dBa93C3d4a534ebc1aE6b4D633E8fb8",
       "maxLPEntry": 8620.6896,
       "buyWith": [
         "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
@@ -109,14 +109,14 @@
       "type": "basic",
       "title": "HOTDOG Capped Session",
       "reflectFee": 0.03,
-      "vestingStartDate": 1642529400,
-      "claimVestingDuration": 1200,
-      "refundVestingDuration": 1200,
-      "claimVestingCliff": 1642529700,
-      "refundVestingCliff": 1642529700
+      "vestingStartDate": 1642585980,
+      "claimVestingDuration": 1500,
+      "refundVestingDuration": 1500,
+      "claimVestingCliff": 1642586280,
+      "refundVestingCliff": 1642586280
     },
     {
-      "address": "0x7906a5800Da4EBe7FDA63D935005d30fed2b27cB",
+      "address": "0xa73A63D4ECb7a9D30e71626d60B9F0397b70D91c",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
         "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
@@ -135,11 +135,11 @@
       "type": "unlimited",
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
-      "vestingStartDate": 1642529400,
-      "claimVestingDuration": 1200,
-      "refundVestingDuration": 1200,
-      "claimVestingCliff": 1642529700,
-      "refundVestingCliff": 1642529700
+      "vestingStartDate": 1642585980,
+      "claimVestingDuration": 1500,
+      "refundVestingDuration": 1500,
+      "claimVestingCliff": 1642586280,
+      "refundVestingCliff": 1642586280
     }
   ],
   "announcement": "https://hotcross.link/HOW-TO-TOON",
@@ -148,8 +148,8 @@
   "name": "RankerDAO",
   "symbol": "RANKER",
   "description": "Ranker description",
-  "startBlock": 15977600,
-  "endBlock": 15958800,
+  "startBlock": 15996400,
+  "endBlock": 15997000,
   "kycDeadline": 1635243004000,
   "isPending": false,
   "links": {
