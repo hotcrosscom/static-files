@@ -2639,8 +2639,8 @@
     "decimals": 18,
     "priority": 970,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "65.74086544505894",
+      "1": "52.405082947095615"
     },
     "subtitle": "Cross-Chain Liquidity Mirror Protocol, One-click liquidity mirroring across ETH, BSC, HECO Chain, xDAI, POLYGON",
     "description": "Pontoon offers users one-click liquidity mirroring across Ethereum, BSC, Polygon, Avax, HECO Chain, xDAI, Optimism etc with an Incentivised Relayer Network and Liquidity Mining for liquidity providers participating across chains. Pontoon aims to reduce the fragmented liquidity across chains and address the lack of trustless decentralized interoperability among cross-chain DeFi protocols",
