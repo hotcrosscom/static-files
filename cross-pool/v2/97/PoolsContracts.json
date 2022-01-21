@@ -1,6 +1,6 @@
 [
   {
-    "address": "0x0279d66BC9AFad410CAA30b13C36131C0FD42391",
+    "address": "0x86a24274edF8f80172655e62e808c82c6dc6644F",
     "name": "HOTCROSS",
     "decimals": 18,
     "priority": 1000,
@@ -30,9 +30,9 @@
       }
     },
     "chaindata": {
-      "startBlock": "15835475",
-      "endBlock": "18427475",
-      "claimDelay": "15835475",
+      "startBlock": "16053499",
+      "endBlock": "18645499",
+      "claimDelay": "16053499",
       "unstakeDelayDuration": "0",
       "totalAllocationPoints": "1000",
       "farmingPeriod": 90,
@@ -48,17 +48,21 @@
       "totalReward": [
         "999999999999999999648000"
       ],
-      "rewardProcessor": "0x98854184e42c656A07182F8A6cB0Fc1dE8EbcD20",
-      "rewardVault": "0x0654BfEFAeDd3C45c51907bf4611d3503aa429fe",
+      "rewardProcessor": "0xC6516ed80166f0309878451D6613C96087CDD459",
+      "rewardVault": "0x897ccf06F76CEB2C54B5e65604FBE3D7b1376701",
       "stakingPools": [
         {
           "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
           "allocationPoints": 500,
           "pid": 0,
-          "swapPath": [],
+          "swapPath": [
+            "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+            "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+            "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81"
+          ],
           "decimals": "18",
           "depositCap": "200000000000000000000000",
-          "capValidUntilBlock": "16123475"
+          "capValidUntilBlock": "16341499"
         },
         {
           "stakingToken": "0xB6fd8551311962cA3f232C74138394ede4C71d20",
@@ -71,15 +75,15 @@
           ],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "16123475"
+          "capValidUntilBlock": "16341499"
         }
       ],
       "compoundEnabled": true,
       "fees": {
-        "feeManager": "0x6ddcdc121981646173D5f309eb675faAc365B746",
+        "feeManager": "0x97547564f0062d1d022d3608650BBaF576db7185",
         "protocolFee": 0.01,
         "withdrawPenaltyFee": 0.03,
-        "withdrawPenaltyBlock": 16411475
+        "withdrawPenaltyBlock": 16629499
       }
     }
   }
