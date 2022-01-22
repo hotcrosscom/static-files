@@ -2050,7 +2050,7 @@
     "decimals": 18,
     "priority": 1010,
     "completedAPR": {
-      "0": "0"
+      "0": "17.58"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -2368,8 +2368,8 @@
     "decimals": 18,
     "priority": 870,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "65.16",
+      "1": "20.93"
     },
     "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
     "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
@@ -2430,8 +2430,8 @@
     "decimals": 18,
     "priority": 860,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "34.20",
+      "1": "27.30"
     },
     "subtitle": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming.",
     "description": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming that utilizes Multi-Chain Hybrid Technology and integrates Game Hub, GameFi, DAO, ESports, and Growth Program. Aiming to revolutionize the gaming industry by introducing traditional gaming industry standards into the blockchain gaming ecosystem, Project SEED integrates all GameFi functions within the application, making the experience seamless for the players",
@@ -2484,7 +2484,7 @@
     "decimals": 18,
     "priority": 850,
     "completedAPR": {
-      "0": "0"
+      "0": "26.98"
     },
     "subtitle": "Kalata is a derivatives trading platform based on BSC, allowing everyone to gain on-chain exposure to a vast range of assets.",
     "description": "KALATA is the backbone of Synthetic Asset issuance and transaction agreements, allowing everyone to have a smooth experience of real world financial assets. Kalata will built on Binance Smart Chain with higher performance, lower transaction costs and a higher degree of customization. KALATA is also a derivative trading and mortgage lending platform for decentralized synthetic assets.",
@@ -2532,8 +2532,8 @@
     "decimals": 18,
     "priority": 840,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "361.33",
+      "1": "138.21"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
@@ -2587,9 +2587,9 @@
     "decimals": 18,
     "priority": 1020,
     "completedAPR": {
-      "0": "0",
-      "1": "0",
-      "2": "0"
+      "0": "17.84",
+      "1": "26.08",
+      "2": "37.33"
     },
     "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
     "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
@@ -2639,8 +2639,8 @@
     "decimals": 18,
     "priority": 970,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "65.74",
+      "1": "52.40"
     },
     "subtitle": "Cross-Chain Liquidity Mirror Protocol, One-click liquidity mirroring across ETH, BSC, HECO Chain, xDAI, POLYGON",
     "description": "Pontoon offers users one-click liquidity mirroring across Ethereum, BSC, Polygon, Avax, HECO Chain, xDAI, Optimism etc with an Incentivised Relayer Network and Liquidity Mining for liquidity providers participating across chains. Pontoon aims to reduce the fragmented liquidity across chains and address the lack of trustless decentralized interoperability among cross-chain DeFi protocols",
@@ -2693,8 +2693,8 @@
     "decimals": 18,
     "priority": 950,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "42.28",
+      "1": "34.45"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
@@ -2736,6 +2736,545 @@
         {
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
           "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x0693B82031D96E65DE98e84D8d0e56Ffd9C22862",
+    "name": "SHILL",
+    "decimals": 18,
+    "priority": 860,
+    "completedAPR": {
+      "0": "29.27",
+      "1": "32.29"
+    },
+    "subtitle": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming.",
+    "description": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming that utilizes Multi-Chain Hybrid Technology and integrates Game Hub, GameFi, DAO, ESports, and Growth Program. Aiming to revolutionize the gaming industry by introducing traditional gaming industry standards into the blockchain gaming ecosystem, Project SEED integrates all GameFi functions within the application, making the experience seamless for the players",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/seed.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://projectseed.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/projectseedgame"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/projectseedannouncements"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "173611111111111111",
+      "startBlock": "13442372",
+      "endBlock": "14306372",
+      "timeLock": "13845572",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xeF874CA1Ee1D576E815E565F67a2FC93AE4364e4",
+      "rewardToken": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+      "farmingPeriod": 30,
+      "totalReward": "149999999999999999904000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x372Bc2A5D4346B80166161Fdd9db00A90275d14F",
+    "name": "HOT CROSS",
+    "isSizzle": true,
+    "decimals": 18,
+    "priority": 1020,
+    "completedAPR": {
+      "0": "18.46",
+      "1": "159.50"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "115740740740740740",
+      "startBlock": "13470968",
+      "endBlock": "14334968",
+      "timeLock": "13874168",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xc7a76CF0b27A6EE409e7aD40A1Ca5AaB8B036da5",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "99999999999999999360000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4e4E6769d4E3387bd6717e805bb03f557C44390b",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x58b05d8a31878481AC3518F3d63F1b0EaBC4b56c",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x5Db83590B5b7010Bc45160F60aF7e853b22DfEf0",
+    "name": "BUSD",
+    "isSizzle": true,
+    "decimals": 18,
+    "priority": 1020,
+    "completedAPR": {
+      "0": "30.14",
+      "1": "31.25",
+      "2": "32.18",
+      "3": "32.13"
+    },
+    "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.com/en/busd"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "57870370370370370",
+      "startBlock": "13499506",
+      "endBlock": "14363506",
+      "timeLock": "13585906",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xe48c8D77da59e6bb80Bfc6398A276905c0fd8408",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 30,
+      "totalReward": "49999999999999999680000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x06e3177fD413A64aE2634cc3A647dcB6cDa08847",
+          "allocationPoints": "250",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xa177b19734fab3563e9874A87b67BF2325180D4C",
+          "allocationPoints": "250",
+          "pid": 1
+        },
+        {
+          "stakingToken": "0x0760c3e695FA5a23ae66DAdC57d3D9cD7C93FCeC",
+          "allocationPoints": "250",
+          "pid": 2
+        },
+        {
+          "stakingToken": "0x1f83451CA13f7d5876aA19B792dCeb7619621b09",
+          "allocationPoints": "250",
+          "pid": 3
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x1D585C6fEe7539a1Fc715e9cd4BAC68574208795",
+    "name": "HAKA",
+    "decimals": 18,
+    "priority": 870,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
+    "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.tribeone.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/tribeonedefi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/tribeone"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://tribeone.medium.com/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/tribe1"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "655864703599308332",
+      "startBlock": "13643168",
+      "endBlock": "14939167",
+      "timeLock": "14449567",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x9c919Cd5E83079d4F30eC8394C236A23CA79f759",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 45,
+      "totalReward": "849999999999999998963668",
+      "stakingPools": [
+        {
+          "stakingToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x9476eE19ef58248151A88d7871a4a52e48298c2f",
+    "name": "HOT CROSS",
+    "decimals": 18,
+    "priority": 1010,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "578704373500432292",
+      "startBlock": "13722831",
+      "endBlock": "14586830",
+      "timeLock": "13809231",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x41519dBc6fACC55944aD5E92A64dC785CfE003b8",
+      "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "farmingPeriod": 30,
+      "totalReward": "499999999999999999855708",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "1000",
+          "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xE85da195755d40072bA3CcA69CeFEa05dd531E73",
+    "name": "TIP",
+    "decimals": 18,
+    "priority": 790,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "A mature content sharing platform, SugarBounce is a universe for all the elevated entertainment needs of the next generation.",
+    "description": "A mature content sharing platform, SugarBounce is a universe for all the elevated entertainment needs of the next generation.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/sugar_bounce.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://sugarbounce.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/SugarBounceNSFW"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/SugarBounceNSFW"
+      },
+      "gitHub": {
+        "label": "Github",
+        "url": "https://github.com/SugarBounceNSFW"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x40f906e19b14100d5247686e08053c4873c66192"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "151234567901234567",
+      "startBlock": "13845007",
+      "endBlock": "15141007",
+      "timeLock": "14651407",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x598d78157b828B8f20Ba5efAc92987A980F454A3",
+      "rewardToken": "0x40f906e19B14100D5247686E08053c4873c66192",
+      "farmingPeriod": 45,
+      "totalReward": "195999999999999998832000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x40f906e19B14100D5247686E08053c4873c66192",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xa07ebbaD15AFd879BaE608503382844cd66f5707",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 950,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "154320987654320987",
+      "startBlock": "13923597",
+      "endBlock": "15219597",
+      "timeLock": "14729997",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xA3Ab5691AF8d1a540bcEFe3526c5c860bDe914eC",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 45,
+      "totalReward": "199999999999999999152000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x7cFA13Fe0EF4c4F5AEa4a697d99d06a65A28Fcf4",
+    "name": "BANANA",
+    "decimals": 18,
+    "priority": 1020,
+    "isSizzle": true,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
+    "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://apeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ape_swap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/ape_swap"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "173611312050129687",
+      "startBlock": "14246368",
+      "endBlock": "15110367",
+      "timeLock": "14249247",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xDB54Dfd1c70b963150c20CF9161BaF0F024482F0",
+      "rewardToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "farmingPeriod": 30,
+      "totalReward": "149999999999999999438313",
+      "stakingPools": [
+        {
+          "stakingToken": "0xe1b17ddabA13c0c511D5b03e043DbCb81f046b5b",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xcA1eAcC9a3B35C5D19EE8930B770e8358D7a502F",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xD6188F51f94C05bd7AA61346bffc278Ad3Eb67B5",
+    "name": "BUSD",
+    "isSizzle": true,
+    "decimals": 18,
+    "priority": 1020,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.com/en/busd"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "23148148148148148",
+      "startBlock": "14447417",
+      "endBlock": "16175417",
+      "timeLock": "15311416",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xe9b72bDeF3a4f511977D1690B6F00D1b1522Aa67",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 60,
+      "totalReward": "39999999999999999744000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x06e3177fD413A64aE2634cc3A647dcB6cDa08847",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x0760c3e695FA5a23ae66DAdC57d3D9cD7C93FCeC",
+          "allocationPoints": "500",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x481F7CA6aEe3BfEb45e5db69ECD2ffeCAfB459Dc",
+    "name": "BUSD",
+    "isSizzle": true,
+    "decimals": 18,
+    "priority": 1019,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
+    "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.binance.com/en/busd"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "23148148148148148",
+      "startBlock": "14475874",
+      "endBlock": "16203874",
+      "timeLock": "15339874",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x4993e8F25D88BD5D8B81489dD5a97F0f7d37b337",
+      "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "farmingPeriod": 60,
+      "totalReward": "39999999999999999744000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x1f83451CA13f7d5876aA19B792dCeb7619621b09",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xa177b19734fab3563e9874A87b67BF2325180D4C",
+          "allocationPoints": "500",
           "pid": 1
         }
       ]
