@@ -63,7 +63,7 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "0xF8d2448B17f9144575273518B6Fa5d82273cDD63",
+      "address": "0x3331A9168b3C696f5Bd75C2940f0c7460e904A38",
       "maxLPEntry": 30000,
       "buyWith": [
         "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
@@ -82,10 +82,10 @@
       "secondaryColor": "#FF7F0F",
       "type": "basic",
       "title": "BUSD Capped Session",
-      "claimableBy": 1642733490
+      "claimableBy": 1642881750
     },
     {
-      "address": "0xc4Ec44B0A8447Bd25fA30c2757613DDfb1Ea277a",
+      "address": "0xe602f563B526804E165f1C0949e3e7AedE7bfF01",
       "maxLPEntry": 30000,
       "buyWith": [
         "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
@@ -105,10 +105,10 @@
       "type": "basic",
       "title": "HOTDOG Capped Session",
       "reflectFee": 0.03,
-      "claimableBy": 1642733490
+      "claimableBy": 1642881750
     },
     {
-      "address": "0x1718bD260012df2F07113D0AC46db69ff8AdFb0f",
+      "address": "0x486bcA837aA174d785E7eBF2D5269a76Fa2f66b8",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
         "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
@@ -126,8 +126,7 @@
       "secondaryColor": "#8053D7",
       "type": "unlimited",
       "title": "HOTDOG Uncapped Session",
-      "reflectFee": 0.03,
-      "claimableBy": 1642733490
+      "reflectFee": 0.03
     }
   ],
   "announcement": "https://hotcross.link/HOW-TO-TOON",
@@ -136,8 +135,8 @@
   "name": "RankerDAO",
   "symbol": "RANKER",
   "description": "Ranker description",
-  "startBlock": 16045800,
-  "endBlock": 16046000,
+  "startBlock": 16095000,
+  "endBlock": 16095400,
   "kycDeadline": 1635243004000,
   "isPending": false,
   "links": {
