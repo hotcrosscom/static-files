@@ -7,7 +7,7 @@
     "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "blockNumber": 12533269,
     "name": "HOTCROSS-BNB",
-    "ibtSymbol": "HY-HOTCROSS-BNB-PCS-V2 ",
+    "ibtSymbol": "HY-HOTCROSS-BNB-PCS-V2",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
     "poolId": 386,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
@@ -25,7 +25,7 @@
     "token1": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "blockNumber": 12533747,
     "name": "CAKE",
-    "ibtSymbol": "HY-CAKE-PCS-V2 ",
+    "ibtSymbol": "HY-CAKE-PCS-V2",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
     "poolId": 0,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
@@ -359,7 +359,7 @@
     "ibtSymbol": "HY-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 0,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   },
@@ -374,7 +374,7 @@
     "ibtSymbol": "HY-BUSD-USDT-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 1,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   },
@@ -389,7 +389,7 @@
     "ibtSymbol": "HY-BNB-USDT-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 2,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   },
@@ -404,7 +404,7 @@
     "ibtSymbol": "HY-BNB-BTCB-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 8,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   },
@@ -419,7 +419,7 @@
     "ibtSymbol": "HY-BNB-BUSD-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 3,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   },
@@ -434,7 +434,7 @@
     "ibtSymbol": "HY-BNB-BSW-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 10,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   },
@@ -449,7 +449,7 @@
     "ibtSymbol": "HY-USDC-USDT-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 4,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   },
@@ -464,7 +464,7 @@
     "ibtSymbol": "HY-USDT-BSW-BSW",
     "masterchef": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739",
     "poolId": 9,
-    "crossYieldZap": "0x1f7ca00176a176BEF58097A5c215102cbd42c945",
+    "crossYieldZap": "0xca0C7F8dbc35E2D714b3Fc1b17AFcbAcD26E5489",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "BiSwap"
   }
