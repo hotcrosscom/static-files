@@ -272,7 +272,7 @@
       "symbol": "BUSD"
     }
   },
-  "0x1c4a479ce71f41a68d4c2de26854fc99f310918d": {
+  "0x1c4A479ce71f41A68d4c2dE26854FC99f310918D": {
     "name": "HOTCROSS-BNB Pair",
     "symbol": "HOTCROSS-BNB",
     "decimals": 18,
@@ -405,7 +405,7 @@
       "symbol": "WBNB"
     }
   },
-  "0xf45cd219aef8618a92baa7ad848364a158a24f33": {
+  "0xF45cd219aEF8618A92BAa7aD848364a158a24F33": {
     "name": "BTCB-BUSD Pair",
     "symbol": "BTCB-BUSD",
     "decimals": 18,
