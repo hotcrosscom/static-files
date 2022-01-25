@@ -862,13 +862,13 @@
     }
   },
   "0xDA8ceb724A06819c0A5cDb4304ea0cB27F8304cF": {
-    "name": "BUSD-USDT Pair (BSW)",
-    "symbol": "BUSD-USDT (BSW)",
+    "name": "BUSD-USDT Pair",
+    "symbol": "BUSD-USDT",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BUSD",
-    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-    "addLiquidityLink": "https://exchange.biswap.org/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "addLiquidityLink": "https://exchange.biswap.org/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x55d398326f99059fF775485246999027B3197955",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -881,8 +881,8 @@
     }
   },
   "0x8840C6252e2e86e545deFb6da98B2a0E26d8C1BA": {
-    "name": "BNB-USDT Pair (BSW)",
-    "symbol": "BNB-USDT (BSW)",
+    "name": "BNB-USDT Pair",
+    "symbol": "BNB-USDT",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "USDT",
@@ -900,8 +900,8 @@
     }
   },
   "0xC7e9d76ba11099AF3F330ff829c5F442d571e057": {
-    "name": "BNB-BTCB Pair (BSW)",
-    "symbol": "BNB-BTCB (BSW)",
+    "name": "BNB-BTCB Pair",
+    "symbol": "BNB-BTCB",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BTCB",
@@ -919,12 +919,12 @@
     }
   },
   "0xaCAac9311b0096E04Dfe96b6D87dec867d3883Dc": {
-    "name": "BNB-BUSD Pair (BSW)",
-    "symbol": "BNB-BUSD (BSW)",
+    "name": "BNB-BUSD Pair",
+    "symbol": "BNB-BUSD",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BUSD",
-    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "addLiquidityLink": "https://exchange.biswap.org/add/BNB/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
@@ -938,8 +938,8 @@
     }
   },
   "0x46492B26639Df0cda9b2769429845cb991591E0A": {
-    "name": "BNB-BSW Pair (BSW)",
-    "symbol": "BNB-BSW (BSW)",
+    "name": "BNB-BSW Pair",
+    "symbol": "BNB-BSW",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BSW",
@@ -957,8 +957,8 @@
     }
   },
   "0x1483767E665B3591677Fd49F724bf7430C18Bf83": {
-    "name": "USDC-USDT Pair (BSW)",
-    "symbol": "USDC-USDT (BSW)",
+    "name": "USDC-USDT Pair",
+    "symbol": "USDC-USDT",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "USDC",
@@ -976,8 +976,8 @@
     }
   },
   "0x2b30c317ceDFb554Ec525F85E79538D59970BEb0": {
-    "name": "USDT-BSW Pair (BSW)",
-    "symbol": "USDT-BSW (BSW)",
+    "name": "USDT-BSW Pair",
+    "symbol": "USDT-BSW",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "BSW",
