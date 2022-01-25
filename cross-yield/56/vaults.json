@@ -361,7 +361,7 @@
     "poolId": 0,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   },
   {
     "contractAddress": "0x988cB6FD94ca343f726122E794A15799193c7A57",
@@ -376,7 +376,7 @@
     "poolId": 1,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   },
   {
     "contractAddress": "0xE6947C43E7869c7Ce32CDeC6e14CF61F39250d9A",
@@ -391,7 +391,7 @@
     "poolId": 2,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   },
   {
     "contractAddress": "0xB8BEA5c4852F5e57b54706e93A19b567f4c79716",
@@ -406,7 +406,7 @@
     "poolId": 8,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   },
   {
     "contractAddress": "0x6Fd5470136a253C59E1d6fe4EFA967Df5677455E",
@@ -421,7 +421,7 @@
     "poolId": 3,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   },
   {
     "contractAddress": "0xC3B3D3fDbb47452d7B6854527A3B1604C12682eE",
@@ -436,7 +436,7 @@
     "poolId": 10,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   },
   {
     "contractAddress": "0xD3288A6f77f75FcBc7Fd874a86C9EB168cE605d7",
@@ -451,7 +451,7 @@
     "poolId": 4,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   },
   {
     "contractAddress": "0x7727382504495C198eB33BEd4ee31c4A5F7fF752",
@@ -466,6 +466,6 @@
     "poolId": 9,
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "BiSwap"
+    "platform": "Biswap"
   }
 ]
