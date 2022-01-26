@@ -868,7 +868,7 @@
     "type": "lp",
     "buyTokenSymbol": "BUSD",
     "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-    "addLiquidityLink": "https://exchange.biswap.org/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x55d398326f99059fF775485246999027B3197955",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x55d398326f99059fF775485246999027B3197955",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -887,7 +887,7 @@
     "type": "lp",
     "buyTokenSymbol": "USDT",
     "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x55d398326f99059fF775485246999027B3197955",
-    "addLiquidityLink": "https://exchange.biswap.org/add/BNB/0x55d398326f99059fF775485246999027B3197955",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/BNB/0x55d398326f99059fF775485246999027B3197955",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -906,7 +906,7 @@
     "type": "lp",
     "buyTokenSymbol": "BTCB",
     "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-    "addLiquidityLink": "https://exchange.biswap.org/add/BNB/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/BNB/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -925,7 +925,7 @@
     "type": "lp",
     "buyTokenSymbol": "BUSD",
     "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-    "addLiquidityLink": "https://exchange.biswap.org/add/BNB/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/BNB/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -944,7 +944,7 @@
     "type": "lp",
     "buyTokenSymbol": "BSW",
     "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x965f527d9159dce6288a2219db51fc6eef120dd1",
-    "addLiquidityLink": "https://exchange.biswap.org/add/BNB/0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/BNB/0x965f527d9159dce6288a2219db51fc6eef120dd1",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -963,7 +963,7 @@
     "type": "lp",
     "buyTokenSymbol": "USDC",
     "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-    "addLiquidityLink": "https://exchange.biswap.org/add/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/0x55d398326f99059fF775485246999027B3197955",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/0x55d398326f99059fF775485246999027B3197955",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png",
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
@@ -982,7 +982,7 @@
     "type": "lp",
     "buyTokenSymbol": "BSW",
     "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x965f527d9159dce6288a2219db51fc6eef120dd1",
-    "addLiquidityLink": "https://exchange.biswap.org/add/0x55d398326f99059fF775485246999027B3197955/0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "addLiquidityLink": "https://exchange.biswap.org/#/add/0x55d398326f99059fF775485246999027B3197955/0x965f527d9159dce6288a2219db51fc6eef120dd1",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
       "address": "0x55d398326f99059fF775485246999027B3197955",
