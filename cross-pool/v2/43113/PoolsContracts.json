@@ -254,7 +254,7 @@
       "claimDelay": "5372744",
       "unstakeDelayDuration": "0",
       "totalAllocationPoints": "1000",
-      "farmingPeriod": 30.000069444444446,
+      "farmingPeriod": 30,
       "rewardTokens": [
         "0x9Fc2526142a0CA2F023776825e994A07778CE2B0"
       ],

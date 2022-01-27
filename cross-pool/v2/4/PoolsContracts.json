@@ -34,7 +34,7 @@
       "endBlock": "10581837",
       "claimDelay": "10063437",
       "unstakeDelayDuration": "0",
-      "totalAllocationPoints": "0",
+      "totalAllocationPoints": "1000",
       "farmingPeriod": 18,
       "rewardTokens": [
         "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972"
@@ -50,7 +50,33 @@
       ],
       "rewardProcessor": "0x35d4D96b0763cc924DD5e7FC89638A8d3F8c0Fb1",
       "rewardVault": "0x700D6eF8c8F7F1527344dF39ABC685072503a72b",
-      "stakingPools": [],
+      "stakingPools": [
+        {
+          "stakingToken": "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
+          "allocationPoints": 500,
+          "pid": 0,
+          "swapPath": [
+            "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
+            "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
+            "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972"
+          ],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "10074957"
+        },
+        {
+          "stakingToken": "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
+          "allocationPoints": 500,
+          "pid": 1,
+          "swapPath": [
+            "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
+            "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972"
+          ],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "10121037"
+        }
+      ],
       "compoundEnabled": true,
       "fees": {
         "feeManager": "0x49DE65083b36A6204c4C9b1842eBD6B55288945d",
@@ -88,7 +114,7 @@
       "endBlock": "10581837",
       "claimDelay": "10063437",
       "unstakeDelayDuration": "0",
-      "totalAllocationPoints": "0",
+      "totalAllocationPoints": "900",
       "farmingPeriod": 18,
       "rewardTokens": [
         "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a"
@@ -104,7 +130,32 @@
       ],
       "rewardProcessor": "0xeB6ac135B99fF262121bCBA3146A5212da497Cbc",
       "rewardVault": "0x347a61727c00c354Bb3712e18600c1b6e0487AB6",
-      "stakingPools": [],
+      "stakingPools": [
+        {
+          "stakingToken": "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [
+            "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
+            "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a"
+          ],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "10074957"
+        },
+        {
+          "stakingToken": "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
+          "allocationPoints": 200,
+          "pid": 1,
+          "swapPath": [
+            "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
+            "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a"
+          ],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "10121037"
+        }
+      ],
       "compoundEnabled": true,
       "fees": {
         "feeManager": "0x26686219E5538Fb8b202E55D1243B0DBcB97fddD",
