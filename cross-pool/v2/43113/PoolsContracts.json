@@ -1,6 +1,6 @@
 [
   {
-    "address": "0xE74D45db96478c40dD4c64Ec46Fec4BcEbeD6A29",
+    "address": "0x2bfeedC86E8338F442F78c6afDDc007478c5884A",
     "name": "HOTCROSS/AVAX",
     "decimals": 18,
     "priority": 1000,
@@ -26,9 +26,9 @@
       }
     },
     "chaindata": {
-      "startBlock": "4826296",
-      "endBlock": "7418295",
-      "claimDelay": "4826296",
+      "startBlock": "4984542",
+      "endBlock": "7576542",
+      "claimDelay": "4984542",
       "unstakeDelayDuration": "0",
       "totalAllocationPoints": "1000",
       "farmingPeriod": 90,
@@ -41,15 +41,15 @@
         "18"
       ],
       "rewardsPerBlock": [
-        "385802617979405084",
-        "77160523595881016"
+        "385802469135802469",
+        "77160493827160493"
       ],
       "totalReward": [
-        "999999999999999998322916",
-        "199999999999999997590984"
+        "999999999999999999648000",
+        "199999999999999997856000"
       ],
-      "rewardProcessor": "0xAbe2590A2ba6Bf7cE436f95E3121A795Ca3481a5",
-      "rewardVault": "0x36d52FC977Eaf440A81bcB92Ba5c398e5ebB3461",
+      "rewardProcessor": "0x0000000000000000000000000000000000000000",
+      "rewardVault": "0x5aEDd122124ff7D941837cCb38520a1FbCa7222f",
       "stakingPools": [
         {
           "stakingToken": "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284",
@@ -58,7 +58,7 @@
           "swapPath": [],
           "decimals": "18",
           "depositCap": "200000000000000000000000",
-          "capValidUntilBlock": "5114296"
+          "capValidUntilBlock": "5272542"
         },
         {
           "stakingToken": "0x9Fc2526142a0CA2F023776825e994A07778CE2B0",
@@ -67,15 +67,225 @@
           "swapPath": [],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "5114296"
+          "capValidUntilBlock": "5272542"
         }
       ],
       "compoundEnabled": false,
       "fees": {
-        "feeManager": "0x6D71525AdeD298FCCb257B0fea18A78502aA8D47",
+        "feeManager": "0x19fF35737D3787A9539917456eF3F2Fba28C9E0E",
         "protocolFee": 0.01,
         "withdrawPenaltyFee": 0.03,
-        "withdrawPenaltyBlock": 4912696
+        "withdrawPenaltyBlock": 5070942
+      }
+    }
+  },
+  {
+    "address": "0xDBF62bD4e481A19370C7F7d42f6AaD3828705A40",
+    "name": "HOTCROSS",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      }
+    },
+    "chaindata": {
+      "startBlock": "5372659",
+      "endBlock": "7100659",
+      "claimDelay": "5372659",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703703703703703"
+      ],
+      "totalReward": [
+        "999999999999999998784000"
+      ],
+      "rewardProcessor": "0x3FFe02835b12A0f5fbB929E5BC54101F27046664",
+      "rewardVault": "0x8A4c78D737eB974CBcdAfB74aE19D03DC395F1EE",
+      "stakingPools": [
+        {
+          "stakingToken": "0x6E64aF08DBbc1f2C7643652aE575fe89258e2EEE",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "5372659"
+        }
+      ],
+      "compoundEnabled": false,
+      "fees": {
+        "feeManager": "0x69786562cFad64b6407D0203c18dDB86a122F2Ee",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 5372659
+      }
+    }
+  },
+  {
+    "address": "0xC96fA5Eef9bbE4Fe1155b14d79A9Cf2B1c53a545",
+    "name": "HOTCROSS",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      }
+    },
+    "chaindata": {
+      "startBlock": "5372718",
+      "endBlock": "7100719",
+      "claimDelay": "5372718",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703368805920829"
+      ],
+      "totalReward": [
+        "999999999999999998432829"
+      ],
+      "rewardProcessor": "0xcA5a6F87f275722EB9718aDCd111bBe9a9b9526D",
+      "rewardVault": "0xeBD4e9c0febcBccCE07930B4560721265F80E94f",
+      "stakingPools": [
+        {
+          "stakingToken": "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [
+            "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284",
+            "0x9Fc2526142a0CA2F023776825e994A07778CE2B0",
+            "0x1590B0FA4Ab02C6a6C48DA90b17b3351Cb683284"
+          ],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "5372718"
+        }
+      ],
+      "compoundEnabled": true,
+      "fees": {
+        "feeManager": "0xD86b414B41A891a851EC53D4cf989cE7a633FacD",
+        "protocolFee": 0.03,
+        "withdrawPenaltyFee": 0.02,
+        "withdrawPenaltyBlock": 5660718
+      }
+    }
+  },
+  {
+    "address": "0x01d942363C595ad0CDbA4846E65b2D3f5e9a19F3",
+    "name": "AVAX",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Avalanche is the fastest smart contract platform in the blockchain industry, as measured by time-to-finality",
+    "description": "Avalanche is the fastest smart contract platform in the blockchain industry, as measured by time-to-finality, and has the most validators securing its activity of any proof-of-stake protocol.",
+    "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.avalabs.org/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/avalabsofficial?lang=en"
+      },
+      "facebook": {
+        "label": "Medium",
+        "url": "https://www.facebook.com/avalabsofficial/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/avalabsofficial/"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x1CE0c2827e2eF14D5C4f29a091d735A204794041"
+      }
+    },
+    "chaindata": {
+      "startBlock": "5372744",
+      "endBlock": "6236746",
+      "claimDelay": "5372744",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 30.000069444444446,
+      "rewardTokens": [
+        "0x9Fc2526142a0CA2F023776825e994A07778CE2B0"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "2314809456459591528"
+      ],
+      "totalReward": [
+        "1999999999999999999375056"
+      ],
+      "rewardProcessor": "0x2dfC1e65181F91Ec48aB88BE7bEF4e9B50c338f3",
+      "rewardVault": "0xA8d114FcFe193EC5F8030550F5eCBa8b6248724C",
+      "stakingPools": [
+        {
+          "stakingToken": "0x9Fc2526142a0CA2F023776825e994A07778CE2B0",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "5660744"
+        }
+      ],
+      "compoundEnabled": true,
+      "fees": {
+        "feeManager": "0x0796CEa068F5CFA96fA2966E3E6C370C47C2C33b",
+        "protocolFee": 0.03,
+        "withdrawPenaltyFee": 0.02,
+        "withdrawPenaltyBlock": 5660744
       }
     }
   }

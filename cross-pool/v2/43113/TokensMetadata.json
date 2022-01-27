@@ -24,5 +24,24 @@
     "name": "Avalanche",
     "decimals": 18,
     "symbol": "AVAX"
+  },
+  "0x6E64aF08DBbc1f2C7643652aE575fe89258e2EEE": {
+    "name": "HOTCROSS-AVAX Pair",
+    "symbol": "HOTCROSS-AVAX",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HOTCROSS",
+    "buyTokenLink": "https://app.pangolin.exchange/#/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "addLiquidityLink": "https://app.pangolin.exchange/#/add/AVAX",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+      "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
+      "address": "0x9Fc2526142a0CA2F023776825e994A07778CE2B0",
+      "symbol": "AVAX"
+    }
   }
 }
