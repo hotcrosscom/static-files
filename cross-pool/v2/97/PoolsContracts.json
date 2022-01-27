@@ -1,6 +1,6 @@
 [
   {
-    "address": "0x86a24274edF8f80172655e62e808c82c6dc6644F",
+    "address": "0x8DE3C3d65591A9D00969795309395e4ce2520b6C",
     "name": "HOTCROSS",
     "decimals": 18,
     "priority": 1000,
@@ -30,10 +30,10 @@
       }
     },
     "chaindata": {
-      "startBlock": "16053499",
-      "endBlock": "18645499",
-      "claimDelay": "16053499",
-      "unstakeDelayDuration": "0",
+      "startBlock": "16237158",
+      "endBlock": "18829158",
+      "claimDelay": "16237158",
+      "unstakeDelayDuration": "86400",
       "totalAllocationPoints": "1000",
       "farmingPeriod": 90,
       "rewardTokens": [
@@ -48,42 +48,110 @@
       "totalReward": [
         "999999999999999999648000"
       ],
-      "rewardProcessor": "0xC6516ed80166f0309878451D6613C96087CDD459",
-      "rewardVault": "0x897ccf06F76CEB2C54B5e65604FBE3D7b1376701",
+      "rewardProcessor": "0x96ae12aC73942b76Fba16Ce9B2599f977615B43e",
+      "rewardVault": "0x1294B98111933F9df6BAf61ad1a2f81D47F08a2A",
       "stakingPools": [
         {
           "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
-          "allocationPoints": 500,
+          "allocationPoints": 300,
           "pid": 0,
-          "swapPath": [
-            "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
-            "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
-            "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81"
-          ],
+          "swapPath": [],
           "decimals": "18",
           "depositCap": "200000000000000000000000",
-          "capValidUntilBlock": "16341499"
+          "capValidUntilBlock": "16525158"
         },
         {
-          "stakingToken": "0xB6fd8551311962cA3f232C74138394ede4C71d20",
-          "allocationPoints": 500,
+          "stakingToken": "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
+          "allocationPoints": 700,
           "pid": 1,
-          "swapPath": [
-            "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
-            "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
-            "0xB6fd8551311962cA3f232C74138394ede4C71d20"
-          ],
+          "swapPath": [],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "16341499"
+          "capValidUntilBlock": "16237158"
         }
       ],
-      "compoundEnabled": true,
+      "compoundEnabled": false,
       "fees": {
-        "feeManager": "0x97547564f0062d1d022d3608650BBaF576db7185",
+        "feeManager": "0x1e106FCdc6bb6578Fa9D443B61F0145F8d6e6E00",
         "protocolFee": 0.01,
         "withdrawPenaltyFee": 0.03,
-        "withdrawPenaltyBlock": 16629499
+        "withdrawPenaltyBlock": 16813158
+      }
+    }
+  },
+  {
+    "address": "0x447C514aa5c7bAfF093AFE3161891779A9273B41",
+    "name": "HOTDOG",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "HOTDOG holders get a share of the fee proportional to their holdings just by having it in their wallets.",
+    "description": "HOTDOG holders get a share of the fee proportional to their holdings just by having it in their wallets",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16240758",
+      "endBlock": "18832759",
+      "claimDelay": "16240758",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0x8C5dA19147ad2EfbbC8610b387A6884583337f88"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "192901160146157351"
+      ],
+      "totalReward": [
+        "499999999999999999949351"
+      ],
+      "rewardProcessor": "0xFFA19AA302c4df46C0c5cad1Afc9AaEedA6b7e08",
+      "rewardVault": "0xf0157872714ea8f26113f052121efB1c92193CF5",
+      "stakingPools": [
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 300,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "16528758"
+        },
+        {
+          "stakingToken": "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
+          "allocationPoints": 700,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "16384758"
+        }
+      ],
+      "compoundEnabled": false,
+      "fees": {
+        "feeManager": "0x086Eb9341919ca238cB71Ee297311A95c1d65d23",
+        "protocolFee": 0.01,
+        "withdrawPenaltyFee": 0.03,
+        "withdrawPenaltyBlock": 16816758
       }
     }
   }

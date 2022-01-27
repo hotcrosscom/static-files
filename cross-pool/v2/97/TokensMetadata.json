@@ -13,6 +13,12 @@
     "decimals": 18,
     "description": "The reward token"
   },
+  "0x8C5dA19147ad2EfbbC8610b387A6884583337f88": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+    "name": "HOTDOG",
+    "symbol": "HOTDOG",
+    "decimals": 18
+  },
   "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0": {
     "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
     "name": "Wrapt Binance coin",
@@ -133,7 +139,7 @@
     },
     "description": "Lp token"
   },
-  "0x522d4F721431E4e969A97d6ceDA522942F7cbC54": {
+  "0x8f905f40bD36E7AAf5aB9208141C38EACe8eEAe5": {
     "name": "HOTCROSS-BNB Pair",
     "symbol": "HOTCROSS-BNB",
     "decimals": 18,
@@ -143,14 +149,34 @@
     "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x8FD04009bcb9DE9aaf6756039571EdF89262E625/0xa928498275d502da7B91ee4FaEfF4b512DE30068",
     "tokenA": {
       "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
-      "address": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+      "address": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
       "symbol": "HOTCROSS"
 
     },
     "tokenB": {
       "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
-      "address": "0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+      "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
       "symbol": "BNB"
+    },
+    "description": "Lp token"
+  },
+  "0x6c1B73d7aadf4e19185bf728aA2aF90Ac8Bb3747": {
+    "name": "HOTCROSS-BUSD Pair",
+    "symbol": "HOTCROSS-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HOTCROSS",
+    "buyTokenLink": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+    "addLiquidityLink": "https://exchange.pancakeswap.finance/#/add/0x8FD04009bcb9DE9aaf6756039571EdF89262E625/0xa928498275d502da7B91ee4FaEfF4b512DE30068",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+      "address": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png?raw=true",
+      "address": "0xB4857fF921AAEb1Ed1d67B3Adc8b45765dbf5f0b",
+      "symbol": "BUSD"
     },
     "description": "Lp token"
   },
