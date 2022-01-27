@@ -1,0 +1,34 @@
+{
+  "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972": {
+    "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+    "name": "Hot Cross",
+    "symbol": "HOTCROSS",
+    "decimals": 18,
+  },
+  "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a": {
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+    "name": "Wrapped Ethereum Token",
+    "decimals": 18,
+    "symbol": "WETH"
+  },
+  "0xBcaECfA0B60210aF8890469c52bddD66F1B7fe68": {
+    "name": "HOTCROSS-ETH Pair",
+    "symbol": "HOTCROSS-ETH",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "HOTCROSS",
+    "buyTokenLink": "https://app.uniswap.org/#/swap?outputCurrency=0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
+    "addLiquidityLink": "https://app.uniswap.org/#/add/0x1B08c00244B353c63B818EEE80E2fBC3B27D6972/0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+      "address": "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
+      "symbol": "HOTCROSS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+      "address": "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
+      "symbol": "ETH"
+    },
+    "description": "Lp token"
+  }
+}

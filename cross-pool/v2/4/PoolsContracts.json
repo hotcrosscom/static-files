@@ -1,0 +1,117 @@
+[
+  {
+    "address": "0x68c570e546e26A75451d567693B179afcD57D863",
+    "name": "HOTCROSS",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "10063437",
+      "endBlock": "10581837",
+      "claimDelay": "10063437",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "0",
+      "farmingPeriod": 18,
+      "rewardTokens": [
+        "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "1929012345679012345"
+      ],
+      "totalReward": [
+        "999999999999999999648000"
+      ],
+      "rewardProcessor": "0x35d4D96b0763cc924DD5e7FC89638A8d3F8c0Fb1",
+      "rewardVault": "0x700D6eF8c8F7F1527344dF39ABC685072503a72b",
+      "stakingPools": [],
+      "compoundEnabled": true,
+      "fees": {
+        "feeManager": "0x49DE65083b36A6204c4C9b1842eBD6B55288945d",
+        "protocolFee": 0.01,
+        "withdrawPenaltyFee": 0.03,
+        "withdrawPenaltyBlock": 10178637
+      }
+    }
+  },
+  {
+    "address": "0xaB8E1a4C9645D29A0df33461657181dA8D162A52",
+    "name": "ETH",
+    "decimals": 18,
+    "featured": true,
+    "priority": 920,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Ethereum is a technology powering thousands of decentralized applications.",
+    "description": "Ethereum is the community-run technology powering the cryptocurrency, ether (ETH) and thousands of decentralized applications.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://ethereum.org/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ethdotorg"
+      }
+    },
+    "chaindata": {
+      "startBlock": "10063437",
+      "endBlock": "10581837",
+      "claimDelay": "10063437",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "0",
+      "farmingPeriod": 18,
+      "rewardTokens": [
+        "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "1929012345679012345"
+      ],
+      "totalReward": [
+        "999999999999999999648000"
+      ],
+      "rewardProcessor": "0xeB6ac135B99fF262121bCBA3146A5212da497Cbc",
+      "rewardVault": "0x347a61727c00c354Bb3712e18600c1b6e0487AB6",
+      "stakingPools": [],
+      "compoundEnabled": true,
+      "fees": {
+        "feeManager": "0x26686219E5538Fb8b202E55D1243B0DBcB97fddD",
+        "protocolFee": 0.01,
+        "withdrawPenaltyFee": 0.03,
+        "withdrawPenaltyBlock": 10178637
+      }
+    }
+  }
+]
