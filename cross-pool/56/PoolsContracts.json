@@ -2146,8 +2146,8 @@
     "decimals": 18,
     "priority": 800,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "33.17",
+      "1": "28.78"
     },
     "subtitle": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot.",
     "description": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot. Uno Re will allow the community to invest and trade in ‘risk’ and receive sizable returns on their investments while also allowing the community to propose innovative insurance products to the space, thus propelling a new generation of Insurtech companies powered by the UnoRe ecosystem.",
@@ -3378,6 +3378,55 @@
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
           "allocationPoints": "300",
           "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x9B0f2C4Fd73d1b437b324449044bFBA1f5ccA713",
+    "name": "CAKE",
+    "decimals": 18,
+    "isSizzle": true,
+    "priority": 1018,
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
+    "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://pancakeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/PancakeSwap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": " https://t.me/PancakeSwap"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "17361111111111111",
+      "startBlock": "14762892",
+      "endBlock": "15626892",
+      "timeLock": "14763181",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x5c5DC6205eC9aD03c488e341152c200131697991",
+      "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "farmingPeriod": 30,
+      "totalReward": "14999999999999999904000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x9Bff65A94C56F7173406f9B417B2Bb81bf233965",
+          "allocationPoints": "1000",
+          "pid": 0
         }
       ]
     }
