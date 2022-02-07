@@ -13,6 +13,7 @@
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
     "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "keywords": ["hotcross", "bnb", "hotcross-bnb", "busd"],
     "links": {
       "website": {
         "label": "Website",
@@ -75,6 +76,7 @@
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
     "image": "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+    "keywords": ["hotcross", "bnb", "usdt", "usdc", "busd"],
     "links": {
       "website": {
         "label": "Website",
@@ -140,6 +142,7 @@
     "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
     "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "keywords": ["cake", "hotcross", "bnb", "busd"],
     "links": {
       "website": {
         "label": "Website",
@@ -199,6 +202,7 @@
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "keywords": ["front", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -253,6 +257,7 @@
     "subtitle": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
     "description": "Gourmet Galaxy is an innovative Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png",
+    "keywords": ["gum", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -307,6 +312,7 @@
     "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
     "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "keywords": ["marsh", "unmarshal", "marsh-bnb", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -365,6 +371,7 @@
     "subtitle": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps.",
     "description": "Unmarshal is a multi-chain DeFi data network aiming to deliver granular, reliable & real-time data to dApps. Unmarshal Indexes data on multiple chains and serves data in multiple formats such as APIs, Push notifications, Websockets, Insights and Analytics.",
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png",
+    "keywords": ["marsh", "unmarshal", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -423,6 +430,7 @@
     "subtitle": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees.",
     "description": "ZeroSwap is a multi-chain compatible decentralised exchange aggregator focused on making gasless transactions possible with zero fees. One of the core utilities of ZEE is to reduce friction in fundraising using digital assets; to solve that, we built a Dex Offering Platform Called — ZeeDO",
     "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
+    "keywords": ["zeroswap", "zee", "hotcross"],
     "links": {
       "website": {
         "label": "Website",
@@ -494,6 +502,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
     },
+    "keywords": ["usdt-busd", "usdt", "busd", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "115740740740740740",
       "startBlock": "7976196",
@@ -559,6 +568,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       }
     },
+    "keywords": ["wbnb", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "578703703703703",
       "startBlock": "8346188",
@@ -617,6 +627,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
       }
     },
+    "keywords": ["gum-bnb", "hotcross-bnb", "hotcross", "gum-busd", "gum"],
     "chaindata": {
       "rewardPerBlock": "964506544948512711",
       "startBlock": "8690867",
@@ -694,6 +705,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     },
+    "keywords": ["haka", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "173611111111111111",
       "startBlock": "8551521",
@@ -757,6 +769,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     },
+    "keywords": ["haka", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "347222624100259375",
       "startBlock": "8553095",
@@ -819,6 +832,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     },
+    "keywords": ["haka-bnb", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "347222222222222222",
       "startBlock": "8575225",
@@ -873,6 +887,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
+    "keywords": ["front", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "347222222222222222",
       "startBlock": "8690697",
@@ -925,6 +940,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
       }
     },
+    "keywords": ["eth", "ethereum", "hotcross", "bnb", "wbnb"],
     "chaindata": {
       "rewardPerBlock": "86805555555555",
       "startBlock": "8691893",
@@ -988,6 +1004,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
     },
+    "keywords": ["marsh", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "289351851851851851",
       "startBlock": "8771456",
@@ -1035,6 +1052,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
       }
     },
+    "keywords": ["busd", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "115740740740740740",
       "startBlock": "8807897",
@@ -1089,6 +1107,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3"
       }
     },
+    "keywords": ["kyte", "kyte-bnb", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "125000000000000000",
       "startBlock": "8892382",
@@ -1143,6 +1162,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
       }
     },
+    "keywords": ["oddz", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "578703033908525568",
       "startBlock": "8978951",
@@ -1197,6 +1217,7 @@
         "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
       }
     },
+    "keywords": ["hotcross"],
     "chaindata": {
       "rewardPerBlock": "77160553364624509",
       "startBlock": "9095319",
@@ -1247,6 +1268,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       }
     },
+    "keywords": ["bnb", "wbnb", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "578703703703703",
       "startBlock": "9207490",
@@ -1305,6 +1327,7 @@
         "url": "https://github.com/hotcrosscom"
       }
     },
+    "keywords": ["hotcross"],
     "chaindata": {
       "rewardPerBlock": "347221820345115341",
       "startBlock": "9495159",
@@ -1357,6 +1380,7 @@
         "url": "https://github.com/hotcrosscom"
       }
     },
+    "keywords": ["hotcross"],
     "chaindata": {
       "rewardPerBlock": "578703368805920829",
       "startBlock": "9525476",
@@ -1405,6 +1429,7 @@
         "url": "https://exchange.macaronswap.finance/#/swap?outputCurrency=0xacb2d47827c9813ae26de80965845d80935afd0b"
       }
     },
+    "keywords": ["hotcross"],
     "chaindata": {
       "rewardPerBlock": "5787037037037037",
       "startBlock": "9547742",
@@ -1455,6 +1480,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
+    "keywords": ["front", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "231481749400172916",
       "startBlock": "9552333",
@@ -1521,6 +1547,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x474021845C4643113458ea4414bdb7fB74A01A77"
       }
     },
+    "keywords": ["uno", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "347222356181464576",
       "startBlock": "9689494",
@@ -1577,6 +1604,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xCD40F2670CF58720b694968698A5514e924F742d"
       }
     },
+    "keywords": ["oddz-bnb", "oddz", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "462962962962962962",
       "startBlock": "9800618",
@@ -1641,6 +1669,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256"
       }
     },
+    "keywords": ["marsh-bnb", "marsh", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "192901234567901234",
       "startBlock": "10138430",
@@ -1696,6 +1725,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
+    "keywords": ["front", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "231481481481481481",
       "startBlock": "10481101",
@@ -1758,6 +1788,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
       }
     },
+    "keywords": ["haka", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "1388888888888888888",
       "startBlock": "10908705",
@@ -1816,6 +1847,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x1CE0c2827e2eF14D5C4f29a091d735A204794041"
       }
     },
+    "keywords": ["avax", "qvalanche", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "2893518518518518",
       "startBlock": "11080835",
@@ -1869,6 +1901,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       }
     },
+    "keywords": ["hotcross"],
     "chaindata": {
       "rewardPerBlock": "347222222222222222",
       "startBlock": "11166738",
@@ -1917,6 +1950,7 @@
         "url": "https://exchange.macaronswap.finance/#/swap?outputCurrency=0xacb2d47827c9813ae26de80965845d80935afd0b"
       }
     },
+    "keywords": ["hotcross"],
     "chaindata": {
       "rewardPerBlock": "4143518518518518",
       "startBlock": "11281204",
@@ -1966,6 +2000,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
       }
     },
+    "keywords": ["front", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "231481481481481481",
       "startBlock": "11339452",
@@ -2020,6 +2055,7 @@
         "url": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
       }
     },
+    "keywords": ["hotcross-bnb", "hotcross"],
     "chaindata": {
       "rewardPerBlock": "23611138438817637",
       "startBlock": "11480878",
