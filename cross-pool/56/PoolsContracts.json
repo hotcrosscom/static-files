@@ -2915,8 +2915,8 @@
     "decimals": 18,
     "priority": 870,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "78.85",
+      "1": "30.61"
     },
     "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
     "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
@@ -3025,8 +3025,8 @@
     "decimals": 18,
     "priority": 790,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "252.32",
+      "1": "30.10"
     },
     "subtitle": "A mature content sharing platform, SugarBounce is a universe for all the elevated entertainment needs of the next generation.",
     "description": "A mature content sharing platform, SugarBounce is a universe for all the elevated entertainment needs of the next generation.",
@@ -3083,8 +3083,8 @@
     "decimals": 18,
     "priority": 950,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "33.47",
+      "1": "23.59"
     },
     "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
@@ -3138,8 +3138,8 @@
     "priority": 1020,
     "isSizzle": true,
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "23.52",
+      "1": "23.72"
     },
     "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
     "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
@@ -3427,6 +3427,115 @@
           "stakingToken": "0x9Bff65A94C56F7173406f9B417B2Bb81bf233965",
           "allocationPoints": "1000",
           "pid": 0
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x435DEaA2a12784AAD118ba1b0b69f6d6Ba96aC48",
+    "name": "FRONT",
+    "decimals": 18,
+    "priority": 950,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "154320987654320987",
+      "startBlock": "15252123",
+      "endBlock": "16548123",
+      "timeLock": "16058523",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xe14aCbDefFEdD0C368EB33431553B9AcCFbE7168",
+      "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "farmingPeriod": 45,
+      "totalReward": "199999999999999999152000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xA40562C366876E214a92c741E927995a62445C5a",
+    "name": "BANANA",
+    "decimals": 18,
+    "priority": 1020,
+    "isSizzle": true,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience.",
+    "description": "ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://apeswap.finance/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/ape_swap"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/ape_swap"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://dex.apeswap.finance/#/swap?outputCurrency=0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "173611111111111111",
+      "startBlock": "15136923",
+      "endBlock": "16000923",
+      "timeLock": "15165723",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x5C23669303c32F1B070E8F549eD8c05776eb8B45",
+      "rewardToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "farmingPeriod": 30,
+      "totalReward": "149999999999999999904000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xe1b17ddabA13c0c511D5b03e043DbCb81f046b5b",
+          "allocationPoints": "500",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0xcA1eAcC9a3B35C5D19EE8930B770e8358D7a502F",
+          "allocationPoints": "500",
+          "pid": 1
         }
       ]
     }
