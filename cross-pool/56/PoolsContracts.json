@@ -67,7 +67,7 @@
     "featured": true,
     "decimals": 18,
     "priority": 990,
-    "keywords": ["hotcross", "usdt-busd", "bnb", "usdc"],
+    "keywords": ["hotcross", "usdt-busd", "bnb", "wbnb", "usdc", "usdt"],
     "completedAPR": {
       "0": "117.78",
       "1": "19.78",
@@ -305,7 +305,7 @@
     "name": "MARSH",
     "decimals": 18,
     "priority": 950,
-    "keywords": ["hotcross", "marsh", "unmarshal", "marsh-bnb", "lp"],
+    "keywords": ["hotcross", "marsh", "unmarshal", "marsh-bnb"],
     "completedAPR": {
       "0": "330.82",
       "1": "59.77"
@@ -364,7 +364,7 @@
     "name": "MARSH",
     "decimals": 18,
     "priority": 940,
-    "keywords": ["hotcross", "marsh", "unmarshal"],
+    "keywords": ["hotcross", "marsh"],
     "completedAPR": {
       "0": "167.49",
       "1": "59.83"
@@ -917,7 +917,7 @@
     "decimals": 18,
     "featured": true,
     "priority": 920,
-    "keywords": ["hotcross", "eth", "ethereum", "bnb", "wbnb"],
+    "keywords": ["hotcross", "ethereum", "bnb", "wbnb"],
     "completedAPR": {
       "0": "18.07",
       "1": "67.31",
@@ -974,7 +974,7 @@
     "name": "MARSH",
     "decimals": 18,
     "priority": 860,
-    "keywords": ["hotcross", "marsh", "unmarshal"],
+    "keywords": ["hotcross", "marsh"],
     "completedAPR": {
       "0": "146.72",
       "1": "54.18"
