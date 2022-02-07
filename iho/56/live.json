@@ -83,6 +83,7 @@
       "type": "basic",
       "title": "HOTDOG Capped Session",
       "reflectFee": 0.03,
+      "isVest": true,
       "initialClaim": "25% on March 15th, 2022"
     },
     {
@@ -105,6 +106,7 @@
       "secondaryColor": "#181818",
       "type": "basic",
       "title": "BUSD Capped Session",
+      "isVest": true,
       "initialClaim": "25% on March 15th, 2022"
     },
     {
@@ -127,6 +129,7 @@
       "type": "unlimited",
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
+      "isVest": true,
       "initialClaim": "25% on March 15th, 2022"
     }
   ],
