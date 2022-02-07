@@ -11,7 +11,7 @@
       "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
       "tokenA": {
         "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
-        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
         "symbol": "HOTCROSS"
       },
       "tokenB": {
