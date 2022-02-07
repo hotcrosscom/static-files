@@ -21,21 +21,7 @@
       }
     },
     {
-      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png",
-      "name": "Hot Cross",
-      "decimals": 18,
-      "symbol": "HOTCROSS"
-    },
-    {
-      "address": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
-      "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
-      "name": "Hot Dog",
-      "decimals": 18,
-      "symbol": "HOTDOG"
-    },
-    {
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "name": "Binance USD",
       "decimals": 18,
@@ -54,94 +40,106 @@
       "name": "BNB",
       "decimals": 18,
       "symbol": "BNB"
+    },
+    {
+      "address": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+      "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+      "name": "HOTDOG",
+      "decimals": 18,
+      "symbol": "HOTDOG"
+    },
+    {
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+      "name": "HOTCROSS",
+      "decimals": 18,
+      "symbol": "HOTCROSS"
     }
   ],
-  "zap": "0x5C41E6BAD6Bda2b89dc95A2d1bFCfd61648D2BB4",
-  "purchase": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-  "offering": "0xa75e7928d3de682e3f44da60c26f33117c4e6c5c",
-  "offeringPrice": 0.13,
+  "zap": "",
+  "purchase": "...",
+  "offering": "...",
+  "offeringPrice": 0.05,
+  "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "0x1cBdd2c9a163134c4Df1fc5D7164dD88Ab67b7eb",
-      "maxLPEntry": 2202.6431718062,
+      "address": "",
+      "maxLPEntry": 18281.938325991,
       "buyWith": [
-        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
+        "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
       ],
-      "purchaseToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-      "paymentMethod": "HOTCROSS",
-      "entryWith": "HOTCROSS",
-      "launchDate": "10 AM UTC, December 7th, 2021",
-      "duration": "3 Hours",
-      "available": "1,800,000 PEL",
-      "toRaise": "$234,000",
-      "pricePerToken": "$0.13",
-      "cap": "$1,000",
-      "purchasePrice": 0.454,
-      "color": "#14213D",
-      "secondaryColor": "#FCA311",
-      "type": "basic",
-      "title": "HOTCROSS Capped Session"
-    },
-    {
-      "address": "0xeb6c80a4cB2f1fD73E510b7Ee4AE2B9830197BEC",
-      "maxLPEntry": 18281.9383259912,
-      "buyWith": [
-        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
-      ],
-      "purchaseToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
       "paymentMethod": "HOTDOG",
       "entryWith": "HOTDOG",
-      "launchDate": "10 AM UTC, December 7th, 2021",
-      "duration": "3 Hours",
-      "available": "1,800,000 PEL",
-      "toRaise": "$234,000",
-      "pricePerToken": "$0.13",
-      "cap": "$10,000",
-      "purchasePrice": 0.5469879518,
-      "color": "#9CA0A1",
-      "secondaryColor": "#14213D",
+      "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+      "launchDate": "February 15th at 13:00 UTC",
+      "duration": "24 Hours",
+      "available": "2,400,000 RANKER",
+      "toRaise": "$120,000",
+      "pricePerToken": "$0.05",
+      "cap": "$1,000",
+      "purchasePrice": 1,
+      "color": "#8053D7",
+      "secondaryColor": "#FF7F0F",
       "type": "basic",
-      "title": "HOTDOG Capped Session"
+      "title": "HOTDOG Capped Session",
+      "reflectFee": 0.03
     },
     {
-      "address": "0x345B89FC93222748F1289C1A9B24742a7aF588d2",
+      "address": "",
+      "maxLPEntry": 10000,
+      "buyWith": [
+        "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+      ],
+      "paymentMethod": "BUSD",
+      "entryWith": "BUSD",
+      "purchaseToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "launchDate": "February 15th at 13:00 UTC",
+      "duration": "24 Hours",
+      "available": "4,800,000 RANKER",
+      "toRaise": "$240,000",
+      "pricePerToken": "$0.05",
+      "cap": "$10,000",
+      "purchasePrice": 0.58,
+      "color": "#E15257",
+      "secondaryColor": "#181818",
+      "type": "basic",
+      "title": "BUSD Capped Session"
+    },
+    {
+      "address": "",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
-        "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-        "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-        "0x0000000000000000000000000000000000000000"
+        "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
       ],
-      "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-      "paymentMethod": "HOTCROSS-BNB PCS LP, BNB, BUSD",
-      "entryWith": "LP",
-      "launchDate": "10 AM UTC, December 7th, 2021",
-      "duration": "3 Hours",
-      "available": "1,800,000 PEL",
-      "toRaise": "$234,000",
-      "pricePerToken": "$0.13",
-      "purchasePrice": 36,
-      "color": "#FCA311",
-      "secondaryColor": "#9CA0A1",
+      "paymentMethod": "HOTDOG",
+      "entryWith": "HOTDOG",
+      "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+      "launchDate": "February 15th at 13:00 UTC",
+      "duration": "24 Hours",
+      "available": "4,800,000 RANKER",
+      "toRaise": "$240,000",
+      "pricePerToken": "$0.05",
+      "purchasePrice": 0.58,
+      "color": "#FF7F0F",
+      "secondaryColor": "#8053D7",
       "type": "unlimited",
-      "title": "LP Uncapped Session"
+      "title": "HOTDOG Uncapped Session",
+      "reflectFee": 0.03
     }
   ],
-  "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
-  "announcement": "https://hotcross.link/HELLO-PROPEL",
-  "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/pell_logo.png",
-  "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/propel_banner.png",
-  "name": "Propel",
-  "symbol": "PEL",
-  "description": "Multi-Chain Metaverse and DeFi-as-a-Service provider",
+  "announcement": "https://hotcross.link/HELLO-RANKER",
+  "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+  "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+  "name": "RankerDAO",
+  "symbol": "RANKER",
+  "description": "RankerDAO is a decentralized autonomous organization (DAO) that enables its guild of gamers to take advantage of its extensive collection of NFTs to gain access to a variety of the most popular P2E games in the industry.",
+  "startBlock": 15278524,
+  "endBlock": 15307323,
+  "kycDeadline": 1644796800000,
   "isPending": false,
-  "startBlock": 13269012,
-  "endBlock": 13272512,
-  "kycDeadline": 1638316800000,
   "links": {
-    "website": "https://www.propel.xyz",
-    "twitter": "https://twitter.com/propelxyz",
-    "tg": "https://t.me/propelchat",
-    "medium": "https://propelxyz.medium.com"
+    "website": "https://www.rankerdao.com",
+    "twitter": "https://twitter.com/RankerDAO",
+    "tg": "https://t.me/rankerdao"
   }
 }
