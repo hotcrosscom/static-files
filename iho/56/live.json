@@ -82,7 +82,9 @@
       "secondaryColor": "#FF7F0F",
       "type": "basic",
       "title": "HOTDOG Capped Session",
-      "reflectFee": 0.03
+      "reflectFee": 0.03,
+      "isVest": true,
+      "initialClaim": "25% on March 15th, 2022"
     },
     {
       "address": "",
@@ -103,7 +105,9 @@
       "color": "#E15257",
       "secondaryColor": "#181818",
       "type": "basic",
-      "title": "BUSD Capped Session"
+      "title": "BUSD Capped Session",
+      "isVest": true,
+      "initialClaim": "25% on March 15th, 2022"
     },
     {
       "address": "",
@@ -124,7 +128,9 @@
       "secondaryColor": "#8053D7",
       "type": "unlimited",
       "title": "HOTDOG Uncapped Session",
-      "reflectFee": 0.03
+      "reflectFee": 0.03,
+      "isVest": true,
+      "initialClaim": "25% on March 15th, 2022"
     }
   ],
   "announcement": "https://hotcross.link/HELLO-RANKER",
