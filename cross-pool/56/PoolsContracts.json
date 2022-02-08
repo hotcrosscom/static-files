@@ -599,7 +599,7 @@
     "decimals": 18,
     "priority": 900,
     "featured": true,
-    "keywords": ["hotcross", "gum-bnb", "hotcross-bnb", "gum", "gum-busd"],
+    "keywords": ["hotcross", "gum-bnb", "bnb", "hotcross-bnb", "gum", "gum-busd", "busd"],
     "completedAPR": {
       "0": "187.62",
       "1": "173.62",
@@ -1081,7 +1081,7 @@
     "name": "KYTE",
     "decimals": 18,
     "priority": 820,
-    "keywords": ["hotcross", "kyte-bnb", "kyte"],
+    "keywords": ["hotcross", "kyte-bnb", "kyte", "bnb"],
     "completedAPR": {
       "0": "202.88",
       "1": "28.74"
