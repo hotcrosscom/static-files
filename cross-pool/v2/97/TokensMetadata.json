@@ -16,6 +16,7 @@
   "0x8C5dA19147ad2EfbbC8610b387A6884583337f88": {
     "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
     "name": "HOTDOG",
+    "buyTokenLink": "https://crosspool2.hotcross.dev/hotdog",
     "symbol": "HOTDOG",
     "decimals": 18
   },
