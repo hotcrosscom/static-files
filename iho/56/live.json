@@ -63,7 +63,7 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "",
+      "address": "0x5A96647D47D624F7C46878e7Bf321071D5A13D08",
       "maxLPEntry": 18281.938325991,
       "buyWith": [
         "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
@@ -87,7 +87,7 @@
       "initialClaim": "25% on February 23rd, 2022"
     },
     {
-      "address": "",
+      "address": "0x7F7A34ad1255f8A355e18Fb73A01132bCa4dB54e",
       "maxLPEntry": 10000,
       "buyWith": [
         "0xe9e7cea3dedca5984780bafc599bd69add087d56"
@@ -110,7 +110,7 @@
       "initialClaim": "25% on February 23rd, 2022"
     },
     {
-      "address": "",
+      "address": "0x433cd1D37d2F3a3a3e3a73b69c81E850eA118849",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
         "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
@@ -139,8 +139,8 @@
   "name": "RankerDAO",
   "symbol": "RANKER",
   "description": "RankerDAO is a decentralized autonomous organization (DAO) that enables its guild of gamers to take advantage of its extensive collection of NFTs to gain access to a variety of the most popular P2E games in the industry.",
-  "startBlock": 15278524,
-  "endBlock": 15307323,
+  "startBlock": 15278136,
+  "endBlock": 15306936,
   "kycDeadline": 1644796800000,
   "isPending": false,
   "links": {
