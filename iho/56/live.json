@@ -57,7 +57,7 @@
     }
   ],
   "zap": "",
-  "purchase": "",
+  "purchase": "0xd6ab096ece76789620a6acdc34f8dadd04627dc5",
   "offering": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
   "offeringPrice": 0.05,
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
