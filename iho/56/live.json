@@ -57,14 +57,14 @@
     }
   ],
   "zap": "",
-  "purchase": "...",
-  "offering": "...",
+  "purchase": "",
+  "offering": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
   "offeringPrice": 0.05,
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
       "address": "0x5A96647D47D624F7C46878e7Bf321071D5A13D08",
-      "maxLPEntry": 18281.938325991,
+      "maxLPEntry": 3030,
       "buyWith": [
         "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
       ],
