@@ -63,7 +63,7 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "0x5A96647D47D624F7C46878e7Bf321071D5A13D08",
+      "address": "0x7F7A34ad1255f8A355e18Fb73A01132bCa4dB54e",
       "maxLPEntry": 3030,
       "buyWith": [
         "0xd6ab096ece76789620a6acdc34f8dadd04627dc5"
@@ -87,7 +87,7 @@
       "initialClaim": "25% on February 23rd, 2022"
     },
     {
-      "address": "0x7F7A34ad1255f8A355e18Fb73A01132bCa4dB54e",
+      "address": "0x5A96647D47D624F7C46878e7Bf321071D5A13D08",
       "maxLPEntry": 10000,
       "buyWith": [
         "0xe9e7cea3dedca5984780bafc599bd69add087d56"
@@ -135,7 +135,7 @@
   ],
   "announcement": "https://hotcross.link/HELLO-RANKER",
   "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
-  "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+  "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/Cover_banner_IHO_high.png",
   "name": "RankerDAO",
   "symbol": "RANKER",
   "description": "RankerDAO is a decentralized autonomous organization (DAO) that enables its guild of gamers to take advantage of its extensive collection of NFTs to gain access to a variety of the most popular P2E games in the industry.",
