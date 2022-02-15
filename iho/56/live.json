@@ -66,11 +66,11 @@
       "address": "0x5A96647D47D624F7C46878e7Bf321071D5A13D08",
       "maxLPEntry": 3030,
       "buyWith": [
-        "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        "0xd6ab096ece76789620a6acdc34f8dadd04627dc5"
       ],
       "paymentMethod": "HOTDOG",
       "entryWith": "HOTDOG",
-      "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+      "purchaseToken": "0xd6ab096ece76789620a6acdc34f8dadd04627dc5",
       "launchDate": "February 15th at 13:00 UTC",
       "duration": "24 Hours",
       "available": "2,400,000 RANKER",
@@ -113,11 +113,11 @@
       "address": "0x433cd1D37d2F3a3a3e3a73b69c81E850eA118849",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
-        "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        "0xd6ab096ece76789620a6acdc34f8dadd04627dc5"
       ],
       "paymentMethod": "HOTDOG",
       "entryWith": "HOTDOG",
-      "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+      "purchaseToken": "0xd6ab096ece76789620a6acdc34f8dadd04627dc5",
       "launchDate": "February 15th at 13:00 UTC",
       "duration": "24 Hours",
       "available": "4,800,000 RANKER",
