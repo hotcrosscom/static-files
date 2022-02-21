@@ -5,6 +5,12 @@
     "symbol": "HOTCROSS",
     "decimals": 18
   },
+  "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+    "name": "Hot Dog Token",
+    "symbol": "HOTDOG",
+    "decimals": 18
+  },
   "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
     "name": "Binance coin",
