@@ -1,0 +1,56 @@
+[
+  {
+    "address": "0xf6E84958d33A60d5533669320b26dF02a2211Ec6",
+    "rewardVault": "0x001D7dBf4b8129eE1f0E2355AaA9b154fdb0f87C",
+    "feeManager": "0x70dc95aD6AfDb53c7C5076Ec535A596758cf5826",
+    "startBlock": 15452761,
+    "endBlock": 15481561,
+    "claimDelay": "15453961",
+    "latestUnstakeDelayBlock": "0",
+    "unstakeDelayDuration": "1200",
+    "totalAllocationPoints": "1000",
+    "farmingPeriod": 1,
+    "rewardTokens": [
+      "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+    ],
+    "rewardsPerBlock": [
+      "34722222222222222",
+      "34722222222222222"
+    ],
+    "rewardTokenDecimals": [
+      18,
+      18
+    ],
+    "totalReward": [
+      "999999999999999993600",
+      "999999999999999993600"
+    ],
+    "stakingPools": [
+      {
+        "allocationPoints": 1000,
+        "depositCap": "4",
+        "capValidUntilBlock": 15467161,
+        "merkleRoot": "0x69cba7e36a1ce1743b9028a22a26cda42696e18ebe7696aeab152f36509a1704",
+        "nftCollection": "0x9ddc83be1e5254669bdb366941C746A86194D61b",
+        "isERC721": true,
+        "collectionName": "Cross Bosses",
+        "collectionImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ava_1.png",
+        "collectionLink": "https://crossbosses.com",
+        "tokenIds": [
+          0,
+          3,
+          5328,
+          3538,
+          1999,
+          6741,
+          3966,
+          6091,
+          6216,
+          2945
+        ],
+        "pid": 0
+      }
+    ]
+  }
+]
