@@ -3638,5 +3638,68 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x7a4af7eBf636adf8709Ff21B2a46c59689E5d0d8",
+    "name": "HAKA",
+    "decimals": 18,
+    "priority": 870,
+    "keywords": ["hotcross", "haka"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto).",
+    "description": "The first-ever AI-powered NFT & DeFi funding platform that is backed with an exclusive technology RAROC (Risk-Adjusted Returns On Crypto). Also an NFT, lending, borrowing, saving, and credit risk platform that offers a wide range of innovative crypto finance products.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://www.tribeone.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/tribeonedefi"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/tribeone"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://tribeone.medium.com/"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/tribe1"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "401234877496047450",
+      "startBlock": "15452761",
+      "endBlock": "16748760",
+      "timeLock": "16259160",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0xc721F54c3dFEd68ea03170a2e0Ab1F7140c134cA",
+      "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+      "farmingPeriod": 45,
+      "totalReward": "519999999999999999152550",
+      "stakingPools": [
+        {
+          "stakingToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
