@@ -1,6 +1,6 @@
 [
   {
-    "address": "0xabE4F156984a1f000D531278e20048C2Ff3eA5FF",
+    "address": "0x9fCb8819134a7d99552b44b60d1bCBB9F858297b",
     "name": "HOTCROSS",
     "decimals": 18,
     "priority": 1000,
@@ -30,12 +30,12 @@
       }
     },
     "chaindata": {
-      "startBlock": "10167793",
-      "endBlock": "10686193",
-      "claimDelay": "10167793",
+      "startBlock": "10213346",
+      "endBlock": "10558946",
+      "claimDelay": "10213346",
       "unstakeDelayDuration": "0",
-      "totalAllocationPoints": "1000",
-      "farmingPeriod": 18,
+      "totalAllocationPoints": "900",
+      "farmingPeriod": 12,
       "rewardTokens": [
         "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972"
       ],
@@ -43,13 +43,13 @@
         "18"
       ],
       "rewardsPerBlock": [
-        "1929012345679012345"
+        "2893518518518518518"
       ],
       "totalReward": [
-        "999999999999999999648000"
+        "999999999999999999820800"
       ],
-      "rewardProcessor": "0x2E730a17Aab0b5b15e692628dCf1184b4DdCf56a",
-      "rewardVault": "0xabE4F156984a1f000D531278e20048C2Ff3eA5FF",
+      "rewardProcessor": "0xDBF62bD4e481A19370C7F7d42f6AaD3828705A40",
+      "rewardVault": "0x9D5eaEE2d5f6cba9B910DC358514f25Bc79E1eC3",
       "stakingPools": [
         {
           "stakingToken": "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
@@ -58,11 +58,11 @@
           "swapPath": [],
           "decimals": "18",
           "depositCap": "200000000000000000000000",
-          "capValidUntilBlock": "10179313"
+          "capValidUntilBlock": "10224866"
         },
         {
           "stakingToken": "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a",
-          "allocationPoints": 300,
+          "allocationPoints": 200,
           "pid": 1,
           "swapPath": [
             "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972",
@@ -70,15 +70,15 @@
           ],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "10225393"
+          "capValidUntilBlock": "10270946"
         }
       ],
       "compoundEnabled": true,
       "fees": {
-        "feeManager": "0xaC13417dDa73C2d1635f7B9da4b7E0EE4E463734",
+        "feeManager": "0x3FFe02835b12A0f5fbB929E5BC54101F27046664",
         "protocolFee": 0.01,
         "withdrawPenaltyFee": 0.03,
-        "withdrawPenaltyBlock": 10282993
+        "withdrawPenaltyBlock": 10328546
       }
     }
   },
