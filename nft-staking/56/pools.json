@@ -38,6 +38,7 @@
         "collectionName": "Cross Bosses Testers",
         "collectionImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ava_2.png",
         "collectionLink": "https://crossbosses.com",
+        "description": "8,040 unique, 1/1 NFTs generated with various body types, backgrounds, glasses, eyes, mouths, hats, accessories, and abilities. Be bossy.",
         "tokenIds": [
           [
             0,
@@ -86,6 +87,7 @@
         "collectionName": "Cross Bosses",
         "collectionImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ava_1.png",
         "collectionLink": "https://crossbosses.com",
+        "description": "Demo pool for debuting the launch of multi-chain NFT staking by Hot Cross.",
         "tokenIds": [
           0,
           3,
