@@ -35,7 +35,7 @@
       "claimDelay": "10213346",
       "unstakeDelayDuration": "0",
       "totalAllocationPoints": "900",
-      "farmingPeriod": 12,
+      "farmingPeriod": 60,
       "rewardTokens": [
         "0x1B08c00244B353c63B818EEE80E2fBC3B27D6972"
       ],
@@ -111,7 +111,7 @@
       "claimDelay": "10167436",
       "unstakeDelayDuration": "0",
       "totalAllocationPoints": "1000",
-      "farmingPeriod": 12,
+      "farmingPeriod": 60,
       "rewardTokens": [
         "0xeFF64c87545dD22CCdF048D7cFCd3d56CE090C1a"
       ],
