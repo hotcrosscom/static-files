@@ -3701,5 +3701,72 @@
         }
       ]
     }
+  },
+  {
+    "address": "0xccE700842ca1996eCF0999A65394Ae94272C92b4",
+    "name": "UNO",
+    "decimals": 18,
+    "priority": 800,
+    "keywords": ["hotcross", "uno", "uno re"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot.",
+    "description": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot. Uno Re will allow the community to invest and trade in ‘risk’ and receive sizable returns on their investments while also allowing the community to propose innovative insurance products to the space, thus propelling a new generation of Insurtech companies powered by the UnoRe ecosystem.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/unore_logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://unore.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/unoreinsure"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://medium.com/uno-re"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/UnoReinsure"
+      },
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/Uno-Re"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/unore"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x474021845C4643113458ea4414bdb7fB74A01A77"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "347222222222222222",
+      "startBlock": "15510131",
+      "endBlock": "18102131",
+      "timeLock": "16316531",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x057BB719CAc7157608b9083AA1926C8B8B3b6EAb",
+      "rewardToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+      "farmingPeriod": 90,
+      "totalReward": "899999999999999999424000",
+      "stakingPools": [
+        {
+          "stakingToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
   }
 ]
