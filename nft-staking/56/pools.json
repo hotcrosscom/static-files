@@ -1,5 +1,55 @@
 [
   {
+    "address": "0xD7d2C7EA13ce570D95fc521D7CBb5Af35953EFE6",
+    "rewardVault": "0xeFB1f7541C4E5E85Cc3914C3Ea44823C1970F1af",
+    "feeManager": "0x6eDCe5c517f6742dD0CDf62375966530aC9A5743",
+    "protocolFee": 200,
+    "startBlock": 15511331,
+    "endBlock": 15914531,
+    "claimDelay": "15712930",
+    "latestUnstakeDelayBlock": "15885731",
+    "unstakeDelayDuration": "288000",
+    "totalAllocationPoints": "1000",
+    "farmingPeriod": 14,
+    "rewardTokens": [
+      "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    ],
+    "rewardsPerBlock": [
+      "74404761904761904",
+      "24801587301587301"
+    ],
+    "rewardTokenDecimals": [
+      18,
+      18
+    ],
+    "totalReward": [
+      "29999999999999999692800",
+      "9999999999999999763200"
+    ],
+    "stakingPools": [
+      {
+        "allocationPoints": 1000,
+        "depositCap": "4",
+        "capValidUntilBlock": 15712931,
+        "merkleRoot": "0x361c4c664c49e2db0c81d89ab4901f4c34fcd7cbc006d312658caf426bc0a538",
+        "nftCollection": "0x9ddc83be1e5254669bdb366941C746A86194D61b",
+        "isERC721": true,
+        "collectionName": "Cross Bosses Testers",
+        "collectionImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ava_2.png",
+        "collectionLink": "https://crossbosses.com",
+        "description": "8,040 unique, 1/1 NFTs generated with various body types, backgrounds, glasses, eyes, mouths, hats, accessories, and abilities. Be bossy.",
+        "tokenIds": [
+          [
+            0,
+            8039
+          ]
+        ],
+        "pid": 0
+      }
+    ]
+  },
+  {
     "address": "0xf6E84958d33A60d5533669320b26dF02a2211Ec6",
     "rewardVault": "0x001D7dBf4b8129eE1f0E2355AaA9b154fdb0f87C",
     "feeManager": "0x70dc95aD6AfDb53c7C5076Ec535A596758cf5826",
@@ -37,6 +87,7 @@
         "collectionName": "Cross Bosses",
         "collectionImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ava_1.png",
         "collectionLink": "https://crossbosses.com",
+        "description": "Demo pool for debuting the launch of multi-chain NFT staking by Hot Cross.",
         "tokenIds": [
           0,
           3,
