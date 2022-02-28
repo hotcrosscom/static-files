@@ -207,6 +207,13 @@
     "decimals": 18,
     "symbol": "BSW"
   },
+  "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "name": "RankerDAO",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+    "decimals": 18,
+    "symbol": "RANKER"
+  },
   "0x4e4E6769d4E3387bd6717e805bb03f557C44390b": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     "name": "HY-CAKE (PCS)",

@@ -3486,7 +3486,7 @@
     "priority": 1018,
     "keywords": ["sizzle", "hy-hotcross-busd (pcs)"],
     "completedAPR": {
-      "0": "0"
+      "0": "117.54"
     },
     "subtitle": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain.",
     "description": "PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market. Low fees. Decentralized. And fun. PancakeSwap is the people's choice on Binance Smart Chain.",
@@ -3758,6 +3758,61 @@
       "stakingPools": [
         {
           "stakingToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+          "allocationPoints": "700",
+          "pid": 0
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": "300",
+          "pid": 1
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x5F5840395433a0e8ff9b749B4B5C0924C67bAE34",
+    "name": "RANKER",
+    "decimals": 18,
+    "priority": 800,
+    "keywords": ["hotcross", "ranker", "rankerdao"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "RankerDAO is a decentralized autonomous organization (DAO) that enables its vast guild of gamers.",
+    "description": "RankerDAO is a decentralized autonomous organization (DAO) that enables its guild of gamers to take advantage of its extensive collection of NFTs to gain access to a variety of the most popular P2E games in the industry.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://rankerdao.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/rankerdao"
+      },
+      "discord": {
+        "label": "Discord",
+        "url": "https://discord.com/invite/rankerdaoe"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/rankerdao"
+      }
+    },
+    "chaindata": {
+      "rewardPerBlock": "578703703703703703",
+      "startBlock": "15682391",
+      "endBlock": "17410391",
+      "timeLock": "16546391",
+      "totalAllocationPoints": "1000",
+      "rewardVault": "0x94cC0A0a92E13D0B3Df3dcb1e94a5681c73Aac6D",
+      "rewardToken": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+      "farmingPeriod": 60,
+      "totalReward": "999999999999999998784000",
+      "stakingPools": [
+        {
+          "stakingToken": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
           "allocationPoints": "700",
           "pid": 0
         },
