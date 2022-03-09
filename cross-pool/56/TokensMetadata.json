@@ -219,14 +219,16 @@
     "name": "HY-CAKE (PCS)",
     "buyTokenLink": "https://app.hotcross.com/yield",
     "decimals": 18,
-    "symbol": "HY-CAKE (PCS)"
+    "symbol": "HY-CAKE (PCS)",
+    "isIBT": true
   },
   "0x58b05d8a31878481AC3518F3d63F1b0EaBC4b56c": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
     "name": "HY-BANANA (APE)",
     "buyTokenLink": "https://app.hotcross.com/yield",
     "decimals": 18,
-    "symbol": "HY-BANANA (APE)"
+    "symbol": "HY-BANANA (APE)",
+    "isIBT": true
   },
   "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
     "name": "BANANA-BNB Pair",
@@ -744,6 +746,7 @@
   "0x9Bff65A94C56F7173406f9B417B2Bb81bf233965": {
     "name": "HY-HOTCROSS-BNB (PCS)",
     "symbol": "HY-HOTCROSS-BNB (PCS)",
+    "isIBT": true,
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "HY-HOTCROSS-BNB",
@@ -764,6 +767,7 @@
     "name": "HY-HOTCROSS-BNB (APE)",
     "symbol": "HY-HOTCROSS-BNB (APE)",
     "decimals": 18,
+    "isIBT": true,
     "type": "lp",
     "buyTokenSymbol": "HY-HOTCROSS-BNB",
     "buyTokenLink": "https://app.hotcross.com/yield",
@@ -783,6 +787,7 @@
     "name": "HY-HOTCROSS-BUSD (APE)",
     "symbol": "HY-HOTCROSS-BUSD (APE)",
     "decimals": 18,
+    "isIBT": true,
     "type": "lp",
     "buyTokenSymbol": "HY-HOTCROSS-BUSD",
     "buyTokenLink": "https://app.hotcross.com/yield",
@@ -802,6 +807,7 @@
     "name": "HY-USDT-BUSD (PCS)",
     "symbol": "HY-USDT-BUSD (PCS)",
     "decimals": 18,
+    "isIBT": true,
     "type": "lp",
     "buyTokenSymbol": "HY-USDT-BUSD",
     "buyTokenLink": "https://app.hotcross.com/yield",
@@ -821,6 +827,7 @@
     "name": "HY-USDT-BUSD (APE)",
     "symbol": "HY-USDT-BUSD (APE)",
     "decimals": 18,
+    "isIBT": true,
     "type": "lp",
     "buyTokenSymbol": "HY-USDT-BUSD",
     "buyTokenLink": "https://app.hotcross.com/yield",
@@ -840,6 +847,7 @@
     "name": "HY-USDC-BUSD (PCS)",
     "symbol": "HY-USDC-BUSD (PCS)",
     "decimals": 18,
+    "isIBT": true,
     "type": "lp",
     "buyTokenSymbol": "HY-USDC-BUSD",
     "buyTokenLink": "https://app.hotcross.com/yield",
@@ -859,6 +867,7 @@
     "name": "HY-USDC-BUSD (APE)",
     "symbol": "HY-USDC-BUSD (APE)",
     "decimals": 18,
+    "isIBT": true,
     "type": "lp",
     "buyTokenSymbol": "HY-USDC-BUSD",
     "buyTokenLink": "https://app.hotcross.com/yield",
