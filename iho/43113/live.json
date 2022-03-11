@@ -1,0 +1,126 @@
+{
+  "tokens": [
+    {
+      "address": "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "name": "Binance USD",
+      "decimals": 18,
+      "symbol": "BUSD"
+    },
+    {
+      "address": "0x478452893777B719F2e1b1097b55485Dc9E261E3",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "name": "Wrapped BNB",
+      "decimals": 18,
+      "symbol": "WBNB"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "name": "BNB",
+      "decimals": 18,
+      "symbol": "BNB"
+    },
+    {
+      "address": "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C",
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+      "name": "HOTCROSS",
+      "decimals": 18,
+      "symbol": "HOTCROSS"
+    }
+  ],
+  "zap": "",
+  "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+  "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+  "offeringPrice": 0.05,
+  "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+  "sessions": [
+    {
+      "address": "0xF9A1dC3D47a8bBc1E72dDDf351E9362B96A17BA4",
+      "maxLPEntry": 250000,
+      "buyWith": [
+        "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C"
+      ],
+      "paymentMethod": "HOTCROSS",
+      "entryWith": "HOTCROSS",
+      "purchaseToken": "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C",
+      "launchDate": "January 27th at 10:00 AM UTC",
+      "duration": "4 Hours",
+      "available": "2,500,000 RANKER",
+      "toRaise": "$30,000",
+      "pricePerToken": "$0.05",
+      "cap": "$5,000",
+      "purchasePrice": 0.58,
+      "color": "#8053D7",
+      "secondaryColor": "#FF7F0F",
+      "type": "basic",
+      "title": "HOTCROSS Capped Session",
+      "claimableBy": 1642881750,
+      "isVest": true,
+      "initialClaim": "25% on March 15th, 2022"
+    },
+    {
+      "address": "0x726ff5900790eA2E2B02EC7812893f15C218BB01",
+      "maxLPEntry": 100000,
+      "buyWith": [
+        "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf"
+      ],
+      "paymentMethod": "BUSD",
+      "entryWith": "BUSD",
+      "purchaseToken": "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf",
+      "launchDate": "January 27th at 10:00 AM UTC",
+      "duration": "4 Hours",
+      "available": "2,500,000 RANKER",
+      "toRaise": "$30,000",
+      "pricePerToken": "$0.05",
+      "cap": "$10,000",
+      "purchasePrice": 1,
+      "color": "#E15257",
+      "secondaryColor": "#181818",
+      "type": "basic",
+      "title": "BUSD Capped Session",
+      "claimableBy": 1642881750,
+      "isVest": true,
+      "initialClaim": "25% on March 15th, 2022"
+    },
+    {
+      "address": "0x502767a3345B5286e0069A3C0eFe590c57801536",
+      "maxLPEntry": 100000000000000000000,
+      "buyWith": [
+        "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C"
+      ],
+      "paymentMethod": "HOTCROSS",
+      "entryWith": "HOTCROSS",
+      "purchaseToken": "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C",
+      "launchDate": "January 27th at 10:00 AM UTC",
+      "duration": "4 Hours",
+      "available": "5,000,000 RANKER",
+      "toRaise": "$60,000",
+      "pricePerToken": "$0.05",
+      "purchasePrice": 0.58,
+      "color": "#FF7F0F",
+      "secondaryColor": "#8053D7",
+      "type": "unlimited",
+      "title": "HOTCROSS Uncapped Session",
+      "claimableBy": 1642881750,
+      "isVest": true,
+      "initialClaim": "25% on March 15th, 2022"
+    }
+  ],
+  "announcement": "https://hotcross.link/HOW-TO-TOON",
+  "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+  "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+  "name": "RankerDAO",
+  "symbol": "RANKER",
+  "description": "Ranker description",
+  "startBlock": 7024857,
+  "endBlock": 7026400,
+  "kycDeadline": 1635243004000,
+  "isPending": false,
+  "chainId": 43113,
+  "links": {
+    "website": "https://www.rankerdao.com",
+    "twitter": "https://twitter.com/RankerDAO",
+    "tg": "https://t.me/rankerdao"
+  }
+}
