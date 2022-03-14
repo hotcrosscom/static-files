@@ -2,8 +2,6 @@ name: JSON check
 
 on:
   push:
-    paths:
-      - '**.json'
   pull_request:
 
 jobs:
@@ -14,5 +12,5 @@ jobs:
       - name: json-syntax-check
         uses: limitusus/json-syntax-check@v1
         with:
-          pattern: "\\.json$"
+          pattern: "**.json$"
 
