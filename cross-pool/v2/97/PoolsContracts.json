@@ -71,6 +71,7 @@
         }
       ],
       "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "16294758",
       "fees": {
         "feeManager": "0x1e106FCdc6bb6578Fa9D443B61F0145F8d6e6E00",
         "protocolFee": 0.01,
@@ -147,6 +148,7 @@
         }
       ],
       "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "16294758",
       "fees": {
         "feeManager": "0x086Eb9341919ca238cB71Ee297311A95c1d65d23",
         "protocolFee": 0.01,
