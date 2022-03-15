@@ -3286,8 +3286,8 @@
     "priority": 1020,
     "keywords": ["sizzle", "hy-usdt-busd (pcs)", "hy-usdc-busd (pcs)"],
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "11.98",
+      "1": "11.57"
     },
     "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
     "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
@@ -3334,8 +3334,8 @@
     "priority": 1019,
     "keywords": ["sizzle", "hy-usdt-busd (ape)", "hy-usdc-busd (ape)"],
     "completedAPR": {
-      "0": "0",
-      "1": "0"
+      "0": "12.81",
+      "1": "10.36"
     },
     "subtitle": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD.",
     "description": "BUSD is a U.S.-regulated stablecoin, fully backed by U.S. dollars: 1 BUSD = $1.00 USD. BUSD offers faster ways to fund your trades and is acceptable as a medium of exchange, store of value, and method of payment across the global crypto ecosystem.",
@@ -3381,7 +3381,7 @@
     "priority": 1010,
     "keywords": ["hotcross"],
     "completedAPR": {
-      "0": "0"
+      "0": "11.73"
     },
     "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
     "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
