@@ -66,9 +66,7 @@
           "swapPath": [],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "16192615",
-          "isReflect": true,
-          "reflectFee": 0.03
+          "capValidUntilBlock": "16192615"
         },
         {
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",

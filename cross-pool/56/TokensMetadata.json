@@ -10,7 +10,9 @@
     "name": "Hot Dog Token",
     "symbol": "HOTDOG",
     "buyTokenLink": "https://app.hotcross.com/hotdog",
-    "decimals": 18
+    "decimals": 18,
+    "isReflect": true,
+    "reflectFee": 0.03
   },
   "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
