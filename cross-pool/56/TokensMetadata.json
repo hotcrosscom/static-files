@@ -9,6 +9,7 @@
     "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
     "name": "Hot Dog Token",
     "symbol": "HOTDOG",
+    "buyTokenLink": "https://app.hotcross.com/hotdog",
     "decimals": 18
   },
   "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
