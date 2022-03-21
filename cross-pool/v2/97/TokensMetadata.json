@@ -18,7 +18,9 @@
     "name": "HOTDOG",
     "buyTokenLink": "https://crosspool2.hotcross.dev/hotdog",
     "symbol": "HOTDOG",
-    "decimals": 18
+    "decimals": 18,
+    "isReflect": true,
+    "reflectFee": 0.03
   },
   "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0": {
     "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/binance/info/logo.png?raw=true",
