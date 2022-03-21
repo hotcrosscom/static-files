@@ -140,6 +140,7 @@
     "endBlock": 16095400,
     "kycDeadline": 1635243004000,
     "isPending": false,
+    "chainId": 97,
     "links": {
       "website": "https://www.rankerdao.com",
       "twitter": "https://twitter.com/RankerDAO",
@@ -287,6 +288,7 @@
     "endBlock": 16064400,
     "kycDeadline": 1635243004000,
     "isPending": false,
+    "chainId": 97,
     "links": {
       "website": "https://www.rankerdao.com",
       "twitter": "https://twitter.com/RankerDAO",
@@ -435,6 +437,7 @@
     "endBlock": 16046000,
     "kycDeadline": 1635243004000,
     "isPending": false,
+    "chainId": 97,
     "links": {
       "website": "https://www.rankerdao.com",
       "twitter": "https://twitter.com/RankerDAO",
@@ -583,6 +586,7 @@
     "endBlock": 16026600,
     "kycDeadline": 1635243004000,
     "isPending": false,
+    "chainId": 97,
     "links": {
       "website": "https://www.rankerdao.com",
       "twitter": "https://twitter.com/RankerDAO",
@@ -731,6 +735,7 @@
     "endBlock": 16025200,
     "kycDeadline": 1635243004000,
     "isPending": false,
+    "chainId": 97,
     "links": {
       "website": "https://www.rankerdao.com",
       "twitter": "https://twitter.com/RankerDAO",
@@ -879,6 +884,7 @@
     "endBlock": 15997000,
     "kycDeadline": 1635243004000,
     "isPending": false,
+    "chainId": 97,
     "links": {
       "website": "https://www.rankerdao.com",
       "twitter": "https://twitter.com/RankerDAO",
@@ -1027,6 +1033,7 @@
     "endBlock": 15927450,
     "kycDeadline": 1635243004000,
     "isPending": false,
+    "chainId": 97,
     "links": {
       "website": "https://www.rankerdao.com",
       "twitter": "https://twitter.com/RankerDAO",
