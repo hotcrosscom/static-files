@@ -82,8 +82,8 @@
       "latestUnstakeDelayBlock": "16480614",
       "fees": {
         "feeManager": "0x99Dd53DCb232BB5BF507eBF728b6E1b168B0556F",
-        "protocolFee": 0.02,
-        "withdrawPenaltyFee": 5,
+        "protocolFee": 0.0002,
+        "withdrawPenaltyFee": 0.05,
         "withdrawPenaltyBlock": 16423015
       }
     }
