@@ -22,7 +22,7 @@
       "symbol": "BNB"
     },
     {
-      "address": "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C",
+      "address": "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5",
       "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
       "name": "HOTCROSS",
       "decimals": 18,
@@ -36,14 +36,14 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "0xF9A1dC3D47a8bBc1E72dDDf351E9362B96A17BA4",
+      "address": "0x1FAB6CEc9d3f50C2Cd6784959554AEDbf95a7681",
       "maxLPEntry": 250000,
       "buyWith": [
-        "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C"
+        "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
       ],
       "paymentMethod": "HOTCROSS",
       "entryWith": "HOTCROSS",
-      "purchaseToken": "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C",
+      "purchaseToken": "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5",
       "launchDate": "January 27th at 10:00 AM UTC",
       "duration": "4 Hours",
       "available": "2,500,000 RANKER",
@@ -60,7 +60,7 @@
       "initialClaim": "25% on March 15th, 2022"
     },
     {
-      "address": "0x726ff5900790eA2E2B02EC7812893f15C218BB01",
+      "address": "0xd463D92a32fee44B840edE62c6C2738C99F33137",
       "maxLPEntry": 100000,
       "buyWith": [
         "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf"
@@ -84,14 +84,14 @@
       "initialClaim": "25% on March 15th, 2022"
     },
     {
-      "address": "0x502767a3345B5286e0069A3C0eFe590c57801536",
+      "address": "0x86e2148b4C3Ef833CACa5987CA4335A72440a78c",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
-        "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C"
+        "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
       ],
       "paymentMethod": "HOTCROSS",
       "entryWith": "HOTCROSS",
-      "purchaseToken": "0xF00fCA60D77CA76C1B4c53Fa83109284C3459D7C",
+      "purchaseToken": "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5",
       "launchDate": "January 27th at 10:00 AM UTC",
       "duration": "4 Hours",
       "available": "5,000,000 RANKER",
@@ -113,8 +113,8 @@
   "name": "RankerDAO",
   "symbol": "RANKER",
   "description": "Ranker description",
-  "startBlock": 7024857,
-  "endBlock": 7026400,
+  "startBlock": 7169181,
+  "endBlock": 7171000,
   "kycDeadline": 1635243004000,
   "isPending": false,
   "chainId": 43113,

@@ -1,1 +1,1169 @@
-[]
+[
+  {
+    "tokens": [
+      {
+        "address": "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x478452893777B719F2e1b1097b55485Dc9E261E3",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0x1FAB6CEc9d3f50C2Cd6784959554AEDbf95a7681",
+        "maxLPEntry": 250000,
+        "buyWith": [
+          "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
+        ],
+        "paymentMethod": "HOTCROSS",
+        "entryWith": "HOTCROSS",
+        "purchaseToken": "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "HOTCROSS Capped Session",
+        "claimableBy": 1642881750,
+        "isVest": true,
+        "initialClaim": "25% on March 15th, 2022"
+      },
+      {
+        "address": "0xd463D92a32fee44B840edE62c6C2738C99F33137",
+        "maxLPEntry": 100000,
+        "buyWith": [
+          "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1642881750,
+        "isVest": true,
+        "initialClaim": "25% on March 15th, 2022"
+      },
+      {
+        "address": "0x86e2148b4C3Ef833CACa5987CA4335A72440a78c",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
+        ],
+        "paymentMethod": "HOTCROSS",
+        "entryWith": "HOTCROSS",
+        "purchaseToken": "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$60,000",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTCROSS Uncapped Session",
+        "claimableBy": 1642881750,
+        "isVest": true,
+        "initialClaim": "25% on March 15th, 2022"
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 7169181,
+    "endBlock": 7171000,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 43113,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  },
+  {
+    "tokens": [
+      {
+        "address": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name": "HOTCROSS-BNB Pair",
+        "symbol": "HOTCROSS-BNB",
+        "decimals": 18,
+        "type": "lp",
+        "buyTokenSymbol": "HOTCROSS",
+        "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA": {
+          "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol": "HOTCROSS"
+        },
+        "tokenB": {
+          "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address": "BNB",
+          "symbol": "BNB"
+        }
+      },
+      {
+        "address": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name": "HOTDOG",
+        "decimals": 18,
+        "symbol": "HOTDOG"
+      },
+      {
+        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0x3331A9168b3C696f5Bd75C2940f0c7460e904A38",
+        "maxLPEntry": 30000,
+        "buyWith": [
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1642881750
+      },
+      {
+        "address": "0xe602f563B526804E165f1C0949e3e7AedE7bfF01",
+        "maxLPEntry": 30000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642881750
+      },
+      {
+        "address": "0x486bcA837aA174d785E7eBF2D5269a76Fa2f66b8",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$60,000",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTDOG Uncapped Session",
+        "reflectFee": 0.03
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 16095000,
+    "endBlock": 16095400,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 97,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  },
+  {
+    "tokens": [
+      {
+        "address": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name": "HOTCROSS-BNB Pair",
+        "symbol": "HOTCROSS-BNB",
+        "decimals": 18,
+        "type": "lp",
+        "buyTokenSymbol": "HOTCROSS",
+        "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA": {
+          "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol": "HOTCROSS"
+        },
+        "tokenB": {
+          "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address": "BNB",
+          "symbol": "BNB"
+        }
+      },
+      {
+        "address": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name": "HOTDOG",
+        "decimals": 18,
+        "symbol": "HOTDOG"
+      },
+      {
+        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0x4f0Fb91541429C99c3BE391a1d10fDe92594A784",
+        "maxLPEntry": 30000,
+        "buyWith": [
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1642788750
+      },
+      {
+        "address": "0x0317ef966f9c996A053A52F73bbF393Ae1930C7d",
+        "maxLPEntry": 30000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642788750
+      },
+      {
+        "address": "0x4FeEb6EB9DdC48a230929146502bA715c5E1Ad54",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$60,000",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTDOG Uncapped Session",
+        "reflectFee": 0.03
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 16064000,
+    "endBlock": 16064400,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 97,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  },
+  {
+    "tokens": [
+      {
+        "address": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name": "HOTCROSS-BNB Pair",
+        "symbol": "HOTCROSS-BNB",
+        "decimals": 18,
+        "type": "lp",
+        "buyTokenSymbol": "HOTCROSS",
+        "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA": {
+          "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol": "HOTCROSS"
+        },
+        "tokenB": {
+          "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address": "BNB",
+          "symbol": "BNB"
+        }
+      },
+      {
+        "address": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name": "HOTDOG",
+        "decimals": 18,
+        "symbol": "HOTDOG"
+      },
+      {
+        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0xF8d2448B17f9144575273518B6Fa5d82273cDD63",
+        "maxLPEntry": 30000,
+        "buyWith": [
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1642733490
+      },
+      {
+        "address": "0xc4Ec44B0A8447Bd25fA30c2757613DDfb1Ea277a",
+        "maxLPEntry": 30000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642733490
+      },
+      {
+        "address": "0x1718bD260012df2F07113D0AC46db69ff8AdFb0f",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$60,000",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTDOG Uncapped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642733490
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 16045800,
+    "endBlock": 16046000,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 97,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  },
+  {
+    "tokens": [
+      {
+        "address": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name": "HOTCROSS-BNB Pair",
+        "symbol": "HOTCROSS-BNB",
+        "decimals": 18,
+        "type": "lp",
+        "buyTokenSymbol": "HOTCROSS",
+        "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA": {
+          "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol": "HOTCROSS"
+        },
+        "tokenB": {
+          "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address": "BNB",
+          "symbol": "BNB"
+        }
+      },
+      {
+        "address": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name": "HOTDOG",
+        "decimals": 18,
+        "symbol": "HOTDOG"
+      },
+      {
+        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0x21D232E2dE50D9c753e0d48954B73c4cC01248f8",
+        "maxLPEntry": 10000,
+        "buyWith": [
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1642676340
+      },
+      {
+        "address": "0xfCaD3057Fd713dEB8204cB27e7FB1Be6A0B7e2dC",
+        "maxLPEntry": 10000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642676340
+      },
+      {
+        "address": "0x282871CE3D1B340aBCcB3C927B3de5a239f92121",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$60,000",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTDOG Uncapped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642676340
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 16026200,
+    "endBlock": 16026600,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 97,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  },
+  {
+    "tokens": [
+      {
+        "address": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name": "HOTCROSS-BNB Pair",
+        "symbol": "HOTCROSS-BNB",
+        "decimals": 18,
+        "type": "lp",
+        "buyTokenSymbol": "HOTCROSS",
+        "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA": {
+          "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol": "HOTCROSS"
+        },
+        "tokenB": {
+          "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address": "BNB",
+          "symbol": "BNB"
+        }
+      },
+      {
+        "address": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name": "HOTDOG",
+        "decimals": 18,
+        "symbol": "HOTDOG"
+      },
+      {
+        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0xe0509b93Ab378de7E7E13C883CcB15e574037F35",
+        "maxLPEntry": 10000,
+        "buyWith": [
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1642671780
+      },
+      {
+        "address": "0x55D0A777a9EB70FA46e31E08402a28Bf11218F00",
+        "maxLPEntry": 10000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$30,000",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642671780
+      },
+      {
+        "address": "0xE12B216c9F90A652658F49dB275A761DAB286d14",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 27th at 10:00 AM UTC",
+        "duration": "4 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$60,000",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTDOG Uncapped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642671780
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 16024800,
+    "endBlock": 16025200,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 97,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  },
+  {
+    "tokens": [
+      {
+        "address": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name": "HOTCROSS-BNB Pair",
+        "symbol": "HOTCROSS-BNB",
+        "decimals": 18,
+        "type": "lp",
+        "buyTokenSymbol": "HOTCROSS",
+        "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA": {
+          "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol": "HOTCROSS"
+        },
+        "tokenB": {
+          "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address": "BNB",
+          "symbol": "BNB"
+        }
+      },
+      {
+        "address": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name": "HOTDOG",
+        "decimals": 18,
+        "symbol": "HOTDOG"
+      },
+      {
+        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0x44C720E368A8c3B3561594EA071260A699296f60",
+        "maxLPEntry": 10000,
+        "buyWith": [
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "launchDate": "January 24th at 09:00 AM UTC",
+        "duration": "3 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$15,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1642587480
+      },
+      {
+        "address": "0xeA7818540dBa93C3d4a534ebc1aE6b4D633E8fb8",
+        "maxLPEntry": 8620.6896,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 24th at 09:00 AM UTC",
+        "duration": "3 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$8,700",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642587480
+      },
+      {
+        "address": "0xa73A63D4ECb7a9D30e71626d60B9F0397b70D91c",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 24th at 09:00 AM UTC",
+        "duration": "3 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$17,400",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTDOG Uncapped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1642587480
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 15996400,
+    "endBlock": 15997000,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 97,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  },
+  {
+    "tokens": [
+      {
+        "address": "0x7420570e8F8001f6887d02d9dAF29466AB529c43",
+        "name": "HOTCROSS-BNB Pair",
+        "symbol": "HOTCROSS-BNB",
+        "decimals": 18,
+        "type": "lp",
+        "buyTokenSymbol": "HOTCROSS",
+        "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "tokenA": {
+          "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+          "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+          "symbol": "HOTCROSS"
+        },
+        "tokenB": {
+          "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+          "address": "BNB",
+          "symbol": "BNB"
+        }
+      },
+      {
+        "address": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+        "name": "Binance USD",
+        "decimals": 18,
+        "symbol": "BUSD"
+      },
+      {
+        "address": "0x1E323d4E825c805F9AFF48fFF1B77ff7a87c03B0",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB"
+      },
+      {
+        "address": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "image": "https://app.hotcross.com/89c13fad4507c36098d9.png",
+        "name": "HOTDOG",
+        "decimals": 18,
+        "symbol": "HOTDOG"
+      },
+      {
+        "address": "0x96F9A6781B28296428500c6aAea009D97E489dAe",
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "name": "HOTCROSS",
+        "decimals": 18,
+        "symbol": "HOTCROSS"
+      }
+    ],
+    "zap": "",
+    "purchase": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+    "offering": "0x2E7Ba0bCd584f5FBFaf9F3cA7176E12A0266B0d4",
+    "offeringPrice": 0.05,
+    "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "sessions": [
+      {
+        "address": "0xE3a470c0b64eC79aadc8Cc2d404aD0194c1d2f1E",
+        "maxLPEntry": 10000,
+        "buyWith": [
+          "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0"
+        ],
+        "paymentMethod": "BUSD",
+        "entryWith": "BUSD",
+        "purchaseToken": "0xE4A8c8Ec25A53894549Ce3c04c8705f8ccCEB0e0",
+        "launchDate": "January 24th at 09:00 AM UTC",
+        "duration": "3 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$125,000",
+        "pricePerToken": "$0.05",
+        "cap": "$10,000",
+        "purchasePrice": 1,
+        "color": "#8053D7",
+        "secondaryColor": "#FF7F0F",
+        "type": "basic",
+        "title": "BUSD Capped Session",
+        "claimableBy": 1650151800
+      },
+      {
+        "address": "0xEAe34990b2f7FB090B6ddCa18bABE9D712B33D20",
+        "maxLPEntry": 8620.6896,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 24th at 09:00 AM UTC",
+        "duration": "3 Hours",
+        "available": "2,500,000 RANKER",
+        "toRaise": "$125,000",
+        "pricePerToken": "$0.05",
+        "cap": "$5,000",
+        "purchasePrice": 0.58,
+        "color": "#E15257",
+        "secondaryColor": "#181818",
+        "type": "basic",
+        "title": "HOTDOG Capped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1650151800
+      },
+      {
+        "address": "0xab332Ddc7A0a33F6875ccb3E90C5F08D2d13e0C6",
+        "maxLPEntry": 100000000000000000000,
+        "buyWith": [
+          "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11"
+        ],
+        "paymentMethod": "HOTDOG",
+        "entryWith": "HOTDOG",
+        "purchaseToken": "0x1633103D1D33919760a6908bF44a6eB9c5CC3b11",
+        "launchDate": "January 24th at 09:00 AM UTC",
+        "duration": "3 Hours",
+        "available": "5,000,000 RANKER",
+        "toRaise": "$250,000",
+        "pricePerToken": "$0.05",
+        "purchasePrice": 0.58,
+        "color": "#FF7F0F",
+        "secondaryColor": "#8053D7",
+        "type": "unlimited",
+        "title": "HOTDOG Uncapped Session",
+        "reflectFee": 0.03,
+        "claimableBy": 1650151800
+      }
+    ],
+    "announcement": "https://hotcross.link/HOW-TO-TOON",
+    "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+    "headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_banner.png",
+    "name": "RankerDAO",
+    "symbol": "RANKER",
+    "description": "Ranker description",
+    "startBlock": 15926850,
+    "endBlock": 15927450,
+    "kycDeadline": 1635243004000,
+    "isPending": false,
+    "chainId": 97,
+    "links": {
+      "website": "https://www.rankerdao.com",
+      "twitter": "https://twitter.com/RankerDAO",
+      "tg": "https://t.me/rankerdao"
+    }
+  }
+]
