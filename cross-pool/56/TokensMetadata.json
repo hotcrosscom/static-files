@@ -9,7 +9,10 @@
     "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
     "name": "Hot Dog Token",
     "symbol": "HOTDOG",
-    "decimals": 18
+    "buyTokenLink": "https://app.hotcross.com/hotdog",
+    "decimals": 18,
+    "isReflect": true,
+    "reflectFee": 0.03
   },
   "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
