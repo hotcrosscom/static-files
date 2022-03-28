@@ -1,0 +1,249 @@
+[
+  {
+    "address": "0x8DE3C3d65591A9D00969795309395e4ce2520b6C",
+    "name": "HOTCROSS",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "image": "https://github.com/hotcrosscom/brand/blob/main/token/200w/token.png?raw=true",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16237158",
+      "endBlock": "18829158",
+      "claimDelay": "16237158",
+      "unstakeDelayDuration": "86400",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "385802469135802469"
+      ],
+      "totalReward": [
+        "999999999999999999648000"
+      ],
+      "rewardProcessor": "0x96ae12aC73942b76Fba16Ce9B2599f977615B43e",
+      "rewardVault": "0x1294B98111933F9df6BAf61ad1a2f81D47F08a2A",
+      "stakingPools": [
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 300,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "16525158"
+        },
+        {
+          "stakingToken": "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
+          "allocationPoints": 700,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "16237158"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "16294758",
+      "fees": {
+        "feeManager": "0x1e106FCdc6bb6578Fa9D443B61F0145F8d6e6E00",
+        "protocolFee": 0.01,
+        "withdrawPenaltyFee": 0.03,
+        "withdrawPenaltyBlock": 16813158
+      }
+    }
+  },
+  {
+    "address": "0x447C514aa5c7bAfF093AFE3161891779A9273B41",
+    "name": "HOTDOG",
+    "decimals": 18,
+    "priority": 1000,
+    "completedAPY": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "HOTDOG holders get a share of the fee proportional to their holdings just by having it in their wallets.",
+    "description": "HOTDOG holders get a share of the fee proportional to their holdings just by having it in their wallets",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16240758",
+      "endBlock": "18832759",
+      "claimDelay": "16240758",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0x8C5dA19147ad2EfbbC8610b387A6884583337f88"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "192901160146157351"
+      ],
+      "totalReward": [
+        "499999999999999999949351"
+      ],
+      "rewardProcessor": "0xFFA19AA302c4df46C0c5cad1Afc9AaEedA6b7e08",
+      "rewardVault": "0xf0157872714ea8f26113f052121efB1c92193CF5",
+      "stakingPools": [
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 300,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "200000000000000000000000",
+          "capValidUntilBlock": "16528758"
+        },
+        {
+          "stakingToken": "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
+          "allocationPoints": 700,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "16384758"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "16294758",
+      "fees": {
+        "feeManager": "0x086Eb9341919ca238cB71Ee297311A95c1d65d23",
+        "protocolFee": 0.01,
+        "withdrawPenaltyFee": 0.03,
+        "withdrawPenaltyBlock": 16816758
+      }
+    }
+  },
+  {
+    "address": "0xa9Eb5a4d0e9f7a87e9b9fca96D9076abE840e993",
+    "name": "HOTDOG+HOTCROSS",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "17948977",
+      "endBlock": "18352178",
+      "claimDelay": "17951857",
+      "unstakeDelayDuration": "201600",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 15,
+      "rewardTokens": [
+        "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
+        "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "892854928435197333",
+        "347221361058132296"
+      ],
+      "totalReward": [
+        "359999999999999999862933",
+        "139999999999999999879496"
+      ],
+      "rewardProcessor": "0xf47cB48B6a4Ef68122126922C1f391E9B4621967",
+      "rewardVault": "0x5DEf0c6D47fe3d96B8BdA6081781B2A3F877aB67",
+      "stakingPools": [
+        {
+          "stakingToken": "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
+          "allocationPoints": 750,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "18006577"
+        },
+        {
+          "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
+          "allocationPoints": 250,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "18006577"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18323377",
+      "fees": {
+        "feeManager": "0xd1333B63328D2017da2eD9d321F0Dfc3b63603e8",
+        "protocolFee": 2,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 18236977
+      }
+    }
+  }
+]
