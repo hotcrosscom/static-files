@@ -158,7 +158,7 @@
     }
   },
   {
-    "address": "0xa9Eb5a4d0e9f7a87e9b9fca96D9076abE840e993",
+    "address": "0x2ED19Ba982ed4487B6CA0815538ccFD1E13605bF",
     "name": "HOTDOG+HOTCROSS",
     "decimals": 18,
     "priority": 2000,
@@ -192,12 +192,12 @@
       }
     },
     "chaindata": {
-      "startBlock": "17948977",
-      "endBlock": "18352178",
-      "claimDelay": "17951857",
+      "startBlock": "17948978",
+      "endBlock": "18352177",
+      "claimDelay": "17951858",
       "unstakeDelayDuration": "201600",
       "totalAllocationPoints": "1000",
-      "farmingPeriod": 15,
+      "farmingPeriod": 14,
       "rewardTokens": [
         "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
         "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81"
@@ -207,15 +207,15 @@
         "18"
       ],
       "rewardsPerBlock": [
-        "892854928435197333",
-        "347221361058132296"
+        "892859357290072644",
+        "347223083390583806"
       ],
       "totalReward": [
-        "359999999999999999862933",
-        "139999999999999999879496"
+        "359999999999999999988156",
+        "139999999999999999995394"
       ],
-      "rewardProcessor": "0xf47cB48B6a4Ef68122126922C1f391E9B4621967",
-      "rewardVault": "0x5DEf0c6D47fe3d96B8BdA6081781B2A3F877aB67",
+      "rewardProcessor": "0x0d2CE12dfBF47D0e3c2159CDeDcF988ff0816E95",
+      "rewardVault": "0xfe2064749f2656A1f856Ab7cBfd38E824dd527ee",
       "stakingPools": [
         {
           "stakingToken": "0x8C5dA19147ad2EfbbC8610b387A6884583337f88",
@@ -224,7 +224,7 @@
           "swapPath": [],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "18006577"
+          "capValidUntilBlock": "18006578"
         },
         {
           "stakingToken": "0xb3f7d84a6270eB6421Ad6cD12aD2299a7d094f81",
@@ -233,16 +233,16 @@
           "swapPath": [],
           "decimals": "18",
           "depositCap": "100000000000000000000000",
-          "capValidUntilBlock": "18006577"
+          "capValidUntilBlock": "18006578"
         }
       ],
       "compoundEnabled": false,
       "latestUnstakeDelayBlock": "18323377",
       "fees": {
-        "feeManager": "0xd1333B63328D2017da2eD9d321F0Dfc3b63603e8",
+        "feeManager": "0x68b9742E9F72fB2c8f8C864794A71295CA997B0F",
         "protocolFee": 2,
         "withdrawPenaltyFee": 500,
-        "withdrawPenaltyBlock": 18236977
+        "withdrawPenaltyBlock": 18236978
       }
     }
   }
