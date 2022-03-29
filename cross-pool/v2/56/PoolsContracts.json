@@ -161,7 +161,7 @@
         }
       ],
       "compoundEnabled": false,
-      "latestUnstakeDelayBlock": "16456754",
+      "latestUnstakeDelayBlock": "19048754",
       "fees": {
         "feeManager": "0xbdB8CE0DA60858702fdcc28b78Bd91b199FdAEfd",
         "protocolFee": 2,
