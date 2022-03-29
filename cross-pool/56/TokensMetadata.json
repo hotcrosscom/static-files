@@ -518,6 +518,25 @@
       "symbol": "BUSD"
     }
   },
+  "0x4039a3B74459d15Ea8023064aE18B48499FecC60": {
+    "name": "FRONT-BUSD Pair",
+    "symbol": "FRONT-BUSD",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "FRONT",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+    "addLiquidityLink": "https://apeswap.finance/add/0x928e55dab735aa8260af3cedada18b5f70c72f1b/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "tokenA": {
+      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png?raw=true",
+      "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "symbol": "FRONT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
   "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0": {
     "name": "CAKE-BNB Pair",
     "symbol": "CAKE-BNB",
