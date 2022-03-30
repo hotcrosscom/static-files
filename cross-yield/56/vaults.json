@@ -443,5 +443,20 @@
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
+  },
+  {
+    "contractAddress": "0xf58e6ec87F563Da5980C57Ad8D76d9B78F4da437",
+    "strategy": "0x22d83b6c010e707d3adD62237952E33e72B7a590",
+    "farmingToken": "0x8B3EBE3422aabEA9920ca820fE43679e3e2E78D3",
+    "token0": "0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "blockNumber": 16502931,
+    "name": "APE-BNB",
+    "ibtSymbol": "HY-APE-BNB-APE",
+    "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 191,
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
+    "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
+    "platform": "ApeSwap"
   }
 ]

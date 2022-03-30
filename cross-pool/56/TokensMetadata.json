@@ -217,6 +217,13 @@
     "decimals": 18,
     "symbol": "RANKER"
   },
+  "0x0b079B33B6e72311c6BE245F9f660CC385029fc3": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/apecoin_logo.svg",
+    "name": "ApeCoin",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
+    "decimals": 18,
+    "symbol": "APE"
+  },
   "0x4e4E6769d4E3387bd6717e805bb03f557C44390b": {
     "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     "name": "HY-CAKE (PCS)",
@@ -535,6 +542,25 @@
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "symbol": "BUSD"
+    }
+  },
+  "0x8B3EBE3422aabEA9920ca820fE43679e3e2E78D3": {
+    "name": "APE-BNB Pair",
+    "symbol": "APE-BNB",
+    "decimals": 18,
+    "type": "lp",
+    "buyTokenSymbol": "APE",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
+    "addLiquidityLink": "https://apeswap.finance/add/0x0b079B33B6e72311c6BE245F9f660CC385029fc3/BNB",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/apecoin_logo.svg",
+      "address": "0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
+      "symbol": "APE"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
     }
   },
   "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0": {
