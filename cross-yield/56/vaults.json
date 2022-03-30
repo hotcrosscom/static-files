@@ -428,5 +428,20 @@
     "crossYieldZap": "0x9C6782C51602Bd817D1D2d6Cc650F0a11E8b66A2",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "Biswap"
+  },
+  {
+    "contractAddress": "0x36711B6170e280001A99307296a1d73267bDD185",
+    "strategy": "0x1C0b2da1122C02df2A903a57Fd5bF8E07643042C",
+    "farmingToken": "0x4039a3B74459d15Ea8023064aE18B48499FecC60",
+    "token0": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "token1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "blockNumber": 16479721,
+    "name": "FRONT-BUSD",
+    "ibtSymbol": "HY-FRONT-BUSD-APE",
+    "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 189,
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
+    "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
+    "platform": "ApeSwap"
   }
 ]
