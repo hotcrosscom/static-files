@@ -36,7 +36,7 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "0x3ec10244003AB8EBCc654a4243bd71567D117c32",
+      "address": "0x12A7108C1AEB15B376eDbd203740c464e43f3612",
       "maxLPEntry": 250000,
       "buyWith": [
         "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
@@ -60,7 +60,7 @@
       "initialClaim": "25% on March 15th, 2022"
     },
     {
-      "address": "0x9019db57FdBFad150b271ebbFf8b6fc151414c93",
+      "address": "0xa815d5952128Da41C6E7EcB0D81c11DA091212d4",
       "maxLPEntry": 100000,
       "buyWith": [
         "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf"
@@ -84,7 +84,7 @@
       "initialClaim": "25% on March 15th, 2022"
     },
     {
-      "address": "0xe6C2A0fA876F92E6c4F7055289734Ec0cc9BA91F",
+      "address": "0x0710ae39601F7824580d053E46A8aC7F4dfB5884",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
         "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
