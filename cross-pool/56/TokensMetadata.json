@@ -218,7 +218,7 @@
     "symbol": "RANKER"
   },
   "0x0b079B33B6e72311c6BE245F9f660CC385029fc3": {
-    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/apecoin_logo.svg",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/apecoin_logo.png",
     "name": "ApeCoin",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
     "decimals": 18,
@@ -553,7 +553,7 @@
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
     "addLiquidityLink": "https://apeswap.finance/add/0x0b079B33B6e72311c6BE245F9f660CC385029fc3/BNB",
     "tokenA": {
-      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/apecoin_logo.svg",
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/apecoin_logo.png",
       "address": "0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
       "symbol": "APE"
     },
