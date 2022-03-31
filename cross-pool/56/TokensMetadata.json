@@ -585,11 +585,11 @@
     }
   },
   "0x1D0C3044eBf055986c52D38b19B5369374E6Bc6A": {
-    "name": "MATIC-BNB Pair",
-    "symbol": "MATIC-BNB",
+    "name": "SUSHI-BNB Pair",
+    "symbol": "SUSHI-BNB",
     "decimals": 18,
     "type": "lp",
-    "buyTokenSymbol": "MATIC",
+    "buyTokenSymbol": "SUSHI",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "addLiquidityLink": "https://apeswap.finance/add/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4/BNB",
     "tokenA": {
