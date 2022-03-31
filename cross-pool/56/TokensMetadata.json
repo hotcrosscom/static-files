@@ -239,7 +239,7 @@
     "symbol": "SUSHI"
   },
   "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47": {
-    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ADA_token.svg",
     "name": "Binance-Peg Cardano Token",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "decimals": 18,
@@ -612,7 +612,7 @@
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "addLiquidityLink": "https://apeswap.finance/add/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/BNB",
     "tokenA": {
-      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png?raw=true",
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ADA_token.svg",
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "symbol": "ADA"
     },
