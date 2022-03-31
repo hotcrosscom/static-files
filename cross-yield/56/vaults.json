@@ -458,5 +458,50 @@
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
+  },
+  {
+    "contractAddress": "0x434dF3120462f1f4AF3D7fd622bc92A2707c060c",
+    "strategy": "0x1784E9AaacEd67602A4973A50905977507AD8730",
+    "farmingToken": "0x29A4A3D77c010CE100A45831BF7e798f0f0B325D",
+    "token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "token1": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+    "blockNumber": 16528275,
+    "name": "MATIC-BNB",
+    "ibtSymbol": "HY-MATIC-BNB-APE",
+    "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 45,
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
+    "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
+    "platform": "ApeSwap"
+  },
+  {
+    "contractAddress": "0xfeCd476dB4Ab4762D771357C16a95EE866617822",
+    "strategy": "0x29c1AEE0580Db227fa755b45139A66e72E3F5A36",
+    "farmingToken": "0x1D0C3044eBf055986c52D38b19B5369374E6Bc6A",
+    "token0": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "blockNumber": 16528378,
+    "name": "SUSHI-BNB",
+    "ibtSymbol": "HY-SUSHI-BNB-APE",
+    "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 13,
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
+    "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
+    "platform": "ApeSwap"
+  },
+  {
+    "contractAddress": "0xf69f3d7d602AcCb9968C9d42C098cF9D24921A3C",
+    "strategy": "0x969F8948a33E99D738d34Ead238fF3c26E0a6f54",
+    "farmingToken": "0x40d4543887E4170A1A40Cd8dB15A6b297c812Cb1",
+    "token0": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "blockNumber": 16528796,
+    "name": "ADA-BNB",
+    "ibtSymbol": "HY-ADA-BNB-APE",
+    "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 17,
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
+    "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
+    "platform": "ApeSwap"
   }
 ]
