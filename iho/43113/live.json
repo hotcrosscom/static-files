@@ -36,7 +36,7 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
   "sessions": [
     {
-      "address": "0x12A7108C1AEB15B376eDbd203740c464e43f3612",
+      "address": "0xa73cF6f57f630b1B4040b6381170D4d071c27BdE",
       "maxLPEntry": 250000,
       "buyWith": [
         "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
@@ -60,7 +60,7 @@
       "initialClaim": "25% on March 15th, 2022"
     },
     {
-      "address": "0xa815d5952128Da41C6E7EcB0D81c11DA091212d4",
+      "address": "0x12F830659d8e47D68953CFEd0ccc0C7337c7Eb71",
       "maxLPEntry": 100000,
       "buyWith": [
         "0x767a74b9b1C3740Fa26E03b9e30Ff274448246cf"
@@ -84,7 +84,7 @@
       "initialClaim": "25% on March 15th, 2022"
     },
     {
-      "address": "0x0710ae39601F7824580d053E46A8aC7F4dfB5884",
+      "address": "0xE7B82648fCfcaf50db0B094101Fa6a39F4D64B59",
       "maxLPEntry": 100000000000000000000,
       "buyWith": [
         "0xf55FeE3CB970113603ae71f01Ae66c4F13BFA7a5"
@@ -113,8 +113,8 @@
   "name": "RankerDAO",
   "symbol": "RANKER",
   "description": "Ranker description",
-  "startBlock": 7961379,
-  "endBlock": 7963379,
+  "startBlock": 8007688,
+  "endBlock": 8008692,
   "kycDeadline": 1635243004000,
   "isPending": false,
   "chainId": 43113,
