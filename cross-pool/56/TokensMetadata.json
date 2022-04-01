@@ -566,8 +566,8 @@
     }
   },
   "0x29A4A3D77c010CE100A45831BF7e798f0f0B325D": {
-    "name": "MATIC-BUSD Pair",
-    "symbol": "MATIC-BUSD",
+    "name": "MATIC-BNB Pair",
+    "symbol": "MATIC-BNB",
     "decimals": 18,
     "type": "lp",
     "buyTokenSymbol": "MATIC",
