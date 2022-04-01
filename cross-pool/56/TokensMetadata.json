@@ -225,7 +225,7 @@
     "symbol": "APE"
   },
   "0xCC42724C6683B7E57334c4E856f4c9965ED682bD": {
-    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/logo.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/MATIC_token.svg",
     "name": "Matic Token",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
     "decimals": 18,
@@ -574,7 +574,7 @@
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
     "addLiquidityLink": "https://apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/BNB",
     "tokenA": {
-      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/logo.png",
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/MATIC_token.svg",
       "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
       "symbol": "MATIC"
     },
