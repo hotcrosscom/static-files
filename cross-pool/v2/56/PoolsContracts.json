@@ -169,5 +169,86 @@
         "withdrawPenaltyBlock": 17320755
       }
     }
+  },
+  {
+    "address": "0xbd415Bb647E7D7d96365C68f5877E8347038833A",
+    "name": "HOTDOG+HOTCROSS",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16885569",
+      "endBlock": "18613570",
+      "claimDelay": "16888449",
+      "unstakeDelayDuration": "1699200",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703368805920829",
+        "578703368805920829"
+      ],
+      "totalReward": [
+        "999999999999999998432829",
+        "999999999999999998432829"
+      ],
+      "rewardProcessor": "0x4cea7d9E675DAcEdA7298B64f7ffE209Ea324b26",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x746a41Fa29cce983ecaf80708E8559F0b4D2a768",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "1000000000000000000000000",
+          "capValidUntilBlock": "16971969"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18555969",
+      "fees": {
+        "feeManager": "0x45aF120CCF7D5cE80781C5E467513d38eFb06e5B",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 16885569
+      }
+    }
   }
 ]
