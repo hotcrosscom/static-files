@@ -10,7 +10,7 @@
     "ibtSymbol": "HY-HOTCROSS-BNB-PCS-V2",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
     "poolId": 386,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0x4dc74cCFa6578015FC235DdC51cFC405B2e7A840",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "PancakeSwap",
     "excludedTokens": [
@@ -28,7 +28,7 @@
     "ibtSymbol": "HY-CAKE-PCS-V2",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
     "poolId": 0,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0x4dc74cCFa6578015FC235DdC51cFC405B2e7A840",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "PancakeSwap"
   },
@@ -43,7 +43,7 @@
     "ibtSymbol": "HY-CAKE-BNB-PCS-V2",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
     "poolId": 251,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0x4dc74cCFa6578015FC235DdC51cFC405B2e7A840",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "PancakeSwap"
   },
