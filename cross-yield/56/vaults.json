@@ -15,6 +15,9 @@
     "platform": "PancakeSwap",
     "excludedTokens": [
       "0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+    ],
+    "excludedZapOutTokens": [
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
     ]
   },
   {
