@@ -330,5 +330,96 @@
         "withdrawPenaltyBlock": 17115916
       }
     }
+  },
+  {
+    "address": "0xFE4150F65b57558022Cf24245A7Cd1847f61B269",
+    "name": "FRONT+HOTDOG",
+    "decimals": 18,
+    "priority": 1980,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "keywords": ["front", "hotdog"],
+    "images": [
+      "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "startBlock": "17371857",
+      "endBlock": "19099858",
+      "claimDelay": "17371857",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "115740673761184165",
+        "28935168440296041"
+      ],
+      "totalReward": [
+        "199999999999999998304165",
+        "49999999999999999144041"
+      ],
+      "rewardProcessor": "0x21B0aEEa405088D120c893D6034FCA43Be93EcAC",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0xfE0D6FC0Bd9cA56CBE0Ccdeebba414AFc6C37433",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "20000000000000000000000",
+          "capValidUntilBlock": "17458257"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "50000000000000000000000",
+          "capValidUntilBlock": "17458257"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18725457",
+      "fees": {
+        "feeManager": "0xaE3acf182D40087f0B4204068f2C241994e31B98",
+        "protocolFee": 1,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 18235857
+      }
+    }
   }
 ]
