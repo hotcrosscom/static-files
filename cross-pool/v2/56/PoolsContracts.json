@@ -421,5 +421,95 @@
         "withdrawPenaltyBlock": 18235857
       }
     }
+  },
+  {
+    "address": "0xCaE76D6D35b7F1e03451AC28878024bFBAFA4c34",
+    "name": "RANKER+HOTDOG",
+    "decimals": 18,
+    "priority": 1980,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "RankerDAO is a decentralized autonomous organization (DAO) that enables its vast guild of gamers.",
+    "description": "RankerDAO is a decentralized autonomous organization (DAO) that enables its guild of gamers to take advantage of its extensive collection of NFTs to gain access to a variety of the most popular P2E games in the industry.",
+    "keywords": ["hotcross", "ranker", "rankerdao", "hotdog"],
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://rankerdao.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/rankerdao"
+      },
+      "discord": {
+        "label": "Discord",
+        "url": "https://discord.com/invite/rankerdao"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/rankerdao"
+      }
+    },
+    "chaindata": {
+      "startBlock": "17455245",
+      "endBlock": "19183245",
+      "claimDelay": "17455245",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "2314814814814814814",
+        "28935185185185185"
+      ],
+      "totalReward": [
+        "3999999999999999998592000",
+        "49999999999999999680000"
+      ],
+      "rewardProcessor": "0x7e854b49dC5099C3368842Fb76FA32FE1aeF3EF1",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x00bE6236ef97BCFDa19fbcfbe97bD13Df96B04c6",
+      "stakingPools": [
+        {
+          "stakingToken": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "17455245"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "17455245"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18780045",
+      "fees": {
+        "feeManager": "0xFEdf030E1db37fB7b981BD35637CE97D19fF89Fa",
+        "protocolFee": 1,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 19154445
+      }
+    }
   }
 ]
