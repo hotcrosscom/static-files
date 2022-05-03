@@ -64,7 +64,7 @@
   "sessions": [
     {
       "address": "",
-      "maxLPEntry": 2000,
+      "maxLPEntry": 4000,
       "buyWith": [
         "0xe9e7cea3dedca5984780bafc599bd69add087d56"
       ],
@@ -76,7 +76,7 @@
       "available": "20,000,000 SALO",
       "toRaise": "$160,000",
       "pricePerToken": "$0.008",
-      "cap": "$2,000",
+      "cap": "$4,000",
       "purchasePrice": 1,
       "color": "#05FCF3",
       "secondaryColor": "#8D94FD",
