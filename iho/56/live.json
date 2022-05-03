@@ -84,7 +84,7 @@
       "type": "basic",
       "title": " BUSD Capped Session",
       "isVest": true,
-      "initialClaim": "6.25% on May 20rd, 2022"
+      "initialClaim": "6.25% on May 20th, 2022"
     },
     {
       "address": "",
@@ -108,7 +108,7 @@
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
       "isVest": true,
-      "initialClaim": "6.25% on May 20rd, 2022"
+      "initialClaim": "6.25% on May 20th, 2022"
     }
   ],
   "announcement": "https://hotcross.link/SALO-PLAYERS",
