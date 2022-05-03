@@ -1,26 +1,6 @@
 {
   "tokens": [
     {
-      "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-      "name": "HOTCROSS-BNB Pair",
-      "symbol": "HOTCROSS-BNB",
-      "decimals": 18,
-      "type": "lp",
-      "buyTokenSymbol": "HOTCROSS",
-      "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-      "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-      "tokenA": {
-        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
-        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-        "symbol": "HOTCROSS"
-      },
-      "tokenB": {
-        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
-        "address": "BNB",
-        "symbol": "BNB"
-      }
-    },
-    {
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "name": "Binance USD",
@@ -47,13 +27,6 @@
       "name": "HOTDOG",
       "decimals": 18,
       "symbol": "HOTDOG"
-    },
-    {
-      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-      "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
-      "name": "HOTCROSS",
-      "decimals": 18,
-      "symbol": "HOTCROSS"
     }
   ],
   "zap": "",
@@ -84,7 +57,9 @@
       "type": "basic",
       "title": " BUSD Capped Session",
       "isVest": true,
-      "initialClaim": "6.25% on May 20th, 2022"
+      "initialClaim": "6.25% on May 20th, 2022",
+      "requirements": "KYC",
+      "requirementsLink": "https://hotcross.link/ACCESS"
     },
     {
       "address": "",
@@ -108,7 +83,10 @@
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
       "isVest": true,
-      "initialClaim": "6.25% on May 20th, 2022"
+      "initialClaim": "6.25% on May 20th, 2022",
+      "requirements": "KYC",
+      "requirementsLink": "https://hotcross.link/ACCESS"
+
     }
   ],
   "announcement": "https://hotcross.link/SALO-PLAYERS",
