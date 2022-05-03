@@ -104,7 +104,7 @@
       "color": "#8D94FD",
       "secondaryColor": "#EB4CFF",
       "textColor": "#000000",
-      "type": "basic",
+      "type": "unlimited",
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
       "isVest": true,
