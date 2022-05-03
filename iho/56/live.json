@@ -64,7 +64,7 @@
   "sessions": [
     {
       "address": "",
-      "maxLPEntry": 10000,
+      "maxLPEntry": 2000,
       "buyWith": [
         "0xe9e7cea3dedca5984780bafc599bd69add087d56"
       ],
@@ -73,16 +73,16 @@
       "purchaseToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "launchDate": "May 17th at 13:00 UTC",
       "duration": "24 Hours",
-      "available": "80,000,000 SALO",
+      "available": "20,000,000 SALO",
       "toRaise": "$160,000",
       "pricePerToken": "$0.008",
-      "cap": "$10,000",
+      "cap": "$2,000",
       "purchasePrice": 1,
       "color": "#05FCF3",
       "secondaryColor": "#8D94FD",
       "textColor": "#000000",
       "type": "basic",
-      "title": "BUSD Capped NFT Session",
+      "title": " BUSD Capped Session",
       "isVest": true,
       "initialClaim": "6.25% on May 20rd, 2022"
     },
@@ -97,7 +97,7 @@
       "purchaseToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
       "launchDate": "May 17th at 13:00 UTC",
       "duration": "24 Hours",
-      "available": "20.000.000 SALO",
+      "available": "80.000.000 SALO",
       "toRaise": "$640,000",
       "pricePerToken": "$0.008",
       "purchasePrice": 0.33,
