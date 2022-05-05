@@ -285,6 +285,13 @@
     "symbol": "ALPHA",
     "decimals": 18
   },
+  "0x6Ae448EC22f1507Be2243FE51E36FDadD2b3eD8A": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/CBI%20.svg",
+    "name": "Cross Bosses Index",
+    "symbol": "CBi",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x6ae448ec22f1507be2243fe51e36fdadd2b3ed8a",
+    "decimals": 18
+  },
   "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
     "name": "BANANA-BNB Pair",
     "symbol": "BANANA-BNB",
