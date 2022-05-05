@@ -511,5 +511,74 @@
         "withdrawPenaltyBlock": 19154445
       }
     }
+  },
+  {
+    "address": "0x504C4a8aB4dBc6A957BE94C2AeCB78b466429512",
+    "name": "HOTDOG",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotdog",  "Cross Bosses Index", "CBi"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "A reflect loyalty token with a 3% transfer fee given to holders, and other incentives.",
+    "description": "The purpose of the Hot Dog Token is to strengthen the Hot Cross community and incentivize platform users with HOTDOG-only events.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://docs.hotcross.com/oink/fundamentals/hot-dog-token"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      }
+    },
+    "chaindata": {
+      "startBlock": "17565197",
+      "endBlock": "19293197",
+      "claimDelay": "17565197",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "86805555555555555"
+      ],
+      "totalReward": [
+        "149999999999999999040000"
+      ],
+      "rewardProcessor": "0x9d0A28E14C3D904944eB2bdD1f087525eAaF0402",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x7a13FAD5385ede37A51c6bF94d3BCc6A2553C831",
+      "stakingPools": [
+        {
+          "stakingToken": "0x6Ae448EC22f1507Be2243FE51E36FDadD2b3eD8A",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "17565197"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18889997",
+      "fees": {
+        "feeManager": "0x3A173c730f03B85318a9767fbc4F5e5ed7b313Ea",
+        "protocolFee": 1,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 19264397
+      }
+    }
   }
 ]
