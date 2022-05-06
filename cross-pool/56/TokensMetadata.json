@@ -285,6 +285,13 @@
     "symbol": "ALPHA",
     "decimals": 18
   },
+  "0x6Ae448EC22f1507Be2243FE51E36FDadD2b3eD8A": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/CBI%20.svg",
+    "name": "Cross Bosses Index",
+    "symbol": "CBi",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x6ae448ec22f1507be2243fe51e36fdadd2b3ed8a",
+    "decimals": 18
+  },
   "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE": {
     "image": "https://assets.coingecko.com/coins/images/15458/thumb/ryyrCapt_400x400.jpg?1620895978",
     "name": "XRP Token",

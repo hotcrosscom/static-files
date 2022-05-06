@@ -84,7 +84,9 @@
       "type": "basic",
       "title": " BUSD Capped Session",
       "isVest": true,
-      "initialClaim": "6.25% on May 20th, 2022"
+      "initialClaim": "6.25% on May 20th, 2022",
+      "requirements": "KYC",
+      "requirementsLink": "https://hotcross.link/ACCESS"
     },
     {
       "address": "",
@@ -93,6 +95,9 @@
         "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
       ],
       "paymentMethod": "HOTDOG",
+      "paymentMethodLink": "https://hotcross.link/HOTDOG-APP",
+      "paymentMethodHelp": "What is HOTDOG?",
+      "paymentMethodHelpLink": "https://hotcross.link/HOTDOG",
       "entryWith": "HOTDOG",
       "purchaseToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
       "launchDate": "May 17th at 13:00 UTC",
@@ -108,7 +113,9 @@
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
       "isVest": true,
-      "initialClaim": "6.25% on May 20th, 2022"
+      "initialClaim": "6.25% on May 20th, 2022",
+      "requirements": "KYC",
+      "requirementsLink": "https://hotcross.link/ACCESS"
     }
   ],
   "announcement": "https://hotcross.link/SALO-PLAYERS",
