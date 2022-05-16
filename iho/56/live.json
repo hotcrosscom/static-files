@@ -71,7 +71,7 @@
       "paymentMethod": "BUSD",
       "entryWith": "BUSD",
       "purchaseToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "launchDate": "May 17th at 13:00 UTC",
+      "launchDate": "May 24th at 13:00 UTC",
       "duration": "24 Hours",
       "available": "20,000,000 SALO",
       "toRaise": "$160,000",
@@ -84,7 +84,7 @@
       "type": "basic",
       "title": " BUSD Capped Session",
       "isVest": true,
-      "initialClaim": "6.25% on May 20th, 2022",
+      "initialClaim": "6.25% on May 27th, 2022",
       "requirements": "KYC",
       "requirementsLink": "https://hotcross.link/ACCESS"
     },
@@ -100,7 +100,7 @@
       "paymentMethodHelpLink": "https://hotcross.link/HOTDOG",
       "entryWith": "HOTDOG",
       "purchaseToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
-      "launchDate": "May 17th at 13:00 UTC",
+      "launchDate": "May 24th at 13:00 UTC",
       "duration": "24 Hours",
       "available": "80,000,000 SALO",
       "toRaise": "$640,000",
@@ -113,7 +113,7 @@
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
       "isVest": true,
-      "initialClaim": "6.25% on May 20th, 2022",
+      "initialClaim": "6.25% on May 27th, 2022",
       "requirements": "KYC",
       "requirementsLink": "https://hotcross.link/ACCESS"
     }
@@ -124,8 +124,8 @@
   "name": "Salo Players",
   "symbol": "SALO",
   "description": " Salo Players (The Digital Guardian) is a compelling, shooting play-to-earn (P2E) game on BNB Smart Chain.",
-  "startBlock": 17900000,
-  "endBlock": 18000000,
+  "startBlock": 18081650,
+  "endBlock": 18102200,
   "kycDeadline": 1644796800000,
   "isPending": false,
   "links": {
