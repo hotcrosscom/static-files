@@ -124,8 +124,8 @@
   "name": "Salo Players",
   "symbol": "SALO",
   "description": " Salo Players (The Digital Guardian) is a compelling, shooting play-to-earn (P2E) game on BNB Smart Chain.",
-  "startBlock": 18081650,
-  "endBlock": 18102200,
+  "startBlock": 18080100,
+  "endBlock": 18108900,
   "kycDeadline": 1644796800000,
   "isPending": false,
   "links": {
