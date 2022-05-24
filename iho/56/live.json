@@ -58,9 +58,9 @@
   ],
   "zap": "",
   "purchase": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
-  "offering": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+  "offering": "0x09b69fC31642020Ae53148926aAb6733703E9027",
   "offeringPrice": 0.008,
-  "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+  "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/salo_logo.png",
   "sessions": [
     {
       "address": "",
