@@ -63,7 +63,7 @@
   "offeringTokenImage": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/salo_logo.png",
   "sessions": [
     {
-      "address": "",
+      "address": "0xb4181B61471ccCfb321FD733f8cFF9D52A8732AF",
       "maxLPEntry": 4000,
       "buyWith": [
         "0xe9e7cea3dedca5984780bafc599bd69add087d56"
@@ -89,7 +89,7 @@
       "requirementsLink": "https://hotcross.link/ACCESS"
     },
     {
-      "address": "",
+      "address": "0xAeF1F17dF87A0829E6584b824290FDB2fC834af8",
       "maxLPEntry": 1000000000000000000000000000,
       "buyWith": [
         "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
