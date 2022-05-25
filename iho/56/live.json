@@ -113,7 +113,7 @@
       "title": "HOTDOG Uncapped Session",
       "reflectFee": 0.03,
       "isVest": true,
-      "initialClaim": "June 6th at 12:00 UTC",
+      "initialClaim": "6.25% June 6th at 12:00 UTC",
       "requirements": "KYC",
       "requirementsLink": "https://hotcross.link/ACCESS"
     }
