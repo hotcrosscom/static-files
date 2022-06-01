@@ -32,7 +32,7 @@
     "name": "Wrapped Ether",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
     "decimals": 18,
-    "symbol": "ETH"
+    "symbol": "WETH"
   },
   "0x03B666f3488a7992b2385B12dF7f35156d7b29cD": {
     "name": "USDT-NEAR Pair",
