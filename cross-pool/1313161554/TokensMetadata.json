@@ -1,0 +1,91 @@
+{
+  "0x4988a896b1227218e4A686fdE5EabdcAbd91571f": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "name": "Tether USD",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+    "decimals": 6,
+    "symbol": "USDT"
+  },
+  "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+    "name": "NEAR",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "decimals": 24,
+    "symbol": "NEAR"
+  },
+  "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79": {
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
+    "name": "Aurora",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "decimals": 18,
+    "symbol": "AURORA"
+  },
+  "0xFa94348467f64D5A457F75F8bc40495D33c65aBB": {
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png",
+    "name": "Trisolaris",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+    "decimals": 18,
+    "symbol": "TRI"
+  },
+  "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "name": "Wrapped Ether",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+    "decimals": 18,
+    "symbol": "WETH"
+  },
+  "0x03B666f3488a7992b2385B12dF7f35156d7b29cD": {
+    "name": "USDT-NEAR Pair",
+    "symbol": "USDT-NEAR",
+    "type": "lp",
+    "buyTokenSymbol": "NEAR",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/USDT/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "NEAR"
+    }
+  },
+  "0xd1654a7713617d41A8C9530Fb9B948d00e162194": {
+    "name": "AURORA-TRI Pair",
+    "symbol": "AURORA-TRI",
+    "type": "lp",
+    "buyTokenSymbol": "AURORA",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/TRI/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "symbol": "AURORA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png",
+      "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+      "symbol": "TRI"
+    }
+  },
+  "0x5eeC60F348cB1D661E4A5122CF4638c7DB7A886e": {
+    "name": "AURORA-ETH Pair",
+    "symbol": "AURORA-ETH",
+    "type": "lp",
+    "buyTokenSymbol": "AURORA",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/WETH/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "symbol": "AURORA"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+      "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+      "symbol": "WETH"
+    }
+  }
+}
