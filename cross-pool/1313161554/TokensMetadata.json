@@ -28,11 +28,11 @@
     "symbol": "TRI"
   },
   "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
     "name": "Wrapped Ether",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
     "decimals": 18,
-    "symbol": "WETH"
+    "symbol": "ETH"
   },
   "0x03B666f3488a7992b2385B12dF7f35156d7b29cD": {
     "name": "USDT-NEAR Pair",
@@ -40,7 +40,7 @@
     "type": "lp",
     "buyTokenSymbol": "NEAR",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
-    "addLiquidityLink": "https://www.trisolaris.io/#/add/USDT/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
       "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
@@ -58,7 +58,7 @@
     "type": "lp",
     "buyTokenSymbol": "AURORA",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
-    "addLiquidityLink": "https://www.trisolaris.io/#/add/TRI/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
       "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
@@ -76,16 +76,16 @@
     "type": "lp",
     "buyTokenSymbol": "AURORA",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
-    "addLiquidityLink": "https://www.trisolaris.io/#/add/WETH/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
       "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
       "symbol": "AURORA"
     },
     "tokenB": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
       "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
-      "symbol": "WETH"
+      "symbol": "ETH"
     }
   }
 }
