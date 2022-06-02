@@ -34,6 +34,18 @@
     "decimals": 18,
     "symbol": "WETH"
   },
+  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "name": "Ether",
+    "decimals": 18,
+    "symbol": "ETH"
+  },
+  "ETH": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "name": "Ether",
+    "decimals": 18,
+    "symbol": "ETH"
+  },
   "0x03B666f3488a7992b2385B12dF7f35156d7b29cD": {
     "name": "USDT-NEAR Pair",
     "symbol": "USDT-NEAR",
@@ -85,7 +97,7 @@
     "tokenB": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
       "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
-      "symbol": "ETH"
+      "symbol": "WETH"
     }
   }
 }
