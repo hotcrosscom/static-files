@@ -740,6 +740,13 @@
     "decimals": 18,
     "symbol": "RPG"
   },
+  "0x09b69fC31642020Ae53148926aAb6733703E9027": {
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/salo_logo.png",
+    "name": "Salo Token",
+    "buyTokenLink": "https://www.mexc.com/exchange/SALO_USDT",
+    "decimals": 18,
+    "symbol": "SALO"
+  },
   "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
     "name": "BANANA-BNB Pair",
     "symbol": "BANANA-BNB",

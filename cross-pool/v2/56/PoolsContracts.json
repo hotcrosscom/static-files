@@ -580,5 +580,83 @@
         "withdrawPenaltyBlock": 19264397
       }
     }
+  },
+  {
+    "address": "0xdC0f0d170D7Cc8f5053B785Cd212D21B5fBa538a",
+    "name": "SALO",
+    "decimals": 18,
+    "priority": 1970,
+    "keywords": ["salo",  "hotcross"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Salo Players (The Digital Guardian) is a compelling, shooting play-to-earn (P2E) game on BNB Smart Chain.",
+    "description": "Salo Players (The Digital Guardian) is a compelling, shooting play-to-earn (P2E) game on BNB Smart Chain.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/salo_logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://saloplayers.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/saloplayers"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/Saloplayers"
+      }
+    },
+    "chaindata": {
+      "startBlock": "18482763",
+      "endBlock": "21074763",
+      "claimDelay": "18482763",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0x09b69fC31642020Ae53148926aAb6733703E9027"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "3616898148148148148"
+      ],
+      "totalReward": [
+        "9374999999999999999616000"
+      ],
+      "rewardProcessor": "0x1d70f9fA1B267b4fFca30E6F9C8694299830D21b",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0xE52dac5cF69AA616B8e93C10829477F7843beF84",
+      "stakingPools": [
+        {
+          "stakingToken": "0x09b69fC31642020Ae53148926aAb6733703E9027",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "18482763"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "18482763"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "21045963",
+      "fees": {
+        "feeManager": "0x9c96C1918115Ab39CC720e1D87c8D70c602F2a93",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 18482763
+      }
+    }
   }
 ]
