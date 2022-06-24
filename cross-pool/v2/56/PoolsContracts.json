@@ -761,5 +761,167 @@
         "withdrawPenaltyBlock": 18511563
       }
     }
+  },
+  {
+    "address": "0x1cBa02595136f7ceC7b0A62450DBAfd54f8f1FBB",
+    "name": "HOTCROSS+HOTDOG",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "19050265",
+      "endBlock": "20778264",
+      "claimDelay": "19251865",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "144676009650468547",
+        "578704038601874190"
+      ],
+      "totalReward": [
+        "249999999999999998747453",
+        "999999999999999998445810"
+      ],
+      "rewardProcessor": "0x7e68bEeDEa6628a3d275d31006D30596Aa486Cf6",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x67d0Ee850d7f7620808770e3D4dBAD941F0f1b61",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19050265"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "20720664",
+      "fees": {
+        "feeManager": "0x5b3a605d69f7824CfaB1c57d53765c73A7ab3198",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 19050265
+      }
+    }
+  },
+  {
+    "address": "0x2c2bDb4b1B1EF732e1617b50Aa2044658B0D6F53",
+    "name": "HOTDOG+HOTCROSS",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "19050264",
+      "endBlock": "20778265",
+      "claimDelay": "19050264",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703368805920829",
+        "144675842201480207"
+      ],
+      "totalReward": [
+        "999999999999999998432829",
+        "249999999999999999176207"
+      ],
+      "rewardProcessor": "0xc13a85e8060F61cDD1090c5A8AbDe2fb73f6D6df",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x7A25Fb8A8687eC3eb9AE836C4F05c5a0F83aC538",
+      "stakingPools": [
+        {
+          "stakingToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19050264"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "19050264",
+      "fees": {
+        "feeManager": "0x623C4B9f878ca84b0628C9a25ce39888dbEC9e82",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 19050264
+      }
+    }
   }
 ]
