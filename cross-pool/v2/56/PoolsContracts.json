@@ -763,7 +763,7 @@
     }
   },
   {
-    "address": "0x1cBa02595136f7ceC7b0A62450DBAfd54f8f1FBB",
+    "address": "0xC51b39b5960a7000b6DfADb0edd7d7B740170214",
     "name": "HOTCROSS+HOTDOG",
     "decimals": 18,
     "priority": 2000,
@@ -797,9 +797,9 @@
       }
     },
     "chaindata": {
-      "startBlock": "19050265",
-      "endBlock": "20778264",
-      "claimDelay": "19251865",
+      "startBlock": "19050248",
+      "endBlock": "20778248",
+      "claimDelay": "19251848",
       "unstakeDelayDuration": "864000",
       "totalAllocationPoints": "1000",
       "farmingPeriod": 60,
@@ -812,16 +812,16 @@
         "18"
       ],
       "rewardsPerBlock": [
-        "144676009650468547",
-        "578704038601874190"
+        "578703703703703703",
+        "144675925925925925"
       ],
       "totalReward": [
-        "249999999999999998747453",
-        "999999999999999998445810"
+        "999999999999999998784000",
+        "249999999999999998400000"
       ],
-      "rewardProcessor": "0x7e68bEeDEa6628a3d275d31006D30596Aa486Cf6",
+      "rewardProcessor": "0x3D56CAf7466fD7Ee6b6d647e3A4D029634D9fD80",
       "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-      "rewardVault": "0x67d0Ee850d7f7620808770e3D4dBAD941F0f1b61",
+      "rewardVault": "0xBDEA90299053F3CcD35CDA81F1d4638F9cC13704",
       "stakingPools": [
         {
           "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
@@ -830,16 +830,16 @@
           "swapPath": [],
           "decimals": "18",
           "depositCap": "0",
-          "capValidUntilBlock": "19050265"
+          "capValidUntilBlock": "19050248"
         }
       ],
       "compoundEnabled": false,
-      "latestUnstakeDelayBlock": "20720664",
+      "latestUnstakeDelayBlock": "20720648",
       "fees": {
-        "feeManager": "0x5b3a605d69f7824CfaB1c57d53765c73A7ab3198",
+        "feeManager": "0xeccb35A92dd61645B87a6bb09BE527Acd62dA2F0",
         "protocolFee": 0,
         "withdrawPenaltyFee": 0,
-        "withdrawPenaltyBlock": 19050265
+        "withdrawPenaltyBlock": 19050248
       }
     }
   },
