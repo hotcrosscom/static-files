@@ -580,5 +580,348 @@
         "withdrawPenaltyBlock": 19264397
       }
     }
+  },
+  {
+    "address": "0xdC0f0d170D7Cc8f5053B785Cd212D21B5fBa538a",
+    "name": "SALO",
+    "decimals": 18,
+    "priority": 1970,
+    "keywords": ["salo",  "hotcross"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Salo Players (The Digital Guardian) is a compelling, shooting play-to-earn (P2E) game on BNB Smart Chain.",
+    "description": "Salo Players (The Digital Guardian) is a compelling, shooting play-to-earn (P2E) game on BNB Smart Chain.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/salo_logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://saloplayers.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/saloplayers"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/Saloplayers"
+      }
+    },
+    "chaindata": {
+      "startBlock": "18482763",
+      "endBlock": "21074763",
+      "claimDelay": "18482763",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0x09b69fC31642020Ae53148926aAb6733703E9027"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "3616898148148148148"
+      ],
+      "totalReward": [
+        "9374999999999999999616000"
+      ],
+      "rewardProcessor": "0x1d70f9fA1B267b4fFca30E6F9C8694299830D21b",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0xE52dac5cF69AA616B8e93C10829477F7843beF84",
+      "stakingPools": [
+        {
+          "stakingToken": "0x09b69fC31642020Ae53148926aAb6733703E9027",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "18482763"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "18482763"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "21045963",
+      "fees": {
+        "feeManager": "0x9c96C1918115Ab39CC720e1D87c8D70c602F2a93",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 18482763
+      }
+    }
+  },
+  {
+    "address": "0x60Acf62e8371b901981b32D15004aa4021707FCD",
+    "name": "UNO",
+    "decimals": 18,
+    "priority": 800,
+    "keywords": ["hotcross", "uno", "uno re"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Decentralized reinsurance risk-trading platform.",
+    "description": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot. Uno Re will allow the community to invest and trade in ‘risk’ and receive sizable returns on their investments while also allowing the community to propose innovative insurance products to the space, thus propelling a new generation of Insurtech companies powered by the UnoRe ecosystem.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/unore_logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://unore.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/unoreinsure"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://medium.com/uno-re"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/UnoReinsure"
+      },
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/Uno-Re"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/unore"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x474021845C4643113458ea4414bdb7fB74A01A77"
+      }
+    },
+    "chaindata": {
+      "startBlock": "18511563",
+      "endBlock": "21103563",
+      "claimDelay": "19317963",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0x474021845C4643113458ea4414bdb7fB74A01A77"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "347222222222222222"
+      ],
+      "totalReward": [
+        "899999999999999999424000"
+      ],
+      "rewardProcessor": "0xF7e0BfC7c750B305068209B643420179AF9023d6",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x99451540a53ed98397079601b00713ABa1a7Ed7d",
+      "stakingPools": [
+        {
+          "stakingToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [
+            "0x474021845C4643113458ea4414bdb7fB74A01A77",
+            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "0x474021845C4643113458ea4414bdb7fB74A01A77"
+          ],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "18511563"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [
+            "0x474021845C4643113458ea4414bdb7fB74A01A77",
+            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
+          ],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "18511563"
+        }
+      ],
+      "compoundEnabled": true,
+      "latestUnstakeDelayBlock": "18511563",
+      "fees": {
+        "feeManager": "0x3134Bf118Fc06966fDc72c026Dd3EC1f437f01D0",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 18511563
+      }
+    }
+  },
+  {
+    "address": "0xC51b39b5960a7000b6DfADb0edd7d7B740170214",
+    "name": "HOTCROSS+HOTDOG",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png",
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "19050248",
+      "endBlock": "20778248",
+      "claimDelay": "19251848",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703703703703703",
+        "144675925925925925"
+      ],
+      "totalReward": [
+        "999999999999999998784000",
+        "249999999999999998400000"
+      ],
+      "rewardProcessor": "0x3D56CAf7466fD7Ee6b6d647e3A4D029634D9fD80",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0xBDEA90299053F3CcD35CDA81F1d4638F9cC13704",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19050248"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "20720648",
+      "fees": {
+        "feeManager": "0xeccb35A92dd61645B87a6bb09BE527Acd62dA2F0",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 19050248
+      }
+    }
+  },
+  {
+    "address": "0x2c2bDb4b1B1EF732e1617b50Aa2044658B0D6F53",
+    "name": "HOTDOG+HOTCROSS",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "19050264",
+      "endBlock": "20778265",
+      "claimDelay": "19050264",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703368805920829",
+        "144675842201480207"
+      ],
+      "totalReward": [
+        "999999999999999998432829",
+        "249999999999999999176207"
+      ],
+      "rewardProcessor": "0xc13a85e8060F61cDD1090c5A8AbDe2fb73f6D6df",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x7A25Fb8A8687eC3eb9AE836C4F05c5a0F83aC538",
+      "stakingPools": [
+        {
+          "stakingToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19050264"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "19050264",
+      "fees": {
+        "feeManager": "0x623C4B9f878ca84b0628C9a25ce39888dbEC9e82",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 19050264
+      }
+    }
   }
 ]
