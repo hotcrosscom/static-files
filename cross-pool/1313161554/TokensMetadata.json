@@ -1,4 +1,39 @@
 {
+  "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79": {
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
+    "name": "Aurora",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "decimals": 18,
+    "symbol": "AURORA"
+  },
+  "0xFa94348467f64D5A457F75F8bc40495D33c65aBB": {
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png",
+    "name": "Trisolaris",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+    "decimals": 18,
+    "symbol": "TRI"
+  },
+  "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "name": "Wrapped Ether",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+    "decimals": 18,
+    "symbol": "ETH"
+  },
+  "0x4988a896b1227218e4A686fdE5EabdcAbd91571f": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "name": "Tether USD",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+    "decimals": 6,
+    "symbol": "USDT"
+  },
+  "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+    "name": "NEAR",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "decimals": 24,
+    "symbol": "NEAR"
+  },
   "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af": {
     "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/17769.png",
     "name": "Flux Token",
@@ -14,7 +49,7 @@
     "symbol": "STNEAR"
   },
   "0x68e401B61eA53889505cc1366710f733A60C2d41": {
-    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x68e401B61eA53889505cc1366710f733A60C2d41/logo.svg",
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x68e401B61eA53889505cc1366710f733A60C2d41/logo.png",
     "name": "SHITZU",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x68e401B61eA53889505cc1366710f733A60C2d41",
     "decimals": 18,
@@ -28,14 +63,14 @@
     "symbol": "USDC"
   },
   "0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970": {
-    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970/logo.svg",
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970/logo.png",
     "name": "Rose Token",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970",
     "decimals": 18,
     "symbol": "ROSE"
   },
   "0x19cc40283B057D6608C22F1D20F17e16C245642E": {
-    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19cc40283B057D6608C22F1D20F17e16C245642E/logo.svg",
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19cc40283B057D6608C22F1D20F17e16C245642E/logo.png",
     "name": "Rose USD",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x19cc40283B057D6608C22F1D20F17e16C245642E",
     "decimals": 18,
@@ -61,6 +96,42 @@
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac",
     "decimals": 18,
     "symbol": "BRRR"
+  },
+  "0xd1654a7713617d41A8C9530Fb9B948d00e162194": {
+    "name": "AURORA-TRI Pair",
+    "symbol": "AURORA-TRI",
+    "type": "lp",
+    "buyTokenSymbol": "AURORA",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "symbol": "AURORA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png",
+      "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+      "symbol": "TRI"
+    }
+  },
+  "0x5eeC60F348cB1D661E4A5122CF4638c7DB7A886e": {
+    "name": "AURORA-ETH Pair",
+    "symbol": "AURORA-ETH",
+    "type": "lp",
+    "buyTokenSymbol": "AURORA",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "symbol": "AURORA"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+      "symbol": "ETH"
+    }
   },
   "0x61C9E05d1Cdb1b70856c7a2c53fA9c220830633c": {
     "name": "USDT-TRI Pair",
@@ -217,6 +288,24 @@
       "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
       "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
       "symbol": "AURORA"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "NEAR"
+    }
+  },
+  "0x03B666f3488a7992b2385B12dF7f35156d7b29cD": {
+    "name": "USDT-NEAR Pair",
+    "symbol": "USDT-NEAR",
+    "type": "lp",
+    "buyTokenSymbol": "NEAR",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+      "symbol": "USDT"
     },
     "tokenB": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
