@@ -10,7 +10,7 @@
     "ibtSymbol": "HY-AURORA-ETH-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 0,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -25,7 +25,7 @@
     "ibtSymbol": "HY-AURORA-TRI-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 1,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -40,7 +40,7 @@
     "ibtSymbol": "HY-USDT-TRI-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 4,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -55,7 +55,7 @@
     "ibtSymbol": "HY-NEAR-FLX-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 8,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -70,7 +70,7 @@
     "ibtSymbol": "HY-STNEAR-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 12,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -85,7 +85,7 @@
     "ibtSymbol": "HY-SHITZU-USDC-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 19,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -100,7 +100,7 @@
     "ibtSymbol": "HY-NEAR-ROSE-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 20,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -115,7 +115,7 @@
     "ibtSymbol": "HY-RUSD-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 21,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -130,7 +130,7 @@
     "ibtSymbol": "HY-LINEAR-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 22,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -145,7 +145,7 @@
     "ibtSymbol": "HY-BSTN-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 23,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -160,7 +160,7 @@
     "ibtSymbol": "HY-AURORA-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 24,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -175,7 +175,7 @@
     "ibtSymbol": "HY-USDC-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 25,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -190,7 +190,7 @@
     "ibtSymbol": "HY-USDT-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 26,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   },
@@ -205,7 +205,7 @@
     "ibtSymbol": "HY-BRRR-NEAR-TRI",
     "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
     "poolId": 31,
-    "crossYieldZap": "0x854b060e65698b1C4cd64838E2E5f03A6F25B495",
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
   }
