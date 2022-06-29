@@ -1880,7 +1880,7 @@
     "ibtSymbol": "HY-BTCB-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 4,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -1896,7 +1896,7 @@
     "ibtSymbol": "HY-WBNB-BIFI-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 11,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -1912,7 +1912,7 @@
     "ibtSymbol": "HY-ETH-SUSHI-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 14,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -1928,7 +1928,7 @@
     "ibtSymbol": "HY-ETH-ADA-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 18,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -1944,7 +1944,7 @@
     "ibtSymbol": "HY-BAT-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 20,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -1960,7 +1960,7 @@
     "ibtSymbol": "HY-BAT-ETH-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 21,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -1976,7 +1976,7 @@
     "ibtSymbol": "HY-WBNB-IOTA-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 22,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -1992,7 +1992,7 @@
     "ibtSymbol": "HY-Cake-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 25,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2008,7 +2008,7 @@
     "ibtSymbol": "HY-WBNB-ONT-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 31,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2024,7 +2024,7 @@
     "ibtSymbol": "HY-XRP-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 32,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2040,7 +2040,7 @@
     "ibtSymbol": "HY-DOT-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 33,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2056,7 +2056,7 @@
     "ibtSymbol": "HY-SXP-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 35,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2072,7 +2072,7 @@
     "ibtSymbol": "HY-WBNB-LINK-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 36,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2088,7 +2088,7 @@
     "ibtSymbol": "HY-DOGE-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 38,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2104,7 +2104,7 @@
     "ibtSymbol": "HY-LTC-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 39,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2120,7 +2120,7 @@
     "ibtSymbol": "HY-DAI-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 40,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2136,7 +2136,7 @@
     "ibtSymbol": "HY-AUTO-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 41,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2152,7 +2152,7 @@
     "ibtSymbol": "HY-WATCH-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 44,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2168,7 +2168,7 @@
     "ibtSymbol": "HY-WBNB-AAVE-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 46,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2184,7 +2184,7 @@
     "ibtSymbol": "HY-COMP-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 48,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2200,7 +2200,7 @@
     "ibtSymbol": "HY-FTM-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 49,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2216,7 +2216,7 @@
     "ibtSymbol": "HY-AVAX-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 51,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2232,7 +2232,7 @@
     "ibtSymbol": "HY-ZEC-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 52,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2248,7 +2248,7 @@
     "ibtSymbol": "HY-COTI-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 53,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2264,7 +2264,7 @@
     "ibtSymbol": "HY-NEAR-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 54,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2280,7 +2280,7 @@
     "ibtSymbol": "HY-MOONLIGHT-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 55,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2296,7 +2296,7 @@
     "ibtSymbol": "HY-SNX-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 56,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2312,7 +2312,7 @@
     "ibtSymbol": "HY-CELR-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 59,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2328,7 +2328,7 @@
     "ibtSymbol": "HY-SHIB-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 60,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2344,7 +2344,7 @@
     "ibtSymbol": "HY-HIFI-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 69,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2360,7 +2360,7 @@
     "ibtSymbol": "HY-SKILL-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 81,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2376,7 +2376,7 @@
     "ibtSymbol": "HY-WBNB-SFP-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 83,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2392,7 +2392,7 @@
     "ibtSymbol": "HY-TWT-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 84,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2408,7 +2408,7 @@
     "ibtSymbol": "HY-WBNB-XVS-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 86,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2424,7 +2424,7 @@
     "ibtSymbol": "HY-PACOCA-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 87,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2440,7 +2440,7 @@
     "ibtSymbol": "HY-NEWB-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 88,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2456,7 +2456,7 @@
     "ibtSymbol": "HY-YFI-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 90,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2472,7 +2472,7 @@
     "ibtSymbol": "HY-WBNB-STARS-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 91,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2488,7 +2488,7 @@
     "ibtSymbol": "HY-AXS-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 95,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2504,7 +2504,7 @@
     "ibtSymbol": "HY-LAND-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 100,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2520,7 +2520,7 @@
     "ibtSymbol": "HY-POTS-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 101,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2536,7 +2536,7 @@
     "ibtSymbol": "HY-WBNB-CYT-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 104,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2552,7 +2552,7 @@
     "ibtSymbol": "HY-NABOX-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 108,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2568,7 +2568,7 @@
     "ibtSymbol": "HY-WBNB-BABI-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 109,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2584,7 +2584,7 @@
     "ibtSymbol": "HY-REVV-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 110,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2600,7 +2600,7 @@
     "ibtSymbol": "HY-MOR-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 115,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2616,7 +2616,7 @@
     "ibtSymbol": "HY-WBNB-POLAR-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 116,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2632,7 +2632,7 @@
     "ibtSymbol": "HY-WBNB-CEEK-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 117,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2648,7 +2648,7 @@
     "ibtSymbol": "HY-ONG-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 119,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2664,7 +2664,7 @@
     "ibtSymbol": "HY-WBNB-DEP-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 120,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2680,7 +2680,7 @@
     "ibtSymbol": "HY-TXL-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 122,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2696,7 +2696,7 @@
     "ibtSymbol": "HY-SFUND-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 123,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2712,7 +2712,7 @@
     "ibtSymbol": "HY-FRM-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 125,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2728,7 +2728,7 @@
     "ibtSymbol": "HY-NFTY-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 132,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2744,7 +2744,7 @@
     "ibtSymbol": "HY-IHC-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 134,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2760,7 +2760,7 @@
     "ibtSymbol": "HY-WBNB-PROS-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 135,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2776,7 +2776,7 @@
     "ibtSymbol": "HY-THG-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 137,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2792,7 +2792,7 @@
     "ibtSymbol": "HY-OTAKU-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 139,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2808,7 +2808,7 @@
     "ibtSymbol": "HY-TNNS-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 140,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2824,7 +2824,7 @@
     "ibtSymbol": "HY-FIL-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 142,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2840,7 +2840,7 @@
     "ibtSymbol": "HY-WBNB-TOWER-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 145,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2856,7 +2856,7 @@
     "ibtSymbol": "HY-OASIS-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 147,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2872,7 +2872,7 @@
     "ibtSymbol": "HY-iBFR-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 153,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2888,7 +2888,7 @@
     "ibtSymbol": "HY-SATA-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 154,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2904,7 +2904,7 @@
     "ibtSymbol": "HY-LIME-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 155,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2920,7 +2920,7 @@
     "ibtSymbol": "HY-WBNB-FXS-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 156,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2936,7 +2936,7 @@
     "ibtSymbol": "HY-FRAX-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 157,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2952,7 +2952,7 @@
     "ibtSymbol": "HY-QUIDD-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 159,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2968,7 +2968,7 @@
     "ibtSymbol": "HY-BUSD-SHILL-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 163,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -2984,7 +2984,7 @@
     "ibtSymbol": "HY-LMN-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 164,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3000,7 +3000,7 @@
     "ibtSymbol": "HY-GMEE-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 166,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3016,7 +3016,7 @@
     "ibtSymbol": "HY-WBNB-rASKO-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 168,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3032,7 +3032,7 @@
     "ibtSymbol": "HY-STZ-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 170,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3048,7 +3048,7 @@
     "ibtSymbol": "HY-QA-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 171,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3064,7 +3064,7 @@
     "ibtSymbol": "HY-LOA-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 172,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3080,7 +3080,7 @@
     "ibtSymbol": "HY-WBNB-ADS-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 173,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3096,7 +3096,7 @@
     "ibtSymbol": "HY-ZIG-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 174,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3112,7 +3112,7 @@
     "ibtSymbol": "HY-KAI-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 175,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3128,7 +3128,7 @@
     "ibtSymbol": "HY-DOSE-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 176,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3144,7 +3144,7 @@
     "ibtSymbol": "HY-MYRA-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 178,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3160,7 +3160,7 @@
     "ibtSymbol": "HY-WBNB-GODZ-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 179,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3176,7 +3176,7 @@
     "ibtSymbol": "HY-MNFT-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 180,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3192,7 +3192,7 @@
     "ibtSymbol": "HY-GMR-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 181,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3208,7 +3208,7 @@
     "ibtSymbol": "HY-WBNB-BCMC-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 182,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3224,7 +3224,7 @@
     "ibtSymbol": "HY-NFTY-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 184,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3240,7 +3240,7 @@
     "ibtSymbol": "HY-eLunr-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 185,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3256,7 +3256,7 @@
     "ibtSymbol": "HY-TRUSTNFT-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 186,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3272,7 +3272,7 @@
     "ibtSymbol": "HY-RANKER-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 188,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3288,7 +3288,7 @@
     "ibtSymbol": "HY-ANML-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 192,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3304,7 +3304,7 @@
     "ibtSymbol": "HY-BOUNTIE-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 193,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3320,7 +3320,7 @@
     "ibtSymbol": "HY-WBNB-aBNBc-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 194,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3336,7 +3336,7 @@
     "ibtSymbol": "HY-KTE-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 195,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3352,7 +3352,7 @@
     "ibtSymbol": "HY-BUSD-GQ-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 196,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3368,7 +3368,7 @@
     "ibtSymbol": "HY-ASPO-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 197,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3384,7 +3384,7 @@
     "ibtSymbol": "HY-BICO-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 198,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3400,7 +3400,7 @@
     "ibtSymbol": "HY-WBNB-CPO-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 199,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3416,7 +3416,7 @@
     "ibtSymbol": "HY-WBNB-Froyo-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 200,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3432,7 +3432,7 @@
     "ibtSymbol": "HY-PRIMATE-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 201,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3448,7 +3448,7 @@
     "ibtSymbol": "HY-GRVS-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 202,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3464,7 +3464,7 @@
     "ibtSymbol": "HY-WBNB-ROOBEE-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 203,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3480,7 +3480,7 @@
     "ibtSymbol": "HY-VTG-WBNB-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 204,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   },
@@ -3496,7 +3496,7 @@
     "ibtSymbol": "HY-TLOS-BUSD-APE",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 205,
-    "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
+    "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
     "platform": "ApeSwap"
   }
