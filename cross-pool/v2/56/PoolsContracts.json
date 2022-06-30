@@ -923,5 +923,88 @@
         "withdrawPenaltyBlock": 19050264
       }
     }
+  },
+  {
+    "address": "0x1175EdB451Be86898091295e0b55A14770418cf2",
+    "name": "SHILL",
+    "decimals": 18,
+    "priority": 1990,
+    "keywords": ["hotcross", "shill"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming.",
+    "description": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming that utilizes Multi-Chain Hybrid Technology and integrates Game Hub, GameFi, DAO, ESports, and Growth Program. Aiming to revolutionize the gaming industry by introducing traditional gaming industry standards into the blockchain gaming ecosystem, Project SEED integrates all GameFi functions within the application, making the experience seamless for the players",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/seed.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://projectseed.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/projectseedgame"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/projectseedannouncements"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE"
+      }
+    },
+    "chaindata": {
+      "startBlock": "19141242",
+      "endBlock": "21733242",
+      "claimDelay": "20005242",
+      "unstakeDelayDuration": "201600",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "462962962962962962"
+      ],
+      "totalReward": [
+        "1199999999999999997504000"
+      ],
+      "rewardProcessor": "0xb0df44630d62eCb7c6bc26B310ef08e033e05db3",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x635336c317ca2C7f42AbcfE86Dbdc826C9b4fB24",
+      "stakingPools": [
+        {
+          "stakingToken": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19141242"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19141242"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "21675642",
+      "fees": {
+        "feeManager": "0xA529B1052b3E88809d6Bc94d8c7fcBd9D96B3e07",
+        "protocolFee": 2,
+        "withdrawPenaltyFee": 1000,
+        "withdrawPenaltyBlock": 20005242
+      }
+    }
   }
 ]
