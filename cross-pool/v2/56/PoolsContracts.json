@@ -1006,5 +1006,147 @@
         "withdrawPenaltyBlock": 20005242
       }
     }
+  },
+  {
+    "address": "0x1e9905A4FDA8bc66c1d9c09DAc43E6367bf5A055",
+    "name": "ANON",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotdog",  "anon", "Anonverse"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Multi-element decentralized autonomous application platform.",
+    "description": "1st Global platform that integrates fully decentralized non-custodial protocol, security solutions, GameFi and DAO! Anonverse, Security Audit, Play2Earn, Compete2Earn, DAO!",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/anon-logo-round.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://anonverse.space/#/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/Anon_Metaverse"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/ANONVERSE_official"
+      },
+      "audits":{
+        "label": "Audits",
+        "url": "https://www.certik.com/projects/anonverse"
+      }
+    },
+    "chaindata": {
+      "startBlock": "19456540",
+      "endBlock": "21184539",
+      "claimDelay": "19456540",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x9a980a084D8D72B219e1C79d91faf06Bec874D51"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "50347251358363054608"
+      ],
+      "totalReward": [
+        "86999999999999999999569392"
+      ],
+      "rewardProcessor": "0x0304bF3A43656C8da761bcfFB4C9Ae1d8E53590B",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0xa71A2Da0cC219F4D2d44e8dE34782D53F1dB1DA6",
+      "stakingPools": [
+        {
+          "stakingToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19456540"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "19456539",
+      "fees": {
+        "feeManager": "0xc7470aF317727F3A594df35052640d3878deA17D",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 19456540
+      }
+    }
+  },
+  {
+    "address": "0xc3D5bAE31d90239d283f1F6c67b9bBBFEB768451",
+    "name": "HOTDOG",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotdog",  "anon", "Anonverse"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "A reflect loyalty token with a 3% transfer fee given to holders, and other incentives.",
+    "description": "The purpose of the Hot Dog Token is to strengthen the Hot Cross community and incentivize platform users with HOTDOG-only events.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://docs.hotcross.com/oink/fundamentals/hot-dog-token"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      }
+    },
+    "chaindata": {
+      "startBlock": "19456540",
+      "endBlock": "21184540",
+      "claimDelay": "19456540",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "720486111111111111"
+      ],
+      "totalReward": [
+        "1244999999999999999808000"
+      ],
+      "rewardProcessor": "0xc374F12a4E6b5752F98c09D83AB06a0062796B60",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x8559C4f807064A8Fab945CcA312931E3c509E8d6",
+      "stakingPools": [
+        {
+          "stakingToken": "0x9a980a084D8D72B219e1C79d91faf06Bec874D51",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "19456540"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "19456540",
+      "fees": {
+        "feeManager": "0x389F6CFe016B36fdCE165E1e72880ce8211b7b8E",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 19456540
+      }
+    }
   }
 ]
