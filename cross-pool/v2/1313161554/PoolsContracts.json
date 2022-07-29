@@ -1,0 +1,71 @@
+[
+  {
+    "address": "0x1B929837D4e615840d1CbDd5b4427DF9F26D17a5",
+    "name": "AURORA",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["aurora"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Shooting for the stars.",
+    "description": "Aurora provides Ethereum compatibility, NEAR Protocol scalability, and industry-first user experience through affordable transactions.",
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://aurora.dev/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/auroraisnear"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/auroraisnear"
+      }
+    },
+    "chaindata": {
+      "startBlock": "70880669",
+      "endBlock": "72608668",
+      "claimDelay": "70880669",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 20,
+      "rewardTokens": [
+        "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578704038601874190"
+      ],
+      "totalReward": [
+        "999999999999999998445810"
+      ],
+      "rewardProcessor": "0x70ea527cCD1907B39a4661784aF7793c8924c570",
+      "ammRouter": "0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B",
+      "rewardVault": "0xfD618174AEDA518804bA27922e83FAcc287D532B",
+      "stakingPools": [
+        {
+          "stakingToken": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "70880669"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "70880668",
+      "fees": {
+        "feeManager": "0x54Fb18140a90D430433D3261256Bf2b96A6Fe169",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 70880669
+      }
+    }
+  }
+]
