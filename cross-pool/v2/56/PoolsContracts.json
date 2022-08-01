@@ -704,7 +704,7 @@
     },
     "chaindata": {
       "startBlock": "18511563",
-      "endBlock": "21103563",
+      "endBlock": "20054858",
       "claimDelay": "19317963",
       "unstakeDelayDuration": "0",
       "totalAllocationPoints": "1000",
