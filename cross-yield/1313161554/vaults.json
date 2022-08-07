@@ -87,7 +87,8 @@
     "poolId": 19,
     "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
-    "platform": "Trisolaris"
+    "platform": "Trisolaris",
+    "retired": true
   },
   {
     "contractAddress": "0xF636223Ad3D233C9BadE242DA8809f5724A2118E",
@@ -102,7 +103,8 @@
     "poolId": 20,
     "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
-    "platform": "Trisolaris"
+    "platform": "Trisolaris",
+    "retired": true
   },
   {
     "contractAddress": "0x536aF7F337E30D3626F72DeF45043bF4daE7fa83",
@@ -117,7 +119,8 @@
     "poolId": 21,
     "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
-    "platform": "Trisolaris"
+    "platform": "Trisolaris",
+    "retired": true
   },
   {
     "contractAddress": "0x362385B0F938A162FA9f52ed7D909BCFA98fA972",
@@ -132,7 +135,8 @@
     "poolId": 22,
     "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
-    "platform": "Trisolaris"
+    "platform": "Trisolaris",
+    "retired": true
   },
   {
     "contractAddress": "0x0415431C6DA6639AcA3e1EC343f3AEe509f36E44",
