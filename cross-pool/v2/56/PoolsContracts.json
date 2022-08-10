@@ -1148,5 +1148,100 @@
         "withdrawPenaltyBlock": 19456540
       }
     }
+  },
+  {
+    "address": "0x8A6b938557dD2dB9B02a735df4648136d13E0C0e",
+    "name": "UNO",
+    "decimals": 18,
+    "priority": 800,
+    "keywords": ["hotcross", "uno", "uno re"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Decentralized reinsurance risk-trading platform.",
+    "description": "Uno Re is the world’s first decentralized reinsurance risk-trading platform powered by PolkaDot. Uno Re will allow the community to invest and trade in ‘risk’ and receive sizable returns on their investments while also allowing the community to propose innovative insurance products to the space, thus propelling a new generation of Insurtech companies powered by the UnoRe ecosystem.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/unore_logo.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://unore.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/unoreinsure"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://medium.com/uno-re"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/UnoReinsure"
+      },
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/Uno-Re"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/unore"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x474021845C4643113458ea4414bdb7fB74A01A77"
+      }
+    },
+    "chaindata": {
+      "startBlock": "20347120",
+      "endBlock": "22939120",
+      "claimDelay": "21153520",
+      "unstakeDelayDuration": "0",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0x474021845C4643113458ea4414bdb7fB74A01A77"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "347222222222222222"
+      ],
+      "totalReward": [
+        "899999999999999999424000"
+      ],
+      "rewardProcessor": "0x8f4bA2625B5F3b734c11afd3ec0211d0b4Dc7fE0",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x65d5f28631DD3C6d9CE8D43B86026ff643168052",
+      "stakingPools": [
+        {
+          "stakingToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "20347120"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "20347120"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "20347120",
+      "fees": {
+        "feeManager": "0x7340BdE3c21d26Fd600B79A10e5ed85F8DdB42Ec",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 20347120
+      }
+    }
   }
 ]
