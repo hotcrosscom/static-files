@@ -662,6 +662,7 @@
   {
     "address": "0x60Acf62e8371b901981b32D15004aa4021707FCD",
     "name": "UNO",
+    "hidden": true,
     "decimals": 18,
     "priority": 800,
     "keywords": ["hotcross", "uno", "uno re"],
