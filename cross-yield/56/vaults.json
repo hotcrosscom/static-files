@@ -594,7 +594,8 @@
     "poolId": 12,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x402abf58A89FcA2aE4BF75BB57e60F00DE34C2A4",
@@ -1139,7 +1140,8 @@
     "poolId": 58,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xdec79B7511Eda3D400E4CA06a3920dba5C7cf8e0",
@@ -1231,7 +1233,8 @@
     "poolId": 64,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x630b2301ADA9763cD10dB317B5f17E9f10249405",
@@ -1322,7 +1325,8 @@
     "poolId": 71,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x936B41348120e44cA946Da3dB10b124D0949DE4E",
@@ -1398,7 +1402,8 @@
     "poolId": 76,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x27FD9950ba062F706ACA5905548d0882f95200c2",
@@ -1428,7 +1433,8 @@
     "poolId": 78,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x881F861C7353e963a7257309aDA158B03f40506C",
@@ -1535,7 +1541,8 @@
     "poolId": 89,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x53e138349A25019EFAe09E80E80190eF95FD5843",
@@ -1566,7 +1573,8 @@
     "poolId": 91,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x1C39c773c73Dab189c8fFdaFf950C606CD1e0A64",
@@ -1643,7 +1651,8 @@
     "poolId": 97,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xeD15c13F8611DB91FBa1f4468d91Dc117dDE3cdB",
@@ -1748,7 +1757,8 @@
     "poolId": 66,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x741Cd6338e54C4Cf749cd1078e659e913175e3e0",
@@ -1778,7 +1788,8 @@
     "poolId": 86,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xBAFE093e131Da8A3Ab2D4C52AC19cde36B824954",
@@ -1793,7 +1804,8 @@
     "poolId": 88,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x2fCDd7Deb6e975A6CCC4525AA2aD5CA12Ffd293C",
@@ -1838,7 +1850,8 @@
     "poolId": 101,
     "crossYieldZap": "0x0A2FAD5aA0A96873Bc5578898B699bD0f6d23283",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x06E86E9a766643d4DC18dF997D2bcdec4E796277",
@@ -1918,7 +1931,8 @@
     "poolId": 14,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xb0154378e7832fb455b6633F95E62505f1267b11",
@@ -2158,7 +2172,8 @@
     "poolId": 44,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x6f546d88224e6B4F923cd2e43EaA5B91c49cE0D1",
@@ -2478,7 +2493,8 @@
     "poolId": 95,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xaCbcd3fba10716b97C9EbFae18369154E2CB0488",
@@ -2590,7 +2606,8 @@
     "poolId": 116,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xEa8D4d73931AC265Dd722C1Fde38c25a30Ed8827",
@@ -2622,7 +2639,8 @@
     "poolId": 119,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xABFC06Aee1eb362633c9f08dC542aD25Afa5e8c8",
@@ -2654,7 +2672,8 @@
     "poolId": 122,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x1367F68d0dd1FbeBAdD0295bD596CD1F6c58A659",
@@ -2767,7 +2786,8 @@
     "poolId": 155,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x86F2475b15717E48a36F4d30246ADcDA0ED8e3b6",
@@ -2897,7 +2917,8 @@
     "poolId": 172,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x91cF5444E39F44c0F2252A52242bE1A69cd4fcBb",
@@ -2961,7 +2982,8 @@
     "poolId": 178,
     "crossYieldZap": "0xD9592397c6dAd441F99Dbf07142D6aa20518a11c",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x44d0c41020b00fB3A008b637080681C9291E6Cc0",
