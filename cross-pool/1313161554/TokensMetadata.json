@@ -111,6 +111,13 @@
     "decimals": 18,
     "symbol": "BRRR"
   },
+  "0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f": {
+    "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f/logo.svg",
+    "name": "Aurigami Token",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
+    "decimals": 18,
+    "symbol": "PLY"
+  },
   "0xd1654a7713617d41A8C9530Fb9B948d00e162194": {
     "name": "AURORA-TRI Pair",
     "symbol": "AURORA-TRI",
@@ -356,6 +363,24 @@
       "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac/logo.svg",
       "address": "0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac",
       "symbol": "BRRR"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "NEAR"
+    }
+  },
+  "0x044b6B0CD3Bb13D2b9057781Df4459C66781dCe7": {
+    "name": "PLY-NEAR Pair",
+    "symbol": "PLY-NEAR",
+    "type": "lp",
+    "buyTokenSymbol": "PLY",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
+    "addLiquidityLink": "https://www.trisolaris.io/#/add/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d/0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f/logo.svg",
+      "address": "0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
+      "symbol": "PLY"
     },
     "tokenB": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
