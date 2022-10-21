@@ -212,5 +212,20 @@
     "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
+  },
+  {
+    "contractAddress": "0x9838C608c2dEB3A5BF506E5C48f5a97B0552e909",
+    "strategy": "0x8be0d2D0AfcCB1ED8bF6409c748a066152874c70",
+    "farmingToken": "0x044b6B0CD3Bb13D2b9057781Df4459C66781dCe7",
+    "token0": "0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
+    "token1": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "blockNumber": 76677483,
+    "name": "PLY-NEAR",
+    "ibtSymbol": "HY-PLY-NEAR-TRI",
+    "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
+    "poolId": 36,
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
+    "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
+    "platform": "Trisolaris"
   }
 ]
