@@ -1421,7 +1421,8 @@
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "symbol": "BUSD"
-    }
+    },
+    "stableSwap": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
   },
   "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
     "name": "BANANA-BNB Pair",
