@@ -1398,6 +1398,32 @@
     "decimals": 18,
     "symbol": "CHRP"
   },
+  "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/21330.png",
+    "name": "Hay Destablecoin",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+    "decimals": 18,
+    "symbol": "HAY"
+  },
+  "0xB6040A9F294477dDAdf5543a24E5463B8F2423Ae": {
+    "name": "HAY-BUSD Pair",
+    "symbol": "HAY-BUSD",
+    "type": "lp",
+    "buyTokenSymbol": "HAY",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/21330.png",
+      "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+      "symbol": "HAY"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    },
+    "stableSwap": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  },
   "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713": {
     "name": "BANANA-BNB Pair",
     "symbol": "BANANA-BNB",
