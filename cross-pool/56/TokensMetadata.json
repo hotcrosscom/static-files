@@ -105,7 +105,7 @@
     "symbol": "MARSH"
   },
   "0x44754455564474a89358b2c2265883df993b12f0": {
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/zeeswap-icon-dark-logos-1.png",
     "name": "Zeroswap",
     "decimals": 18,
     "symbol": "ZEE"
@@ -117,7 +117,7 @@
     "symbol": "USDT"
   },
   "0xD85AD783cc94bd04196a13DC042A3054a9B52210": {
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/tribe_one.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
     "name": "TribeOne",
     "decimals": 18,
     "symbol": "HAKA"
@@ -129,7 +129,7 @@
     "symbol": "ETH"
   },
   "0x0995d8643645dd0cea60ab1acfa5ad2f642273d3": {
-    "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/kyte.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/kyte.png",
     "name": "Kambria Yield Tuning Engine",
     "decimals": 18,
     "symbol": "KYTE"
@@ -1965,7 +1965,7 @@
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xD85AD783cc94bd04196a13DC042A3054a9B52210",
     "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xD85AD783cc94bd04196a13DC042A3054a9B52210",
     "tokenA": {
-      "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/tribe_one.png",
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/tribe_one.png",
       "address": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
       "symbol": "HAKA"
     },
@@ -1984,7 +1984,7 @@
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x0995d8643645dd0cea60ab1acfa5ad2f642273d3",
     "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x0995d8643645dd0cea60ab1acfa5ad2f642273d3",
     "tokenA": {
-      "image": "https://cross-pool.s3.eu-central-1.amazonaws.com/images/kyte.png",
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/kyte.png",
       "address": "0x0995d8643645dd0cea60ab1acfa5ad2f642273d3",
       "symbol": "KYTE"
     },

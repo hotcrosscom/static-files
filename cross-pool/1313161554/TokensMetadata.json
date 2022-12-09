@@ -49,7 +49,7 @@
     "symbol": "NEAR"
   },
   "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/17769.png",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/flux.svg",
     "name": "Flux Token",
     "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
     "decimals": 18,
@@ -185,7 +185,7 @@
       "symbol": "NEAR"
     },
     "tokenB": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/17769.png",
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/flux.svg",
       "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
       "symbol": "FLX"
     }
