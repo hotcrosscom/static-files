@@ -1431,7 +1431,7 @@
     "type": "lp",
     "buyTokenSymbol": "BANANA",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png",
       "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
@@ -1469,7 +1469,7 @@
     "type": "lp",
     "buyTokenSymbol": "HOTCROSS",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png",
       "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
@@ -1488,7 +1488,7 @@
     "type": "lp",
     "buyTokenSymbol": "TOON",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02/logo.png",
       "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
@@ -1507,7 +1507,7 @@
     "type": "lp",
     "buyTokenSymbol": "ETH",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
@@ -1564,7 +1564,7 @@
     "type": "lp",
     "buyTokenSymbol": "BUSD",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -1735,7 +1735,7 @@
     "type": "lp",
     "buyTokenSymbol": "MATIC",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
-    "addLiquidityLink": "https://apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/BNB",
+    "addLiquidityLink": "https://apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/ETH",
     "tokenA": {
       "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/MATIC_token.svg",
       "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
@@ -1754,7 +1754,7 @@
     "type": "lp",
     "buyTokenSymbol": "SUSHI",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
-    "addLiquidityLink": "https://apeswap.finance/add/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4/BNB",
+    "addLiquidityLink": "https://apeswap.finance/add/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4/ETH",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4/logo.png",
       "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
@@ -1773,7 +1773,7 @@
     "type": "lp",
     "buyTokenSymbol": "ADA",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-    "addLiquidityLink": "https://apeswap.finance/add/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/BNB",
+    "addLiquidityLink": "https://apeswap.finance/add/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/ETH",
     "tokenA": {
       "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ADA_token.svg",
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
@@ -1792,7 +1792,7 @@
     "type": "lp",
     "buyTokenSymbol": "APE",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
-    "addLiquidityLink": "https://apeswap.finance/add/0x0b079B33B6e72311c6BE245F9f660CC385029fc3/BNB",
+    "addLiquidityLink": "https://apeswap.finance/add/0x0b079B33B6e72311c6BE245F9f660CC385029fc3/ETH",
     "tokenA": {
       "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/apecoin_logo.png",
       "address": "0x0b079B33B6e72311c6BE245F9f660CC385029fc3",
@@ -3937,7 +3937,7 @@
     "type": "lp",
     "buyTokenSymbol": "BTCB",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "tokenA": {
       "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/btcb.png",
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
@@ -3955,7 +3955,7 @@
     "type": "lp",
     "buyTokenSymbol": "BIFI",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4009,7 +4009,7 @@
     "type": "lp",
     "buyTokenSymbol": "BAT",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x101d82428437127bF1608F699CD651e6Abf9766E",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x101d82428437127bF1608F699CD651e6Abf9766E",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x101d82428437127bF1608F699CD651e6Abf9766E",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
       "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
@@ -4045,7 +4045,7 @@
     "type": "lp",
     "buyTokenSymbol": "IOTA",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4063,7 +4063,7 @@
     "type": "lp",
     "buyTokenSymbol": "CAKE",
     "buyTokenLink": "https://apeswap.finance/swap/?outputCurrency=0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
@@ -4081,7 +4081,7 @@
     "type": "lp",
     "buyTokenSymbol": "ONT",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4099,7 +4099,7 @@
     "type": "lp",
     "buyTokenSymbol": "XRP",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
     "tokenA": {
       "image": "https://assets.coingecko.com/coins/images/15458/thumb/ryyrCapt_400x400.jpg?1620895978",
       "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
@@ -4117,7 +4117,7 @@
     "type": "lp",
     "buyTokenSymbol": "DOT",
     "buyTokenLink": "https://apeswap.finance/swap/?outputCurrency=0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/logo.png",
       "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
@@ -4135,7 +4135,7 @@
     "type": "lp",
     "buyTokenSymbol": "SXP",
     "buyTokenLink": "https://apeswap.finance/swap/?outputCurrency=0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png",
       "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
@@ -4153,7 +4153,7 @@
     "type": "lp",
     "buyTokenSymbol": "LINK",
     "buyTokenLink": "https://apeswap.finance/swap/?outputCurrency=0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4171,7 +4171,7 @@
     "type": "lp",
     "buyTokenSymbol": "DOGE",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
       "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
@@ -4189,7 +4189,7 @@
     "type": "lp",
     "buyTokenSymbol": "LTC",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
     "tokenA": {
       "image": "https://assets.coingecko.com/coins/images/15456/thumb/LrysCc5Q_400x400.jpg?1620895206",
       "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
@@ -4225,7 +4225,7 @@
     "type": "lp",
     "buyTokenSymbol": "AUTO",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xa184088a740c695E156F91f5cC086a06bb78b827",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xa184088a740c695E156F91f5cC086a06bb78b827",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xa184088a740c695E156F91f5cC086a06bb78b827",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png",
       "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
@@ -4243,7 +4243,7 @@
     "type": "lp",
     "buyTokenSymbol": "WATCH",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
     "tokenA": {
       "image": "https://assets.coingecko.com/coins/images/14186/thumb/WATCH1.png?1614825718",
       "address": "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
@@ -4261,7 +4261,7 @@
     "type": "lp",
     "buyTokenSymbol": "AAVE",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xfb6115445Bff7b52FeB98650C87f44907E58f802",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xfb6115445Bff7b52FeB98650C87f44907E58f802",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4279,7 +4279,7 @@
     "type": "lp",
     "buyTokenSymbol": "COMP",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
       "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
@@ -4297,7 +4297,7 @@
     "type": "lp",
     "buyTokenSymbol": "FTM",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
       "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
@@ -4315,7 +4315,7 @@
     "type": "lp",
     "buyTokenSymbol": "AVAX",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
       "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
@@ -4333,7 +4333,7 @@
     "type": "lp",
     "buyTokenSymbol": "ZEC",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
       "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
@@ -4351,7 +4351,7 @@
     "type": "lp",
     "buyTokenSymbol": "COTI",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3992.png",
       "address": "0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB",
@@ -4369,7 +4369,7 @@
     "type": "lp",
     "buyTokenSymbol": "NEAR",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
       "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
@@ -4387,7 +4387,7 @@
     "type": "lp",
     "buyTokenSymbol": "MOONLIGHT",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9848.png",
       "address": "0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
@@ -4405,7 +4405,7 @@
     "type": "lp",
     "buyTokenSymbol": "SNX",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
       "address": "0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
@@ -4423,7 +4423,7 @@
     "type": "lp",
     "buyTokenSymbol": "CELR",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png",
       "address": "0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163",
@@ -4441,7 +4441,7 @@
     "type": "lp",
     "buyTokenSymbol": "SHIB",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
     "tokenA": {
       "image": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446",
       "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
@@ -4459,7 +4459,7 @@
     "type": "lp",
     "buyTokenSymbol": "SKILL",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9654.png",
       "address": "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
@@ -4477,7 +4477,7 @@
     "type": "lp",
     "buyTokenSymbol": "SFP",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4495,7 +4495,7 @@
     "type": "lp",
     "buyTokenSymbol": "TWT",
     "buyTokenLink": "https://apeswap.finance/swap/?outputCurrency=0x4B0F1812e5Df2A09796481Ff14017e6005508003",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png",
       "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
@@ -4513,7 +4513,7 @@
     "type": "lp",
     "buyTokenSymbol": "XVS",
     "buyTokenLink": "https://apeswap.finance/swap/?outputCurrency=0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4531,7 +4531,7 @@
     "type": "lp",
     "buyTokenSymbol": "PACOCA",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x55671114d774ee99D653D6C12460c780a67f1D18",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x55671114d774ee99D653D6C12460c780a67f1D18",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x55671114d774ee99D653D6C12460c780a67f1D18",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10522.png",
       "address": "0x55671114d774ee99D653D6C12460c780a67f1D18",
@@ -4549,7 +4549,7 @@
     "type": "lp",
     "buyTokenSymbol": "NEWB",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x545f90dC35CA1e6129f1fEd354b3e2DF12034261",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x545f90dC35CA1e6129f1fEd354b3e2DF12034261",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x545f90dC35CA1e6129f1fEd354b3e2DF12034261",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10888.png",
       "address": "0x545f90dC35CA1e6129f1fEd354b3e2DF12034261",
@@ -4567,7 +4567,7 @@
     "type": "lp",
     "buyTokenSymbol": "YFI",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png",
       "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
@@ -4585,7 +4585,7 @@
     "type": "lp",
     "buyTokenSymbol": "STARS",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xbD83010eB60F12112908774998F65761cf9f6f9a",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xbD83010eB60F12112908774998F65761cf9f6f9a",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xbD83010eB60F12112908774998F65761cf9f6f9a",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4603,7 +4603,7 @@
     "type": "lp",
     "buyTokenSymbol": "AXS",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png",
       "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
@@ -4621,7 +4621,7 @@
     "type": "lp",
     "buyTokenSymbol": "LAND",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x9D986A3f147212327Dd658F712d5264a73a1fdB0",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x9D986A3f147212327Dd658F712d5264a73a1fdB0",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x9D986A3f147212327Dd658F712d5264a73a1fdB0",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11245.png",
       "address": "0x9D986A3f147212327Dd658F712d5264a73a1fdB0",
@@ -4639,7 +4639,7 @@
     "type": "lp",
     "buyTokenSymbol": "POTS",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11242.png",
       "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
@@ -4657,7 +4657,7 @@
     "type": "lp",
     "buyTokenSymbol": "CYT",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xd9025e25Bb6cF39f8c926A704039D2DD51088063",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xd9025e25Bb6cF39f8c926A704039D2DD51088063",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xd9025e25Bb6cF39f8c926A704039D2DD51088063",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4675,7 +4675,7 @@
     "type": "lp",
     "buyTokenSymbol": "BABI",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xec15a508a187e8DDfe572A5423Faa82Bbdd65120",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xec15a508a187e8DDfe572A5423Faa82Bbdd65120",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xec15a508a187e8DDfe572A5423Faa82Bbdd65120",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4693,7 +4693,7 @@
     "type": "lp",
     "buyTokenSymbol": "REVV",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6993.png",
       "address": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
@@ -4729,7 +4729,7 @@
     "type": "lp",
     "buyTokenSymbol": "POLAR",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xC64c9B30C981fc2eE4e13d0CA3f08258e725fd24",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xC64c9B30C981fc2eE4e13d0CA3f08258e725fd24",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xC64c9B30C981fc2eE4e13d0CA3f08258e725fd24",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4747,7 +4747,7 @@
     "type": "lp",
     "buyTokenSymbol": "CEEK",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4765,7 +4765,7 @@
     "type": "lp",
     "buyTokenSymbol": "ONG",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9",
     "tokenA": {
       "image": "https://assets.coingecko.com/coins/images/5716/small/ONG_logo.png?1583481389",
       "address": "0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9",
@@ -4783,7 +4783,7 @@
     "type": "lp",
     "buyTokenSymbol": "DEP",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4801,7 +4801,7 @@
     "type": "lp",
     "buyTokenSymbol": "TXL",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/7024.png",
       "address": "0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5",
@@ -4819,7 +4819,7 @@
     "type": "lp",
     "buyTokenSymbol": "NFTY",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x5774B2fc3e91aF89f89141EacF76545e74265982",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x5774B2fc3e91aF89f89141EacF76545e74265982",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x5774B2fc3e91aF89f89141EacF76545e74265982",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/12506.png",
       "address": "0x5774B2fc3e91aF89f89141EacF76545e74265982",
@@ -4837,7 +4837,7 @@
     "type": "lp",
     "buyTokenSymbol": "IHC",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/14371.png",
       "address": "0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
@@ -4855,7 +4855,7 @@
     "type": "lp",
     "buyTokenSymbol": "PROS",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4873,7 +4873,7 @@
     "type": "lp",
     "buyTokenSymbol": "OTAKU",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x484215873a674F9af73367a8F94c2C591e997521",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x484215873a674F9af73367a8F94c2C591e997521",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x484215873a674F9af73367a8F94c2C591e997521",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/12622.png",
       "address": "0x484215873a674F9af73367a8F94c2C591e997521",
@@ -4891,7 +4891,7 @@
     "type": "lp",
     "buyTokenSymbol": "FIL",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
       "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
@@ -4909,7 +4909,7 @@
     "type": "lp",
     "buyTokenSymbol": "TOWER",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xe7c9C6bc87B86f9E5b57072F907EE6460B593924",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xe7c9C6bc87B86f9E5b57072F907EE6460B593924",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xe7c9C6bc87B86f9E5b57072F907EE6460B593924",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4927,7 +4927,7 @@
     "type": "lp",
     "buyTokenSymbol": "LIME",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10469.png",
       "address": "0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
@@ -4945,7 +4945,7 @@
     "type": "lp",
     "buyTokenSymbol": "FXS",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -4981,7 +4981,7 @@
     "type": "lp",
     "buyTokenSymbol": "QUIDD",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/12070.png",
       "address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
@@ -4999,7 +4999,7 @@
     "type": "lp",
     "buyTokenSymbol": "LMN",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7251C7A2155d8FEDb42a1DC4333aDe589e4d6919",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7251C7A2155d8FEDb42a1DC4333aDe589e4d6919",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7251C7A2155d8FEDb42a1DC4333aDe589e4d6919",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/14105.png",
       "address": "0x7251C7A2155d8FEDb42a1DC4333aDe589e4d6919",
@@ -5017,7 +5017,7 @@
     "type": "lp",
     "buyTokenSymbol": "GMEE",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x84e9a6F9D240FdD33801f7135908BfA16866939A",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x84e9a6F9D240FdD33801f7135908BfA16866939A",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x84e9a6F9D240FdD33801f7135908BfA16866939A",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9103.png",
       "address": "0x84e9a6F9D240FdD33801f7135908BfA16866939A",
@@ -5035,7 +5035,7 @@
     "type": "lp",
     "buyTokenSymbol": "rASKO",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xd118f42eDbc839F7e1E85d5269A25288792c141B",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xd118f42eDbc839F7e1E85d5269A25288792c141B",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xd118f42eDbc839F7e1E85d5269A25288792c141B",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -5053,7 +5053,7 @@
     "type": "lp",
     "buyTokenSymbol": "STZ",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7FE378c5e0B5C32AF2ecc8829beDF02245A0E4eF",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7FE378c5e0B5C32AF2ecc8829beDF02245A0E4eF",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7FE378c5e0B5C32AF2ecc8829beDF02245A0E4eF",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/15936.png",
       "address": "0x7FE378c5e0B5C32AF2ecc8829beDF02245A0E4eF",
@@ -5071,7 +5071,7 @@
     "type": "lp",
     "buyTokenSymbol": "LOA",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/15870.png",
       "address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
@@ -5107,7 +5107,7 @@
     "type": "lp",
     "buyTokenSymbol": "KAI",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x39Ae8EEFB05138f418Bb27659c21632Dc1DDAb10",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x39Ae8EEFB05138f418Bb27659c21632Dc1DDAb10",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x39Ae8EEFB05138f418Bb27659c21632Dc1DDAb10",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png",
       "address": "0x39Ae8EEFB05138f418Bb27659c21632Dc1DDAb10",
@@ -5125,7 +5125,7 @@
     "type": "lp",
     "buyTokenSymbol": "DOSE",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x7837fd820bA38f95c54D6dAC4ca3751b81511357",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x7837fd820bA38f95c54D6dAC4ca3751b81511357",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x7837fd820bA38f95c54D6dAC4ca3751b81511357",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/12315.png",
       "address": "0x7837fd820bA38f95c54D6dAC4ca3751b81511357",
@@ -5143,7 +5143,7 @@
     "type": "lp",
     "buyTokenSymbol": "MYRA",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/13509.png",
       "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
@@ -5161,7 +5161,7 @@
     "type": "lp",
     "buyTokenSymbol": "GODZ",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -5179,7 +5179,7 @@
     "type": "lp",
     "buyTokenSymbol": "MNFT",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x36953B5Ec00A13eDcEceB3aF258D034913D2A79D",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x36953B5Ec00A13eDcEceB3aF258D034913D2A79D",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x36953B5Ec00A13eDcEceB3aF258D034913D2A79D",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/16182.png",
       "address": "0x36953B5Ec00A13eDcEceB3aF258D034913D2A79D",
@@ -5197,7 +5197,7 @@
     "type": "lp",
     "buyTokenSymbol": "GMR",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/15830.png",
       "address": "0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884",
@@ -5215,7 +5215,7 @@
     "type": "lp",
     "buyTokenSymbol": "BCMC",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xc10358f062663448a3489fC258139944534592ac",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xc10358f062663448a3489fC258139944534592ac",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xc10358f062663448a3489fC258139944534592ac",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -5233,7 +5233,7 @@
     "type": "lp",
     "buyTokenSymbol": "eLunr",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x37807D4fbEB84124347B8899Dd99616090D3e304",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x37807D4fbEB84124347B8899Dd99616090D3e304",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x37807D4fbEB84124347B8899Dd99616090D3e304",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/12971.png",
       "address": "0x37807D4fbEB84124347B8899Dd99616090D3e304",
@@ -5251,7 +5251,7 @@
     "type": "lp",
     "buyTokenSymbol": "TRUSTNFT",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x08F725D2809FdA409Bc23493F3615a4c85a22d7d",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x08F725D2809FdA409Bc23493F3615a4c85a22d7d",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x08F725D2809FdA409Bc23493F3615a4c85a22d7d",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/14676.png",
       "address": "0x08F725D2809FdA409Bc23493F3615a4c85a22d7d",
@@ -5287,7 +5287,7 @@
     "type": "lp",
     "buyTokenSymbol": "ANML",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x06FDA0758c17416726f77Cb11305EAC94C074Ec0",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x06FDA0758c17416726f77Cb11305EAC94C074Ec0",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x06FDA0758c17416726f77Cb11305EAC94C074Ec0",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/17589.png",
       "address": "0x06FDA0758c17416726f77Cb11305EAC94C074Ec0",
@@ -5305,7 +5305,7 @@
     "type": "lp",
     "buyTokenSymbol": "BOUNTIE",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x00f80a8f39bb4D04a3038C497E3642bf1B0A304e",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x00f80a8f39bb4D04a3038C497E3642bf1B0A304e",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x00f80a8f39bb4D04a3038C497E3642bf1B0A304e",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/18982.png",
       "address": "0x00f80a8f39bb4D04a3038C497E3642bf1B0A304e",
@@ -5323,7 +5323,7 @@
     "type": "lp",
     "buyTokenSymbol": "aBNBc",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -5377,7 +5377,7 @@
     "type": "lp",
     "buyTokenSymbol": "BICO",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x06250a4962558F0F3E69FC07F4c67BB9c9eAc739",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x06250a4962558F0F3E69FC07F4c67BB9c9eAc739",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x06250a4962558F0F3E69FC07F4c67BB9c9eAc739",
     "tokenA": {
       "image": "https://assets.coingecko.com/coins/images/21061/small/biconomy_logo.jpg?1638269749",
       "address": "0x06250a4962558F0F3E69FC07F4c67BB9c9eAc739",
@@ -5395,7 +5395,7 @@
     "type": "lp",
     "buyTokenSymbol": "CPO",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xea395DFaFEd39924988b475f2Ca7f4C72655203A",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xea395DFaFEd39924988b475f2Ca7f4C72655203A",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xea395DFaFEd39924988b475f2Ca7f4C72655203A",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -5413,7 +5413,7 @@
     "type": "lp",
     "buyTokenSymbol": "Froyo",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -5431,7 +5431,7 @@
     "type": "lp",
     "buyTokenSymbol": "PRIMATE",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/19229.png",
       "address": "0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c",
@@ -5467,7 +5467,7 @@
     "type": "lp",
     "buyTokenSymbol": "ROOBEE",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xF77351D8f4eE853135961A936BB8d2e4fFa75f9D",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xF77351D8f4eE853135961A936BB8d2e4fFa75f9D",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xF77351D8f4eE853135961A936BB8d2e4fFa75f9D",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -5485,7 +5485,7 @@
     "type": "lp",
     "buyTokenSymbol": "VTG",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46",
     "tokenA": {
       "image": "https://assets.coingecko.com/coins/images/25270/thumb/vtg.png?1651117782",
       "address": "0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46",
@@ -5557,7 +5557,7 @@
     "type": "lp",
     "buyTokenSymbol": "HEC",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
     "tokenA": {
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/13881.png",
       "address": "0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
@@ -5611,7 +5611,7 @@
     "type": "lp",
     "buyTokenSymbol": "CHRP",
     "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB",
-    "addLiquidityLink": "https://apeswap.finance/add/BNB/0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB",
+    "addLiquidityLink": "https://apeswap.finance/add/ETH/0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB",
     "tokenA": {
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
