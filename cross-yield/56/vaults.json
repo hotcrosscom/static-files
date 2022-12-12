@@ -3462,6 +3462,6 @@
     "poolId": 121,
     "crossYieldZap": "0xe2C257eC2f16bF3d51F69CA9cbB58bAfe2828DD5",
     "feeManager": "0x59667BB73fc275f76D630845D4B74b71f7AAd95b",
-    "platform": "Pancakeswap"
+    "platform": "PancakeSwap"
   }
 ]
