@@ -1406,14 +1406,14 @@
     "symbol": "HAY"
   },
   "0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/20444.png",
+    "image": "https://tokens.pancakeswap.finance/images/0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd.png",
     "name": "SQUAD",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd",
     "decimals": 18,
     "symbol": "SQUAD"
   },
   "0x37a56cdcD83Dce2868f721De58cB3830C44C6303": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/18860.png",
+    "image": "https://tokens.pancakeswap.finance/images/0x37a56cdcD83Dce2868f721De58cB3830C44C6303.png",
     "name": "ZEBEC",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x37a56cdcD83Dce2868f721De58cB3830C44C6303",
     "decimals": 9,
@@ -1434,7 +1434,7 @@
     "symbol": "CHAMP"
   },
   "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9638.png",
+    "image": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240/logo.png",
     "name": "Singularity Dao",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
     "decimals": 18,
@@ -1448,7 +1448,7 @@
     "symbol": "CSIX"
   },
   "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9291.png",
+    "image": "https://tokens.pancakeswap.finance/images/0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4.png",
     "name": "Capsule Coin",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
     "decimals": 18,
@@ -1462,7 +1462,7 @@
     "symbol": "XCAD"
   },
   "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB": {
-    "image": "https://assets.coingecko.com/coins/images/26450/thumb/PEEL200x200.png?1658112274",
+    "image": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB/logo.png",
     "name": "Meta Apes Peel",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
     "decimals": 18,
@@ -1476,14 +1476,14 @@
     "symbol": "ARV"
   },
   "0x37b53894e7429f794B56F22a32E1695567Ee9913": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/22112.png",
+    "image": "https://tokens.pancakeswap.finance/images/0x37b53894e7429f794B56F22a32E1695567Ee9913.png",
     "name": "Kingdom Raids",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x37b53894e7429f794B56F22a32E1695567Ee9913",
     "decimals": 18,
     "symbol": "KRS"
   },
   "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD": {
-    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/22239.png",
+    "image": "https://tokens.pancakeswap.finance/images/0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD.png",
     "name": "Wombex Token",
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
     "decimals": 18,
@@ -5727,7 +5727,7 @@
       "symbol": "CAKE"
     },
     "tokenB": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/20444.png",
+      "image": "https://tokens.pancakeswap.finance/images/0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd.png",
       "address": "0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd",
       "symbol": "SQUAD"
     }
@@ -5745,7 +5745,7 @@
       "symbol": "CAKE"
     },
     "tokenB": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/18860.png",
+      "image": "https://tokens.pancakeswap.finance/images/0x37a56cdcD83Dce2868f721De58cB3830C44C6303.png",
       "address": "0x37a56cdcD83Dce2868f721De58cB3830C44C6303",
       "symbol": "ZBC"
     }
@@ -5794,7 +5794,7 @@
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
     "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
     "tokenA": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9638.png",
+      "image": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240/logo.png",
       "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
       "symbol": "SDAO"
     },
@@ -5853,7 +5853,7 @@
       "symbol": "WBNB"
     },
     "tokenB": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9291.png",
+      "image": "https://tokens.pancakeswap.finance/images/0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4.png",
       "address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
       "symbol": "CAPS"
     }
@@ -5884,7 +5884,7 @@
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
     "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
     "tokenA": {
-      "image": "https://assets.coingecko.com/coins/images/26450/thumb/PEEL200x200.png?1658112274",
+      "image": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB/logo.png",
       "address": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
       "symbol": "PEEL"
     },
@@ -5920,7 +5920,7 @@
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x37b53894e7429f794B56F22a32E1695567Ee9913",
     "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x37b53894e7429f794B56F22a32E1695567Ee9913",
     "tokenA": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/22112.png",
+      "image": "https://tokens.pancakeswap.finance/images/0x37b53894e7429f794B56F22a32E1695567Ee9913.png",
       "address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
       "symbol": "KRS"
     },
@@ -5938,7 +5938,7 @@
     "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
     "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
     "tokenA": {
-      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/22239.png",
+      "image": "https://tokens.pancakeswap.finance/images/0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD.png",
       "address": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
       "symbol": "WMX"
     },
