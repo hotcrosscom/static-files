@@ -3656,7 +3656,8 @@
     "platform": "PancakeSwap",
     "excludedTokens": [
       "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
-      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     ]
   },
   {
