@@ -1496,6 +1496,104 @@
     "decimals": 18,
     "symbol": "MGP"
   },
+  "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11038.png",
+    "name": "BFG Token",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+    "decimals": 18,
+    "symbol": "BFG"
+  },
+  "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+    "name": "Zilliqa",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+    "decimals": 12,
+    "symbol": "ZIL"
+  },
+  "0xd15C444F1199Ae72795eba15E8C1db44E47abF62": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10031.png",
+    "name": "TEN Finance",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+    "decimals": 18,
+    "symbol": "TENFI"
+  },
+  "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/16116.png",
+    "name": "SOLANA",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+    "decimals": 18,
+    "symbol": "SOL"
+  },
+  "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+    "name": "EOS Token",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+    "decimals": 18,
+    "symbol": "EOS"
+  },
+  "0x0Eb3a705fc54725037CC9e008bDede697f62F335": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+    "name": "Cosmos Token",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "decimals": 18,
+    "symbol": "ATOM"
+  },
+  "0x76A797A59Ba2C17726896976B7B3747BfD1d220f": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
+    "name": "Wrapped TON Coin",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+    "decimals": 9,
+    "symbol": "TONCOIN"
+  },
+  "0x4803Ac6b79F9582F69c4fa23c72cb76dD1E46d8d": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/17133.png",
+    "name": "TopManager Token",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4803Ac6b79F9582F69c4fa23c72cb76dD1E46d8d",
+    "decimals": 18,
+    "symbol": "TMT"
+  },
+  "0x3d6545b08693daE087E957cb1180ee38B9e3c25E": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+    "name": "Ethereum Classic",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+    "decimals": 18,
+    "symbol": "ETC"
+  },
+  "0x475bFaa1848591ae0E6aB69600f48d828f61a80E": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/16432.png",
+    "name": "Everdome",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+    "decimals": 18,
+    "symbol": "DOME"
+  },
+  "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf": {
+    "image": "https://assets.coingecko.com/coins/images/15774/thumb/bitcoin-cash-circle.png?1621834955",
+    "name": "Bitcoin Cash Token",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "decimals": 18,
+    "symbol": "BCH"
+  },
+  "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+    "name": "Elrond",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+    "decimals": 18,
+    "symbol": "EGLD"
+  },
+  "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888": {
+    "image": "https://tokens.pancakeswap.finance/images/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888.png",
+    "name": "VeChain",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+    "decimals": 18,
+    "symbol": "VET"
+  },
+  "0xa045E37a0D1dd3A45fefb8803D22457abc0A728a": {
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/21198.png",
+    "name": "Grizzly Honey",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xa045E37a0D1dd3A45fefb8803D22457abc0A728a",
+    "decimals": 18,
+    "symbol": "GHNY"
+  },
   "0xB6040A9F294477dDAdf5543a24E5463B8F2423Ae": {
     "name": "HAY-BUSD Pair",
     "symbol": "HAY-BUSD",
@@ -5964,6 +6062,780 @@
       "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "symbol": "BUSD"
+    }
+  },
+  "0x63b30de1A998e9E64FD58A21F68D323B9BcD8F85": {
+    "name": "ETH-USDT Pair",
+    "symbol": "ETH-USDT",
+    "type": "lp",
+    "buyTokenSymbol": "ETH",
+    "buyTokenLink": "https://pancakeswap.finance/swap/?outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0x55d398326f99059fF775485246999027B3197955/0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    }
+  },
+  "0xe7fbB8bd95322618e925affd84D7eC0E32DC0e57": {
+    "name": "DOT-BNB Pair",
+    "symbol": "DOT-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "DOT",
+    "buyTokenLink": "https://pancakeswap.finance/swap/?outputCurrency=0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/logo.png",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+      "symbol": "DOT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x153dC2eBcB551799b13D4E6Ff84fC34C7AEDf241": {
+    "name": "BNB-UNI Pair",
+    "symbol": "BNB-UNI",
+    "type": "lp",
+    "buyTokenSymbol": "UNI",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+      "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+      "symbol": "UNI"
+    }
+  },
+  "0x8860922Eb2795aB0D57363653Dd7EBf18D7c0A42": {
+    "name": "ADA-BNB Pair",
+    "symbol": "ADA-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "ADA",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+    "tokenA": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ADA_token.svg",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "symbol": "ADA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x5dc30Bb8D7F02eFEf28f7E637D17Aea13Fa96906": {
+    "name": "XRP-BNB Pair",
+    "symbol": "XRP-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "XRP",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "tokenA": {
+      "image": "https://assets.coingecko.com/coins/images/15458/thumb/ryyrCapt_400x400.jpg?1620895978",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "symbol": "XRP"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x1eF315fa08e0E1B116D97E3dFE0aF292Ed8b7f02": {
+    "name": "DOGE-BNB Pair",
+    "symbol": "DOGE-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "DOGE",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "symbol": "DOGE"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x16Fe21c91c426E603977b1C6EcD59Fc510a518C2": {
+    "name": "BNB-LINK Pair",
+    "symbol": "BNB-LINK",
+    "type": "lp",
+    "buyTokenSymbol": "LINK",
+    "buyTokenLink": "https://pancakeswap.finance/swap/?outputCurrency=0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "symbol": "LINK"
+    }
+  },
+  "0x52A499333A7837a72a9750849285E0bb8552dE5A": {
+    "name": "FIL-USDT Pair",
+    "symbol": "FIL-USDT",
+    "type": "lp",
+    "buyTokenSymbol": "FIL",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0x55d398326f99059fF775485246999027B3197955/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+      "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+      "symbol": "FIL"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    }
+  },
+  "0x753C734Dfe05aF28A732C033e26Ea6D369e07662": {
+    "name": "BNB-XVS Pair",
+    "symbol": "BNB-XVS",
+    "type": "lp",
+    "buyTokenSymbol": "XVS",
+    "buyTokenLink": "https://pancakeswap.finance/swap/?outputCurrency=0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png",
+      "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+      "symbol": "XVS"
+    }
+  },
+  "0xF1A12EC907B3d87b6De7a9A5C3820566c621f68B": {
+    "name": "TWT-BNB Pair",
+    "symbol": "TWT-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "TWT",
+    "buyTokenLink": "https://pancakeswap.finance/swap/?outputCurrency=0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png",
+      "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+      "symbol": "TWT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xDE5e03bC7014D65aF8F9fe8F11FDb5B5b9116F7b": {
+    "name": "TKO-BNB Pair",
+    "symbol": "TKO-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "TKO",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png",
+      "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+      "symbol": "TKO"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x857f601Df3Eac2f25E25dBd2B33D94bCd6F47d1C": {
+    "name": "BNB-SFP Pair",
+    "symbol": "BNB-SFP",
+    "type": "lp",
+    "buyTokenSymbol": "SFP",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png",
+      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+      "symbol": "SFP"
+    }
+  },
+  "0xedc3f1edB8811d2aE4aD6666D77521ae817F2ef1": {
+    "name": "SXP-BNB Pair",
+    "symbol": "SXP-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "SXP",
+    "buyTokenLink": "https://pancakeswap.finance/swap/?outputCurrency=0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png",
+      "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+      "symbol": "SXP"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x88d483697F8E3FC8f5674F322d3a59ce786aCcD5": {
+    "name": "BSW-BFG Pair",
+    "symbol": "BSW-BFG",
+    "type": "lp",
+    "buyTokenSymbol": "BSW",
+    "buyTokenLink": "https://exchange.biswap.org/#/swap?outputCurrency=0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1/logo.png",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+      "symbol": "BSW"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11038.png",
+      "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+      "symbol": "BFG"
+    }
+  },
+  "0x8410c28A6e4074a148F9205712C6b54d12F7282C": {
+    "name": "ALPACA-BUSD Pair",
+    "symbol": "ALPACA-BUSD",
+    "type": "lp",
+    "buyTokenSymbol": "ALPACA",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png",
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+      "symbol": "ALPACA"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0x76e1B3B2B15A4Ff61aB3E245d6b98ae808DEe6e1": {
+    "name": "MBOX-BNB Pair",
+    "symbol": "MBOX-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "MBOX",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png",
+      "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+      "symbol": "MBOX"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xeb80530DbBdf489e7a20175Ceaa80d4253062DD4": {
+    "name": "BNB-BIFI Pair",
+    "symbol": "BNB-BIFI",
+    "type": "lp",
+    "buyTokenSymbol": "BIFI",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/7311.png",
+      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+      "symbol": "BIFI"
+    }
+  },
+  "0xe41F46AEF7594Cc43FC57edf2b0fDC377900BC4E": {
+    "name": "ZIL-BNB Pair",
+    "symbol": "ZIL-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "ZIL",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+      "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+      "symbol": "ZIL"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xf9FAdb9222848Cde36c0C06cF88776DC41937083": {
+    "name": "BNB-TENFI Pair",
+    "symbol": "BNB-TENFI",
+    "type": "lp",
+    "buyTokenSymbol": "TENFI",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10031.png",
+      "address": "0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+      "symbol": "TENFI"
+    }
+  },
+  "0x49859419c83465eeeEdD7b1D30dB99CE58C88Ec3": {
+    "name": "SHIB-BNB Pair",
+    "symbol": "SHIB-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "SHIB",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "tokenA": {
+      "image": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446",
+      "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+      "symbol": "SHIB"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x7bfCd2bda87fd2312A946BD9b68f5Acc6E21595a": {
+    "name": "FTM-BNB Pair",
+    "symbol": "FTM-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "FTM",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+      "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+      "symbol": "FTM"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x3B09e13Ca9189FBD6a196cfE5FbD477C885afBf3": {
+    "name": "BNB-MATIC Pair",
+    "symbol": "BNB-MATIC",
+    "type": "lp",
+    "buyTokenSymbol": "MATIC",
+    "buyTokenLink": "https://apeswap.finance/swap?outputCurrency=0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/MATIC_token.svg",
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "symbol": "MATIC"
+    }
+  },
+  "0x3530F7d8D55c93D778e17cbd30bf9eB07b884f35": {
+    "name": "SOL-BNB Pair",
+    "symbol": "SOL-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "SOL",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/16116.png",
+      "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+      "symbol": "SOL"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x2f3899fFB9FdCf635132F7bb94c1a3A0F906cc6f": {
+    "name": "AVAX-BNB Pair",
+    "symbol": "AVAX-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "AVAX",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "symbol": "AVAX"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xa34E97d80b76315665687E36c0E8b7f6a611685F": {
+    "name": "AUTO-BNB Pair",
+    "symbol": "AUTO-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "AUTO",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xa184088a740c695E156F91f5cC086a06bb78b827",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xa184088a740c695E156F91f5cC086a06bb78b827",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png",
+      "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+      "symbol": "AUTO"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x7683f8349376F297138D3082e236F0E34aF1D1c3": {
+    "name": "EOS-BNB Pair",
+    "symbol": "EOS-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "EOS",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+      "symbol": "EOS"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x5a36E9659F94F27e4526DDf6Dd8f0c3B3386D7F3": {
+    "name": "ATOM-BNB Pair",
+    "symbol": "ATOM-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "ATOM",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+      "symbol": "ATOM"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xe73fe11863e4C3714EAFDee832a0987b33651f27": {
+    "name": "ONE-BNB Pair",
+    "symbol": "ONE-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "ONE",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x03fF0ff224f904be3118461335064bB48Df47938",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x03fF0ff224f904be3118461335064bB48Df47938",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11696.png",
+      "address": "0x03fF0ff224f904be3118461335064bB48Df47938",
+      "symbol": "ONE"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x923dD5668A0F373B714f8D230425ed7799c5d63D": {
+    "name": "USDT-TONCOIN Pair",
+    "symbol": "USDT-TONCOIN",
+    "type": "lp",
+    "buyTokenSymbol": "TONCOIN",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0x55d398326f99059fF775485246999027B3197955/0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
+      "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+      "symbol": "TONCOIN"
+    }
+  },
+  "0x1a4f4d0d183f885D05A14a6Dabfba643dA39559A": {
+    "name": "TMT-BUSD Pair",
+    "symbol": "TMT-BUSD",
+    "type": "lp",
+    "buyTokenSymbol": "TMT",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4803Ac6b79F9582F69c4fa23c72cb76dD1E46d8d",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x4803Ac6b79F9582F69c4fa23c72cb76dD1E46d8d",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/17133.png",
+      "address": "0x4803Ac6b79F9582F69c4fa23c72cb76dD1E46d8d",
+      "symbol": "TMT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0xB4c88543Bd95617Fb61F3d031B8E8E19aF33201E": {
+    "name": "BUSD-GQ Pair",
+    "symbol": "BUSD-GQ",
+    "type": "lp",
+    "buyTokenSymbol": "GQ",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xF700D4c708C2be1463E355F337603183D20E0808",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0xF700D4c708C2be1463E355F337603183D20E0808",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    },
+    "tokenB": {
+      "image": "https://assets.coingecko.com/coins/images/24059/thumb/logo_gg.png?1648630827",
+      "address": "0xF700D4c708C2be1463E355F337603183D20E0808",
+      "symbol": "GQ"
+    }
+  },
+  "0x1Cba970a6E06d4BcC0c4717BE677d1A8AA0211DA": {
+    "name": "ETC-BNB Pair",
+    "symbol": "ETC-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "ETC",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+      "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+      "symbol": "ETC"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x5843d070F37ef8579CC3903B486DE1FDA80904D0": {
+    "name": "DAR-USDT Pair",
+    "symbol": "DAR-USDT",
+    "type": "lp",
+    "buyTokenSymbol": "DAR",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0x55d398326f99059fF775485246999027B3197955/0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png",
+      "address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
+      "symbol": "DAR"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    }
+  },
+  "0xb2Bdc08028872309c034862BC2f76dc61267b088": {
+    "name": "BNB-GAL Pair",
+    "symbol": "BNB-GAL",
+    "type": "lp",
+    "buyTokenSymbol": "GAL",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11877.png",
+      "address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+      "symbol": "GAL"
+    }
+  },
+  "0xFd9B7Fd5AAd32aa431fe19bEB1d73013aabbe9C6": {
+    "name": "AOG-BUSD Pair",
+    "symbol": "AOG-BUSD",
+    "type": "lp",
+    "buyTokenSymbol": "AOG",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/16679.png",
+      "address": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
+      "symbol": "AOG"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0xbC8F1701748B99BD9EF3456FED534c9437b59EEa": {
+    "name": "DOME-BNB Pair",
+    "symbol": "DOME-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "DOME",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/16432.png",
+      "address": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+      "symbol": "DOME"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x910dE0B7075BF654Dc588e3c10DEd4FE1C6bBE87": {
+    "name": "BCH-BNB Pair",
+    "symbol": "BCH-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "BCH",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "tokenA": {
+      "image": "https://assets.coingecko.com/coins/images/15774/thumb/bitcoin-cash-circle.png?1621834955",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "symbol": "BCH"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x46c2b98471144537AcFF010A42675De31cd56Dd9": {
+    "name": "BNB-EGLD Pair",
+    "symbol": "BNB-EGLD",
+    "type": "lp",
+    "buyTokenSymbol": "EGLD",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+      "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+      "symbol": "EGLD"
+    }
+  },
+  "0x6882A3CDdA124FfE6587328fc0f473A2A7Fd973c": {
+    "name": "VET-BNB Pair",
+    "symbol": "VET-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "VET",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+    "tokenA": {
+      "image": "https://tokens.pancakeswap.finance/images/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888.png",
+      "address": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+      "symbol": "VET"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0xa099F0D90Eb17283Ae7d302d0a6ebb0CaCab39DF": {
+    "name": "BAT-BNB Pair",
+    "symbol": "BAT-BNB",
+    "type": "lp",
+    "buyTokenSymbol": "BAT",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x101d82428437127bF1608F699CD651e6Abf9766E",
+    "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x101d82428437127bF1608F699CD651e6Abf9766E",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+      "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
+      "symbol": "BAT"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB"
+    }
+  },
+  "0x2b702b4E676B51f98c6B4aF1b2caFD6A9FC2a3e0": {
+    "name": "GHNY-BUSD Pair",
+    "symbol": "GHNY-BUSD",
+    "type": "lp",
+    "buyTokenSymbol": "GHNY",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xa045E37a0D1dd3A45fefb8803D22457abc0A728a",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0xa045E37a0D1dd3A45fefb8803D22457abc0A728a",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/21198.png",
+      "address": "0xa045E37a0D1dd3A45fefb8803D22457abc0A728a",
+      "symbol": "GHNY"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD"
+    }
+  },
+  "0xe0625903565bfCDd738b7AB9b156CB14DC9977b3": {
+    "name": "USDT-BFG Pair",
+    "symbol": "USDT-BFG",
+    "type": "lp",
+    "buyTokenSymbol": "BFG",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0x55d398326f99059fF775485246999027B3197955/0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+    "tokenA": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
+    },
+    "tokenB": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11038.png",
+      "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+      "symbol": "BFG"
+    }
+  },
+  "0x203C426C2cBDE770d8730FCBE64d16C8064F68FB": {
+    "name": "CSIX-USDT Pair",
+    "symbol": "CSIX-USDT",
+    "type": "lp",
+    "buyTokenSymbol": "CSIX",
+    "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x04756126F044634C9a0f0E985e60c88a51ACC206",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0x55d398326f99059fF775485246999027B3197955/0x04756126F044634C9a0f0E985e60c88a51ACC206",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23546.png",
+      "address": "0x04756126F044634C9a0f0E985e60c88a51ACC206",
+      "symbol": "CSIX"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT"
     }
   }
 }
