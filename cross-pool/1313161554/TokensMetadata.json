@@ -387,5 +387,23 @@
       "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
       "symbol": "NEAR"
     }
+  },
+  "0x84b123875F0F36B966d0B6Ca14b31121bd9676AD": {
+    "name": "NEAR-TRI Pair",
+    "symbol": "NEAR-TRI",
+    "type": "lp",
+    "buyTokenSymbol": "NEAR",
+    "buyTokenLink": "https://www.trisolaris.io/#/swap?outputCurrency=0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "addLiquidityLink": "https://pancakeswap.finance/add/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "tokenA": {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "symbol": "NEAR"
+    },
+    "tokenB": {
+      "image": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png",
+      "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+      "symbol": "TRI"
+    }
   }
 }

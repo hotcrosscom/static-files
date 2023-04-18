@@ -227,5 +227,21 @@
     "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
     "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
     "platform": "Trisolaris"
+  },
+  {
+    "contractAddress": "0xe9C157d3d43874184B928DB029D80Dea57516D3A",
+    "strategy": "0x02445463E3852b764C10577B6cbBd2E527E9a6d8",
+    "farmingToken": "0x84b123875F0F36B966d0B6Ca14b31121bd9676AD",
+    "farmingTokenDecimals": 18,
+    "token0": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+    "token1": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+    "blockNumber": 89532787,
+    "name": "NEAR-TRI",
+    "ibtSymbol": "HY-NEAR-TRI-TRI",
+    "masterchef": "0x3838956710bcc9D122Dd23863a0549ca8D5675D6",
+    "poolId": 38,
+    "crossYieldZap": "0x9d1d155C51cdf54008590870661e209E53BcD278",
+    "feeManager": "0x60C8206d7046E726B968A76a46194da27F0e3497",
+    "platform": "Trisolaris"
   }
 ]
